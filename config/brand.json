@@ -1,0 +1,13 @@
+{
+  "name": "KSDA Learning Hub",
+  "description": "Knowledge, Skill, Desire and Action \u2014 practical learning with private reflection.",
+  "siteUrl": "https://learning.example.com",
+  "logoPath": "/brand/ksda-mark.svg",
+  "supportEmail": "",
+  "legalName": "Your organisation",
+  "shopUrl": "",
+  "accentColor": "#6b5623",
+  "locale": "en-MY",
+  "timeZone": "Asia/Kuala_Lumpur",
+  "accentColorDark": "#efd477"
+}

@@ -1,0 +1,1939 @@
+{
+  "courses": [
+    {
+      "slug": "fire-life-safety",
+      "title": "Fire & Life Safety Awareness",
+      "campaignTitle": "Notice the Risk. Prepare the Exit.",
+      "missionCount": 6,
+      "reviewState": "DRAFT",
+      "contentVersion": "1.0.0",
+      "missions": [
+        {
+          "id": "fire-m01",
+          "title": "Notice what normal hides",
+          "purpose": "Notice a hazardous condition while staying within a safe observation role.",
+          "knowledge": "Explain the source distinction between an ordinary object and the condition that makes it risky; recognise the five source hazard groups and the heat/fuel framing.",
+          "skill": "Observe a supplied scene and justify two priority observations.",
+          "desire": "Connect one ordinary routine to a person or responsibility the learner cares about, privately and without guilt.",
+          "action": "Complete one low-risk observation exercise and identify a specific issue for safe follow-up.",
+          "minutes": 28,
+          "estimatedScreenMinutes": 18,
+          "estimatedPracticeMinutes": 10,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "fire-m01-brief",
+              "type": "mission_brief",
+              "heading": "Notice what normal hides",
+              "body": [
+                "Your job is to notice, not to investigate a dangerous object. What would deserve attention before the next ordinary evening?",
+                "Choose a private observation in an already safe, accessible area or the equivalent fictional household exercise. Both are valid ways to practise."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 1–24",
+                "M01-W: pages 1–6"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m01-boundary",
+              "type": "safety_boundary",
+              "heading": "Keep observation low risk",
+              "body": [
+                "Observe from a safe position. Do not move or test suspect objects, touch suspect electrical equipment, produce smoke, light anything or enter danger.",
+                "Keep household details on your own paper. You do not need to name people, share a home layout or upload a photo."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 4, 18–19",
+                "M01-W: pages 2"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m01-knowledge",
+              "type": "knowledge_card",
+              "heading": "Name the condition",
+              "body": [
+                "An observation needs more than the name of an ordinary object. Describe the condition or arrangement that makes it deserve attention.",
+                "Separate what the scene shows from what you do not know. A useful explanation connects a visible condition with a reason to follow up."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 13, 16–22",
+                "M01-W: pages 4–5"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m01-observe",
+              "type": "spot_risk",
+              "heading": "Choose two observations",
+              "body": [
+                "In the fictional household scene, choose two observations and explain why each deserves attention.",
+                "Describe the condition attached to each observation. When the scene changes, look again and reconsider your priorities."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 12, 23",
+                "M01-W: pages 6"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m01-relevance",
+              "type": "relevance_prompt",
+              "heading": "Connect it to an ordinary responsibility",
+              "body": [
+                "Which everyday responsibility makes this worth noticing? Think privately; you do not need to enter anyone’s name."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 1–14",
+                "M01-W: pages 4"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m01-action",
+              "type": "field_mission",
+              "heading": "Observe and choose a follow-up",
+              "body": [
+                "Complete your safe observation or the fictional observation-and-recheck exercise. Privately note two observations and one specific follow-up.",
+                "The performed observation is the Action. Planning to look later is a next step, not completion of this task."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 1–24",
+                "M01-W: pages 1–6"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m01-review",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What did you overlook at first?",
+                "What changed your priority?",
+                "What will you notice differently next time?"
+              ],
+              "sourceRefs": [
+                "M01-P: slides 1–24",
+                "M01-W: pages 1–6"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose the safe-area observation or reviewed fictional scene.",
+            "Observe without moving, touching or testing suspect objects. Stop the real-world exercise if staying within this boundary is not possible.",
+            "Privately note two conditions, explain why they deserve attention and identify one follow-up within the awareness boundary.",
+            "For the fictional route, complete the changed-scene recheck as well as the first observation.",
+            "Consider the private review and choose one improvement."
+          ],
+          "aarPrompts": [
+            "What did you overlook at first?",
+            "What changed your priority?",
+            "What will you notice differently next time?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review F01–F05 and F13–F15 with the Malaysian fire-safety, editorial and privacy reviewers.",
+            "Supply a rights-cleared fictional scene and numbered text equivalent, the five source hazard-group cards, source heat/fuel framing, reviewed observation cues and contextual feedback.",
+            "P7 coil/curtain material may be used only as a clearly labelled composite learning scenario after review; no incident facts or outcome claims have been added.",
+            "Verify that the checkpoint requires two supported cues, their conditions and a bounded follow-up; do not invent a universal hazard key.",
+            "Blueprint source: CAPAi_Module01_KSDA_Blueprint_v1.0.md, Mission 1. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "fire-m02",
+          "title": "Turn a risk into a safer routine",
+          "purpose": "Turn a noticed condition into one safe, performed routine or a clear request for competent help.",
+          "knowledge": "Distinguish the six source prevention habit areas and recognise when the next step belongs to a competent person.",
+          "skill": "Use an approved checklist to describe a current condition and rehearse a clear request or safer routine.",
+          "desire": "Identify one practical barrier and select a realistic response rather than claim perfect household control.",
+          "action": "Complete a low-risk checklist/routine trial or a full fictional prevention exercise.",
+          "minutes": 32,
+          "estimatedScreenMinutes": 17,
+          "estimatedPracticeMinutes": 15,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "fire-m02-brief",
+              "type": "mission_brief",
+              "heading": "Practise one routine",
+              "body": [
+                "Choose one routine you can practise today. You are not being asked to repair electrical equipment or buy a product."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 25–33, 18–22, 82",
+                "M01-W: pages 7–8, 20"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m02-boundary",
+              "type": "safety_boundary",
+              "heading": "Observe within your responsibilities",
+              "body": [
+                "The task is a low-risk checklist and verbal routine in a safe setting. It does not require device testing, electrical isolation, replacement or battery handling.",
+                "If an item needs competent help, leave handling outside the exercise and practise a factual request."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 18–22, 27–31",
+                "M01-W: pages 7–8"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m02-habits",
+              "type": "knowledge_card",
+              "heading": "Separate what you know from what needs help",
+              "body": [
+                "A prevention check can distinguish a known condition, an uncertainty and a condition that needs a competent person.",
+                "A useful routine is specific enough to rehearse. It also has a clear limit: noticing a condition does not make you responsible or qualified to repair it."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 27–32",
+                "M01-W: pages 7–8"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m02-check",
+              "type": "checklist",
+              "heading": "Review the condition privately",
+              "body": [
+                "Which conditions are known? Which are unknown? Which need competent help?",
+                "Use your own paper or the fictional checklist. Keep any home inventory private."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 27–31",
+                "M01-W: pages 8"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m02-say",
+              "type": "roleplay",
+              "heading": "Say the safe next step",
+              "body": [
+                "In the fictional no-heat routine, a person is interrupted. Practise how you would pause the routine and state a safe next step within the reference’s limits.",
+                "If the next step belongs to someone with appropriate competence, rehearse a clear description of the condition and the help being requested."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 30, 32",
+                "M01-W: pages 7–8"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m02-barrier",
+              "type": "barrier_prompt",
+              "heading": "Make the task feasible",
+              "body": [
+                "Is the barrier time, permission, access, cost or uncertainty? Choose a response you can perform safely now.",
+                "You can use the fictional exercise without explaining your circumstances."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 25–33, 18–22, 82",
+                "M01-W: pages 7–8, 20"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m02-action",
+              "type": "do_practice",
+              "heading": "Complete and refine the routine",
+              "body": [
+                "Work through the checklist and speak the routine or request. Compare it with the review criteria and revise one unclear part.",
+                "One completed practice is enough for this mission’s Action; additional future fixes are optional planning."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 25–33, 18–22, 82",
+                "M01-W: pages 7–8, 20"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m02-review",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What did you actually do?",
+                "What remained uncertain?",
+                "What would make the next attempt easier?"
+              ],
+              "sourceRefs": [
+                "M01-P: slides 25–33, 18–22, 82",
+                "M01-W: pages 7–8, 20"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose a reviewed low-risk routine and checklist, or the equivalent fictional checklist.",
+            "Describe one specific condition and distinguish observation from repair.",
+            "Perform the verbal routine or rehearse the factual request for competent help without handling a suspect item.",
+            "Review the attempt, correct an unclear part and choose an improvement for next time."
+          ],
+          "aarPrompts": [
+            "What did you actually do?",
+            "What remained uncertain?",
+            "What would make the next attempt easier?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review F02–F06 and F14: electrical, battery, alarm, clearance and handling boundaries.",
+            "Supply the six source prevention-habit cards with their qualifications, accessible checklist, no-heat roleplay and approved self-review rubric.",
+            "Do not publish detached “unplug/isolate/replace” shorthand or turn this practice into a legal inspection standard.",
+            "Blueprint source: CAPAi_Module01_KSDA_Blueprint_v1.0.md, Mission 2. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "fire-m03",
+          "title": "Make the plan fit the people",
+          "purpose": "Review whether a plan fits the building and people, and make one unresolved assumption visible.",
+          "knowledge": "Recognise the source plan elements: layout, feasible routes, meeting point, participation and rehearsal; understand building-specific procedure precedence.",
+          "skill": "Trace a reviewed plan and identify one unresolved assumption.",
+          "desire": "Test whether the plan works for a visitor or when one familiar person is absent.",
+          "action": "Complete and revise a private plan review or fictional planning exercise.",
+          "minutes": 42,
+          "estimatedScreenMinutes": 22,
+          "estimatedPracticeMinutes": 20,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "fire-m03-brief",
+              "type": "mission_brief",
+              "heading": "Make the plan usable",
+              "body": [
+                "A useful plan describes what is actually possible. The drawing is a way to think through the arrangement, rather than a universal instruction for every building."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 34–44",
+                "M01-W: pages 9–10, 17, 21"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m03-boundary",
+              "type": "safety_boundary",
+              "heading": "Respect building-specific guidance",
+              "body": [
+                "Use the existing approved building arrangement or the fictional plan. This exercise does not require climbing, jumping, a locked-exit experiment or entry into smoke.",
+                "Keep real layouts, assistance needs and personal details offline. An ordered written description can replace a drawing."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 36, 38, 40",
+                "M01-W: pages 9–10"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m03-elements",
+              "type": "knowledge_card",
+              "heading": "Five plan elements to review",
+              "body": [
+                "The source planning framework considers layout, feasible routes, a meeting point, participation and rehearsal. Building-specific procedures govern the plan review.",
+                "Consider a visitor, a person who needs assistance and the absence of a familiar adult. Mark anything you cannot verify instead of inventing an option."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 36–41",
+                "M01-W: pages 9"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m03-case",
+              "type": "scenario",
+              "heading": "A guest and an unavailable route",
+              "body": [
+                "Fictional scenario: a guest is unfamiliar with the layout, and the usual route is unavailable.",
+                "What needs to be checked against the approved plan? Which assumption could leave someone unsure?"
+              ],
+              "sourceRefs": [
+                "M01-P: slides 35, 43",
+                "M01-W: pages 9–10"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m03-plan",
+              "type": "workbook_activity",
+              "heading": "Trace, challenge, check",
+              "body": [
+                "Using the fictional plan or your private paper, trace a usable route from the approved arrangement and identify its meeting arrangement.",
+                "Flag anything you cannot verify. Then revise one weakness in the plan explanation or note the clarification needed from a competent building-specific source."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 42–43",
+                "M01-W: pages 10"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m03-desire",
+              "type": "consequence_prompt",
+              "heading": "Make room for another person’s perspective",
+              "body": [
+                "Which assumption would leave someone unsure? What would help them understand the plan?",
+                "Think privately without entering names, medical details or a home layout."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 34–44",
+                "M01-W: pages 9–10, 17, 21"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m03-action",
+              "type": "do_practice",
+              "heading": "Complete one plan review and revision",
+              "body": [
+                "Perform the paper or text review, then revise one identified weakness. For the fictional option, apply the unavailable-route complication and revise your response.",
+                "Testing a route physically is not required."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 34–44",
+                "M01-W: pages 9–10, 17, 21"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m03-review",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What did you assume?",
+                "What did your review reveal?",
+                "What needs competent building-specific clarification?"
+              ],
+              "sourceRefs": [
+                "M01-P: slides 34–44",
+                "M01-W: pages 9–10, 17, 21"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose an existing approved household/building arrangement or reviewed fictional plan.",
+            "Trace the arrangement on private paper or in an ordered text description without physically testing a hazardous route.",
+            "Check a visitor or assistance assumption and identify one condition that is unresolved.",
+            "Revise your plan explanation or record one clarification to seek. Complete the blocked-route revision if using the fictional exercise.",
+            "Review what you assumed and select an improvement."
+          ],
+          "aarPrompts": [
+            "What did you assume?",
+            "What did your review reveal?",
+            "What needs competent building-specific clarification?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review F07, F08 and F14; qualified fire/building review must address high-rise context, feasible exits, assistance and trapped-response wording.",
+            "Supply an approved fictional floor plan, text alternative, building-procedure precedence notice and scenario-specific accepted responses.",
+            "Do not introduce an unqualified “two exits from every room” answer key or a compliance claim.",
+            "Blueprint source: CAPAi_Module01_KSDA_Blueprint_v1.0.md, Mission 3. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "fire-m04",
+          "title": "Rehearse, notice, improve",
+          "purpose": "Use a calm tabletop rehearsal to find a weakness, correct it and repeat the affected part.",
+          "knowledge": "Recognise the source elements of a controlled drill and why review matters.",
+          "skill": "Narrate a scenario with route, accountability and simulated communication, then identify an improvement.",
+          "desire": "Treat uncertainty as useful information rather than embarrassment or a reason to improvise danger.",
+          "action": "Perform a tabletop rehearsal, review it and repeat one corrected part.",
+          "minutes": 40,
+          "estimatedScreenMinutes": 20,
+          "estimatedPracticeMinutes": 20,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "fire-m04-brief",
+              "type": "mission_brief",
+              "heading": "Practise for clarity",
+              "body": [
+                "A calm seated rehearsal is valid practice for this awareness mission. The useful result is something you notice and improve.",
+                "Use the plan from the preceding mission, or its fictional equivalent."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 45–53",
+                "M01-W: pages 11–12"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m04-boundary",
+              "type": "safety_boundary",
+              "heading": "Keep the rehearsal announced and inert",
+              "body": [
+                "Do not call an emergency number, produce smoke, use blindfolds, trigger surprise alarms or block exits.",
+                "Use fictional information for simulated communication. No real address needs to be entered or transmitted."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 47, 49",
+                "M01-W: pages 11"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m04-roles",
+              "type": "knowledge_card",
+              "heading": "Make roles and communication clear",
+              "body": [
+                "The rehearsal brings together the plan, who is accounted for, a backup-role arrangement and simulated communication.",
+                "A role in this tabletop does not authorize anyone to search a dangerous area. Uncertainty is a useful finding to resolve within the approved plan."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 48, 52",
+                "M01-W: pages 11"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m04-case",
+              "type": "scenario",
+              "heading": "A fictional night-time complication",
+              "body": [
+                "Fictional tabletop: it is 2:13 a.m. and the usual route in the scenario is unavailable.",
+                "Use the reviewed fictional plan to talk through your decisions and the simulated communication. Do not dial a number."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 49",
+                "M01-W: pages 12"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m04-rehearse",
+              "type": "say_practice",
+              "heading": "Talk through the plan",
+              "body": [
+                "Explain the plan, who is accounted for and what information the simulated caller would convey.",
+                "Compare the attempt with the observation checklist. Notice a confusing instruction, untested assumption or missing confirmation."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 49–50",
+                "M01-W: pages 12"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m04-confidence",
+              "type": "confidence_check",
+              "heading": "Notice what needs another attempt",
+              "body": [
+                "Which part feels clear? Which part needs another calm rehearsal? This confidence check does not establish emergency readiness."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 45–53",
+                "M01-W: pages 11–12"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m04-action",
+              "type": "simulation",
+              "heading": "Repeat the corrected segment",
+              "body": [
+                "Finish the tabletop, review it and repeat one corrected segment. Record the improvement privately.",
+                "Setting a future drill date can follow the practice; the rehearsal and repeat are this mission’s Action."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 45–53",
+                "M01-W: pages 11–12"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m04-review",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What slowed or confused the rehearsal?",
+                "Which assumption failed?",
+                "What did you change on the second attempt?"
+              ],
+              "sourceRefs": [
+                "M01-P: slides 45–53",
+                "M01-W: pages 11–12"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose the approved fictional tabletop or a seated review of a real plan within its approved building guidance.",
+            "State that this is a practice-only exercise. Keep all communication simulated.",
+            "Narrate the plan, accountability and communication using the reviewed checklist.",
+            "Identify an observed weakness, change it and repeat that part.",
+            "Reflect privately on what changed; there is no speed target."
+          ],
+          "aarPrompts": [
+            "What slowed or confused the rehearsal?",
+            "Which assumption failed?",
+            "What did you change on the second attempt?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review F07–F09 and F14: scenario, role limitations, safe alternatives and no-live-call boundary.",
+            "Supply approved fictional role/call scripts, observation criteria and correction rationales.",
+            "Preserve communication from P52 and closing AAR from W11 as distinct parts; do not claim their source routines were identical.",
+            "No evacuation time, fear tolerance or physical risk may be rewarded.",
+            "Blueprint source: CAPAi_Module01_KSDA_Blueprint_v1.0.md, Mission 4. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "fire-m05",
+          "title": "Put judgement before equipment",
+          "purpose": "Practise equipment label literacy and recognize the limits of a tool and an awareness learner.",
+          "knowledge": "Explain that suitability depends on exact label, conditions and training, not cylinder colour or a memorised acronym alone.",
+          "skill": "Locate relevant information on an approved example label and identify missing information or a stop condition in a fictional case.",
+          "desire": "Recognise that declining unsafe intervention is responsible judgement, not failure.",
+          "action": "Complete a simulated label-and-boundary review and explain its limits.",
+          "minutes": 30,
+          "estimatedScreenMinutes": 20,
+          "estimatedPracticeMinutes": 10,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "fire-m05-brief",
+              "type": "mission_brief",
+              "heading": "Put judgement before equipment",
+              "body": [
+                "This mission does not qualify you to fight a fire. Practise recognising the limits of a tool and your own authority.",
+                "Equipment judgement follows the planning and rehearsal work in earlier missions."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 54–69",
+                "M01-W: pages 13–15"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m05-boundary",
+              "type": "safety_boundary",
+              "heading": "Keep this a label-and-scenario review",
+              "body": [
+                "The task does not involve live fire, discharge, pin removal or purchasing equipment.",
+                "The fictional or approved example label is an equal practice option. Physical equipment practice belongs with a competent instructor."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 55–57, 61–66",
+                "M01-W: pages 13"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m05-knowledge",
+              "type": "knowledge_card",
+              "heading": "Read what the label actually supports",
+              "body": [
+                "Suitability depends on the exact label, conditions and training. Cylinder colour or an acronym alone is not enough to decide.",
+                "Distinguish stated suitability and restrictions from information the label does not establish. A missing prerequisite is a limit to acknowledge."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 57–60",
+                "M01-W: pages 14–15"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m05-label",
+              "type": "visual_observation",
+              "heading": "Locate the information and the gaps",
+              "body": [
+                "On the example label and its text transcription, find the stated suitability and restrictions.",
+                "What remains unknown? Explain one limitation without treating a guess as authorization to use the equipment."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 56–59",
+                "M01-W: pages 14"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m05-decision",
+              "type": "decision",
+              "heading": "Check the prerequisites",
+              "body": [
+                "Does the fictional case provide every prerequisite in the reviewed reference? Identify what is missing.",
+                "Explain the boundary of the decision you can make from the information available."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 67–68",
+                "M01-W: pages 13–15"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m05-choice",
+              "type": "barrier_prompt",
+              "heading": "Practise declining unsafe intervention",
+              "body": [
+                "Why might someone feel pressured to use a tool? Practise a calm sentence that respects the reviewed safety boundary."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 54–69",
+                "M01-W: pages 13–15"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m05-action",
+              "type": "do_practice",
+              "heading": "Complete the review and explanation",
+              "body": [
+                "Complete the sample-label review. Explain aloud or in private writing one limitation and a safe non-intervention choice.",
+                "Looking at a safely accessible real label is optional; the example-label task is sufficient."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 54–69",
+                "M01-W: pages 13–15"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m05-review",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What did the label tell you?",
+                "What did it not tell you?",
+                "What would you avoid assuming next time?"
+              ],
+              "sourceRefs": [
+                "M01-P: slides 54–69",
+                "M01-W: pages 13–15"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use the reviewed example label and readable transcription.",
+            "Locate its suitability and restriction fields without operating any equipment.",
+            "Identify missing prerequisite information in the fictional case.",
+            "Explain one limitation and a bounded non-intervention choice.",
+            "Review what the label could and could not establish."
+          ],
+          "aarPrompts": [
+            "What did the label tell you?",
+            "What did it not tell you?",
+            "What would you avoid assuming next time?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review F10, F11 and F13 with a Malaysian fire-safety reviewer.",
+            "Supply a licensed current local label exemplar, its transcription, and the approved decision bank with rationales.",
+            "Local fire classes, electrical suitability, service claims, PASS limitations and physical-competence wording remain review-gated.",
+            "No universal purchasing chart, new fire-class key or extinguisher-competence certificate is provided.",
+            "Blueprint source: CAPAi_Module01_KSDA_Blueprint_v1.0.md, Mission 5. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "fire-m06",
+          "title": "Correct a myth. Carry it forward.",
+          "purpose": "Explain a reviewed correction, improve the explanation and choose a feasible way to continue practising.",
+          "knowledge": "Distinguish selected source myths from their reviewed contextual correction.",
+          "skill": "Explain a correction and adapt the explanation after feedback.",
+          "desire": "Choose a personally relevant practice and a realistic response to one barrier.",
+          "action": "Complete one teach-back/rehearsal and revise it, then privately plan a next safe action.",
+          "minutes": 33,
+          "estimatedScreenMinutes": 18,
+          "estimatedPracticeMinutes": 15,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "fire-m06-brief",
+              "type": "mission_brief",
+              "heading": "Carry one practised idea forward",
+              "body": [
+                "Finish with an explanation you have actually practised and improved. A future pledge can follow the Action."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 70–87",
+                "M01-W: pages 16–24"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m06-myths",
+              "type": "myth_fact",
+              "heading": "Keep the correction and its limits together",
+              "body": [
+                "A useful correction includes the context in which it applies. Keep smoke, exit and building qualifications attached to the reviewed explanation.",
+                "Learning to repeat a phrase is different from explaining why a correction fits a particular scenario."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 71–76",
+                "M01-W: pages 16–17"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m06-retrieve",
+              "type": "retrieval_check",
+              "heading": "Explain why the correction applies",
+              "body": [
+                "Read a selected reviewed claim and its scenario. Explain the correction in your own words, then compare it with the reference.",
+                "Keep any important condition or limit in the explanation you practise."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 71–79",
+                "M01-W: pages 16–18"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m06-teach",
+              "type": "say_practice",
+              "heading": "Try a private teach-back",
+              "body": [
+                "Explain one reviewed correction to a willing person, or to yourself using the fictional listener prompt.",
+                "Compare the explanation with the reviewed reference. Improve any point that was unclear or lost an important qualification."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 77–79, 81",
+                "M01-W: pages 18–21"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m06-barrier",
+              "type": "barrier_prompt",
+              "heading": "Choose a feasible continuation",
+              "body": [
+                "Which next step is realistic? What might block it? Choose a safe alternative that fits your circumstances.",
+                "A private seven-day plan is optional. You do not need to share an incident, make a public pledge or disclose personal details."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 80–87",
+                "M01-W: pages 19–22"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m06-action",
+              "type": "do_practice",
+              "heading": "Repeat the corrected explanation",
+              "body": [
+                "Perform the explanation and repeat it after revision. The revised teach-back is the Action.",
+                "Use the private review to choose what to practise next."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 70–87",
+                "M01-W: pages 16–24"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m06-completion",
+              "type": "completion",
+              "heading": "What completion represents",
+              "body": [
+                "Course completion represents CAPAi fire-safety awareness learning and self-declared practice after all required missions are complete.",
+                "It does not establish operational competence or accreditation."
+              ],
+              "sourceRefs": [
+                "M01-P: slides 70–87",
+                "M01-W: pages 16–24"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "fire-m06-review",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What did your first explanation leave unclear?",
+                "What changed?",
+                "What will you practise next?"
+              ],
+              "sourceRefs": [
+                "M01-P: slides 70–87",
+                "M01-W: pages 16–24"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose one source-reviewed correction and its contextual reference.",
+            "Explain it to a willing listener or use the solo fictional-listener option.",
+            "Compare your explanation with the approved criteria, including the principle’s important limit.",
+            "Revise and repeat the explanation.",
+            "Consider the private review and optionally plan a next safe practice."
+          ],
+          "aarPrompts": [
+            "What did your first explanation leave unclear?",
+            "What changed?",
+            "What will you practise next?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review F01, F02, F06–F08 and F12–F15. All scored corrections and public reminders need approval.",
+            "Supply a contextual retrieval bank, rationales and fictional-listener prompts. W18’s eight-item key is source evidence only until reviewed.",
+            "No source-supported overall pass percentage exists. Do not invent one; critical-item designation belongs to the qualified reviewer.",
+            "Resolve source links, rights and placeholders before offering revised W19–24 downloads.",
+            "Blueprint source: CAPAi_Module01_KSDA_Blueprint_v1.0.md, Mission 6. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        }
+      ],
+      "reviewNotes": [
+        "DRAFT — no course Start or completion-awarding assessment may be enabled until required procedures, scenarios, rationales, language and rules receive qualified approval.",
+        "This asset adapts blueprint text. Source slide/page references are provenance pointers; the source originals were not revalidated during this content extraction.",
+        "English is the source language. Safety-critical BM content needs qualified review; do not silently machine-translate procedures.",
+        "Time values are author planning estimates, not measured duration or equivalence to the original eight-hour facilitated course.",
+        "Action and AAR remain private. AAR prose must never be submitted, persisted, analysed or scored; incomplete text exists in memory only.",
+        "Progress requires approved deterministic checks plus performed Action or safe equivalent and private AAR consideration. Reading this draft is not a completion gate.",
+        "Medical and emergency scenario cards, answer keys and rationales are intentionally not invented or embedded in this asset."
+      ]
+    },
+    {
+      "slug": "first-aid-cpr-aed",
+      "title": "First Aid / CPR / AED Awareness",
+      "campaignTitle": "The First Safe Response",
+      "missionCount": 7,
+      "reviewState": "DRAFT",
+      "contentVersion": "1.0.0",
+      "missions": [
+        {
+          "id": "m02-m01",
+          "title": "Begin safely. Make the call.",
+          "purpose": "Replace an undefined expectation to be a hero with a bounded first-response role and a practised fictional call.",
+          "knowledge": "Explain the awareness/non-accreditation boundary and identify the reviewed public emergency communication route and call-information structure",
+          "skill": "Give a coherent mock call using fictional location, observed condition and callback information; name a specific helper in a tabletop scenario",
+          "desire": "Identify a realistic hesitation or accessibility barrier and select a feasible way to participate without shame or disclosure",
+          "action": "Actually complete one mock call and repeat its unclear part using approved criteria",
+          "minutes": 25,
+          "estimatedScreenMinutes": 20,
+          "estimatedPracticeMinutes": 5,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "m02-m01-brief",
+              "type": "mission_brief",
+              "heading": "Practise a first safe contribution",
+              "body": [
+                "Your task is to practise a first safe contribution and a clear fictional call. Online awareness learning does not establish physical first-aid competence.",
+                "You may speak privately or complete a written tabletop exchange. No recording is required."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 1–10, 43–48",
+                "M02-W: pages 1–9, 39–44"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m01-boundary",
+              "type": "safety_boundary",
+              "heading": "This is a rehearsal",
+              "body": [
+                "Use fictional details. Do not place a live emergency call or test an emergency app.",
+                "There are no staged falls, surprise incidents or tasks that require touching another person. Keep real medical, contact and address information offline."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 43–48",
+                "M02-W: pages 39–44"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m01-reason-relevance",
+              "type": "relevance_prompt",
+              "heading": "Choose a setting that matters to you",
+              "body": [
+                "Where might this knowledge matter to you? You can use the fictional community hall without naming anyone or disclosing an incident."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 1–10",
+                "M02-W: pages 1–9"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m01-reason-barrier",
+              "type": "barrier_prompt",
+              "heading": "Choose how to take part",
+              "body": [
+                "What might make it difficult to take part? A private written exchange is a valid alternative to speaking aloud."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 1–10",
+                "M02-W: pages 1–9"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m01-calls-knowledge",
+              "type": "knowledge_card",
+              "heading": "Organize the information in a mock call",
+              "body": [
+                "The source call-practice structure uses a fictional location, the observed condition and callback information. Its purpose is a coherent exchange with the simulated operator.",
+                "Distinguish what the scenario states from what you do not know. Practise responding to the operator’s follow-up rather than racing against a timer."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 44–45",
+                "M02-W: pages 40–41"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m01-say",
+              "type": "roleplay",
+              "heading": "Rehearse the community-hall exchange",
+              "body": [
+                "Using Community Hall A and the fictional details on the call card, speak or write the opening of the mock call.",
+                "Respond to the simulated operator’s follow-up. In the tabletop, name a specific helper for the role stated on the card."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 45, 48",
+                "M02-W: pages 41, 44"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m01-check-checklist",
+              "type": "checklist",
+              "heading": "Find and repeat an unclear part",
+              "body": [
+                "Compare your attempt with the call-information checklist. Which information was missing or unclear?",
+                "Repeat that part so the next attempt is more coherent. No speed target is required."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 45",
+                "M02-W: pages 41"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m01-action",
+              "type": "action_confirmation",
+              "heading": "Review the rehearsal you performed",
+              "body": [
+                "The Action is a completed mock call or written exchange, including an answer to the operator’s question and one corrected repetition.",
+                "Any confirmation refers to the rehearsal you performed. It is not a record of an actual emergency call."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 1–10, 43–48",
+                "M02-W: pages 1–9, 39–44"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m01-aar",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "Which information was unclear?",
+                "What changed in the second attempt?",
+                "What will you keep in your next rehearsal?"
+              ],
+              "sourceRefs": [
+                "M02-P: slides 1–10, 43–48",
+                "M02-W: pages 1–9, 39–44"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose the spoken mock call or written tabletop exchange and use only fictional details.",
+            "Use the reviewed call card for Community Hall A to rehearse the opening.",
+            "Answer the simulated operator’s follow-up without calling a number or activating an app.",
+            "Compare the attempt with approved communication criteria and repeat an unclear part.",
+            "Reflect privately on the second attempt."
+          ],
+          "aarPrompts": [
+            "Which information was unclear?",
+            "What changed in the second attempt?",
+            "What will you keep in your next rehearsal?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review R09–R11 and R14, including current Malaysian emergency communication routes and source dates.",
+            "Supply approved fictional call cards, operator questions, response criteria and feedback from P45/W41 before enabling the exercise or completion gate.",
+            "No telephone number or service/app claim has been inserted. Do not turn rehearsal content into a live telephone link.",
+            "Do not present W6’s anecdote as a documented death or request W43 personal/medical data online.",
+            "Blueprint source: CAPAi_Module02_KSDA_Blueprint_v1.0.md, Mission 1. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "m02-m02",
+          "title": "Recognise the response pathway",
+          "purpose": "Recognise where a reviewed first-response pathway changes and explain the limits of online recognition practice.",
+          "knowledge": "Distinguish the response states and scene constraints described in approved DRSABCD source content",
+          "skill": "Sort approved response labels and explain which information a fictional scene supplies or still lacks",
+          "desire": "Replace the pressure to know everything with a repeatable method for noticing the next relevant fact",
+          "action": "Complete an aloud/written scene walkthrough using the reviewed sequence, then repeat the step that was missed",
+          "minutes": 30,
+          "estimatedScreenMinutes": 25,
+          "estimatedPracticeMinutes": 5,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "m02-m02-brief",
+              "type": "mission_brief",
+              "heading": "Notice the decision",
+              "body": [
+                "Notice the decision before you rush to an action. This mission uses a fictional scene to practise what is known, what is uncertain and which reviewed reference applies."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 11–16",
+                "M02-W: pages 10–16"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m02-boundary",
+              "type": "safety_boundary",
+              "heading": "Keep practice verbal or written",
+              "body": [
+                "Do not practise airway or recovery-position manoeuvres on a person, handle an electrical hazard or switch real equipment for this task.",
+                "Physical technique needs qualified guidance. The online task is recognition and a spoken or written walkthrough."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 11–16",
+                "M02-W: pages 10–16"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m02-sequence-knowledge",
+              "type": "knowledge_card",
+              "heading": "Look for the next relevant fact",
+              "body": [
+                "A response pathway connects scene information with decisions. Noticing a state change or a missing fact is part of the reasoning.",
+                "Online recognition practice cannot establish whether you can perform the associated physical skills."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 11–16",
+                "M02-W: pages 10–16"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m02-sequence-sort",
+              "type": "sequence",
+              "heading": "Use the reviewed sequence labels",
+              "body": [
+                "Arrange the reviewed labels using the reference when needed. Explain which information each stage asks you to notice.",
+                "Use an untimed text sequence if that is easier than moving cards."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 11–16",
+                "M02-W: pages 10–16"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m02-scene-scenario",
+              "type": "scenario",
+              "heading": "Separate the facts from the unknowns",
+              "body": [
+                "In the fictional office or gym scene, what does the card explicitly tell you? Which fact is still uncertain?",
+                "Explain which additional fact could change your interpretation without guessing a missing condition."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 16",
+                "M02-W: pages 16"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m02-capability",
+              "type": "confidence_check",
+              "heading": "Name your next learning need",
+              "body": [
+                "Which decision can you explain? Which part needs an instructor’s guidance? You do not need to know everything to identify the next question."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 11–16",
+                "M02-W: pages 10–16"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m02-walkthrough",
+              "type": "say_practice",
+              "heading": "Perform and repeat the walkthrough",
+              "body": [
+                "Talk or write through one fictional scene using the reviewed sequence. Keep the exercise entirely verbal or on paper.",
+                "Compare your reasoning with the reviewed criteria, then repeat the part where you guessed or missed a relevant fact."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 11–16",
+                "M02-W: pages 10–16"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m02-aar",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What did you notice first?",
+                "Where did you guess?",
+                "Which fact would change your decision?",
+                "What will you check on your next attempt?"
+              ],
+              "sourceRefs": [
+                "M02-P: slides 11–16",
+                "M02-W: pages 10–16"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use one approved fictional scene with the reviewed sequence reference.",
+            "Arrange or write the reviewed response labels and identify the scene facts relevant to them.",
+            "Perform a spoken or written walkthrough without touching a person or operating equipment.",
+            "Identify one uncertainty, compare your attempt with the reviewed criteria and repeat the affected decision.",
+            "Consider the private review and choose what to check next time."
+          ],
+          "aarPrompts": [
+            "What did you notice first?",
+            "Where did you guess?",
+            "Which fact would change your decision?",
+            "What will you check on your next attempt?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review R01–R04: governing protocol, mnemonic attribution, response states, sequence and rationale.",
+            "Quarantine W16 Q1/W54 electrical-hazard answer under R02 and W16 Q3 recovery-position answer under R03. Neither is reproduced in this asset.",
+            "Supply approved labelled scene cards, linear decision text, reference, mandatory state distinctions and an exact reviewed bank before enabling practice checkpoints.",
+            "No procedural DRSABCD steps, physical manoeuvre instructions or unsupported pass mark have been authored.",
+            "Blueprint source: CAPAi_Module02_KSDA_Blueprint_v1.0.md, Mission 2. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "m02-m03",
+          "title": "Understand the CPR–AED team",
+          "purpose": "Explain how people, a call and an AED fit together while recognising that physical CPR/AED competence needs coached practice.",
+          "knowledge": "Distinguish the reviewed recognition, CPR-pathway and AED-role concepts; identify which technique details require qualified demonstration",
+          "skill": "Allocate and communicate source-supported team roles in a fictional collapse scene and describe an approved continuity check",
+          "desire": "Identify a practical next learning need without mistaking awareness confidence for clinical competence",
+          "action": "Run a tabletop role handoff, check for an unassigned task and repeat the handoff clearly",
+          "minutes": 32,
+          "estimatedScreenMinutes": 27,
+          "estimatedPracticeMinutes": 5,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "m02-m03-brief",
+              "type": "mission_brief",
+              "heading": "Understand the team",
+              "body": [
+                "This mission practises team communication in a fictional scene. Physical CPR and AED skills need coached practice with appropriate training equipment."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 17–27",
+                "M02-W: pages 17–25"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m03-limits",
+              "type": "safety_boundary",
+              "heading": "Keep the handoff on the tabletop",
+              "body": [
+                "Do not perform chest compressions or breaths on a person, or apply a medical device to a person.",
+                "You do not need access to an AED, travel to a device or buy training equipment to complete the online role rehearsal."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 17–27",
+                "M02-W: pages 17–25"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m03-reference-knowledge",
+              "type": "knowledge_card",
+              "heading": "Give a role and hear its confirmation",
+              "body": [
+                "A team exchange needs a clear task owner, a clear request and a reply that confirms the request was understood.",
+                "An unassigned or unconfirmed role is a useful gap to find during a fictional rehearsal. Role clarity does not demonstrate the ability to perform CPR or use an AED physically."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 19, 26",
+                "M02-W: pages 18–25"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m03-gym",
+              "type": "scenario",
+              "heading": "A fictional gym scene",
+              "body": [
+                "Use the gym-collapse scene and the source-supported helper role cards. A solo learner can take each role in turn.",
+                "Work with the facts and roles on the reviewed cards; flag information that the scene has not supplied."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 27",
+                "M02-W: pages 25"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m03-roles-say",
+              "type": "say_practice",
+              "heading": "Make the handoff explicit",
+              "body": [
+                "Assign the named helper cards, give each clear request and show how the helper confirms it.",
+                "Check for an unassigned task or an unclear reply before you repeat the exchange."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 19, 26–27",
+                "M02-W: pages 25"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m03-gap",
+              "type": "confidence_check",
+              "heading": "Choose a coached learning need",
+              "body": [
+                "Which physical skill would you want a qualified instructor to observe? Keep this distinct from confidence in the tabletop conversation."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 17–27",
+                "M02-W: pages 17–25"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m03-handoff",
+              "type": "do_practice",
+              "heading": "Repeat the clearer exchange",
+              "body": [
+                "Perform the tabletop exchange twice, speaking aloud or writing privately. Correct an unassigned or unconfirmed role in the second attempt.",
+                "No recording or upload is needed."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 17–27",
+                "M02-W: pages 17–25"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m03-aar",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "Which task had no clear owner?",
+                "How did the reply confirm understanding?",
+                "What could this exercise not establish about your physical skill?"
+              ],
+              "sourceRefs": [
+                "M02-P: slides 17–27",
+                "M02-W: pages 17–25"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use the approved fictional scene and helper role cards.",
+            "Give the requests and play back each helper’s confirmation, aloud or in a written exchange.",
+            "Check the allocation against the approved role criteria and identify any gap.",
+            "Repeat the exchange with the unassigned or unconfirmed role corrected.",
+            "Reflect on what the role rehearsal cannot establish about physical skill."
+          ],
+          "aarPrompts": [
+            "Which task had no clear owner?",
+            "How did the reply confirm understanding?",
+            "What could this exercise not establish about your physical skill?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review R05, R06, R10 and R16 with a qualified clinical reviewer.",
+            "Supply approved CPR-pathway distinctions, age/circumstance qualifications, AED continuity/device language and role cards with explicit criteria.",
+            "W18/W25 responses, all clinical diagrams and any media captions/transcripts need review. No new auto-scored clinical key is included.",
+            "Technique targets, pad placement and W21 physical performance records are not mandatory self-demonstration tasks.",
+            "Blueprint source: CAPAi_Module02_KSDA_Blueprint_v1.0.md, Mission 3. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "m02-m04",
+          "title": "Notice when choking changes",
+          "purpose": "Notice changing scene information and recognise the need for age- and circumstance-specific, professionally reviewed responses.",
+          "knowledge": "Distinguish the approved recognition states and age/special-circumstance boundaries in source choking content",
+          "skill": "Notice a state change in a fictional dinner scenario and identify the matching reviewed reference pathway",
+          "desire": "Address fear of choosing incorrectly through deliberate recognition and seeking qualified practical training",
+          "action": "Complete a two-stage verbal/text scenario, explicitly describing what changed and checking the selected pathway against approved feedback",
+          "minutes": 25,
+          "estimatedScreenMinutes": 20,
+          "estimatedPracticeMinutes": 5,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "m02-m04-brief",
+              "type": "mission_brief",
+              "heading": "Watch for the change",
+              "body": [
+                "Watch for a change in the scene, not just a label. This mission practises recognising new information in a fictional dinner scenario."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 28–34",
+                "M02-W: pages 26–32"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m04-boundary",
+              "type": "safety_boundary",
+              "heading": "Do not act out choking techniques",
+              "body": [
+                "Do not practise physical choking manoeuvres on a healthy person, obstruct a throat, perform thrusts or use forceful partner practice.",
+                "Infant technique practice belongs with a training doll and a qualified instructor. This task uses verbal or text cards only."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 28–34",
+                "M02-W: pages 26–32"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m04-states",
+              "type": "knowledge_card",
+              "heading": "Keep context with the reference",
+              "body": [
+                "The source distinguishes recognition states and age or special-circumstance boundaries. Those qualifications matter when matching a scene to its reviewed reference.",
+                "When a scene changes, identify the new observation before explaining whether the same reference still fits."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 28–34",
+                "M02-W: pages 26–32"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m04-dinner-scenario",
+              "type": "scenario",
+              "heading": "Compare two stages of the dinner scene",
+              "body": [
+                "Read the first state of the fictional family-dinner scenario, then its changed card.",
+                "Which observation changed? Which reviewed reference now applies? Explain the difference in words without acting out a technique."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 34",
+                "M02-W: pages 31"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m04-reason",
+              "type": "consequence_prompt",
+              "heading": "Notice an assumption before it becomes a guess",
+              "body": [
+                "What makes guessing risky in this scenario? Which age or circumstance detail do you need to keep in view?"
+              ],
+              "sourceRefs": [
+                "M02-P: slides 28–34",
+                "M02-W: pages 26–32"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m04-say",
+              "type": "say_practice",
+              "heading": "Explain, compare and retry",
+              "body": [
+                "Explain the recognition and its boundary for both scene states. Check the selected reference against the reviewed feedback.",
+                "If you missed a change, repeat that stage and name the information you overlooked."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 34",
+                "M02-W: pages 31–32"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m04-aar",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What new information changed your interpretation?",
+                "What assumption did you remove?",
+                "Which practical element needs qualified coaching?"
+              ],
+              "sourceRefs": [
+                "M02-P: slides 28–34",
+                "M02-W: pages 26–32"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use the two approved states of the fictional dinner scenario; choose static text cards if preferred.",
+            "Describe the first state and the matching reviewed reference.",
+            "Read the changed card, explicitly identify what changed and check the reference again.",
+            "Compare both explanations with approved feedback and retry a missed distinction.",
+            "Reflect privately on assumptions and the practical learning that needs coaching."
+          ],
+          "aarPrompts": [
+            "What new information changed your interpretation?",
+            "What assumption did you remove?",
+            "Which practical element needs qualified coaching?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review R07 and R10, including source 2025 technique claims, exact age/circumstance boundaries and BM wording.",
+            "W31, W32 and the choking portion of W54 remain a linked DRAFT bank; approve exact wording and rationales before any scoring.",
+            "Supply two fully specified state-change cards and approved age-labelled references. New branches need their own clinical approval.",
+            "No choking treatment sequence or technique instructions have been added.",
+            "Blueprint source: CAPAi_Module02_KSDA_Blueprint_v1.0.md, Mission 4. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "m02-m05",
+          "title": "Prioritise an injury response",
+          "purpose": "Practise recognising priorities and limits across injury cases, then improve safe access to an existing kit or reference.",
+          "knowledge": "Distinguish source categories, escalation cues and trained-only activities in approved injury references",
+          "skill": "Compare fictional injury cards and explain which reviewed concern needs attention, what remains uncertain and where help is needed",
+          "desire": "Identify an ordinary readiness barrier, such as not knowing where supplies or reviewed references are kept",
+          "action": "Perform one safe kit/reference-readiness check or an equivalent tabletop kit exercise, then correct one identifiable gap",
+          "minutes": 30,
+          "estimatedScreenMinutes": 25,
+          "estimatedPracticeMinutes": 5,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "m02-m05-brief",
+              "type": "mission_brief",
+              "heading": "Control the task you can safely own",
+              "body": [
+                "Practise noticing concerns and uncertainties in fictional injury cases. Then complete a low-risk readiness check or a fictional kit exercise."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 35–42, 46",
+                "M02-W: pages 33–38, 42"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m05-boundary",
+              "type": "safety_boundary",
+              "heading": "Readiness practice has clear limits",
+              "body": [
+                "Do not treat a live injury, contact blood or body fluids, deliberately expose yourself to heat or cold, or practise bandaging or tourniquets on people.",
+                "This task requires no medicine handling, purchase, inaccessible cupboard, home photo or personal medical disclosure."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 35–42, 46",
+                "M02-W: pages 33–38, 42"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m05-reference-knowledge",
+              "type": "knowledge_card",
+              "heading": "Separate concern, uncertainty and readiness",
+              "body": [
+                "The source case families cover bleeding, minor wounds, burns and sprain–shock scenarios. Each case needs enough facts to interpret a reviewed concern.",
+                "A readiness check asks whether you can find safe, existing supplies or a reviewed reference. It does not establish a diagnosis or authorize treatment."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 35–42",
+                "M02-W: pages 33–38"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m05-relay-scenario",
+              "type": "scenario",
+              "heading": "Compare the fictional case cards",
+              "body": [
+                "Use the four untimed injury cards. For each, explain which reviewed concern needs attention, what remains uncertain and where qualified help is needed.",
+                "Keep your explanation within the case facts and reference; there is no competition or speed target."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 41",
+                "M02-W: pages 38"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m05-barrier",
+              "type": "barrier_prompt",
+              "heading": "Identify a readiness barrier",
+              "body": [
+                "What would prevent you from finding a reference or safe supplies? Use the fictional kit option if access is unavailable."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 42",
+                "M02-W: pages 38"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m05-checklist",
+              "type": "checklist",
+              "heading": "Check safe access",
+              "body": [
+                "Locate a safe, accessible existing first-aid reference or kit and identify one actual readiness gap.",
+                "Alternatively, inspect the fictional kit labels and improve their organization or reference index. Keep any real inventory private."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 42",
+                "M02-W: pages 38"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m05-action",
+              "type": "do_practice",
+              "heading": "Correct one identifiable gap",
+              "body": [
+                "Make a low-risk correction to reference access or organization within your authority, or revise the fictional kit’s organization/reference index.",
+                "Review what changed and which uncertainty still belongs with a qualified professional."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 35–42, 46",
+                "M02-W: pages 33–38, 42"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m05-aar",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What was hard to find?",
+                "What changed after your check?",
+                "Which uncertainty should go to a qualified professional?"
+              ],
+              "sourceRefs": [
+                "M02-P: slides 35–42, 46",
+                "M02-W: pages 33–38, 42"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Work through the reviewed fictional injury comparisons within their stated limits.",
+            "Choose a safe existing-kit/reference-access check or the fictional kit exercise.",
+            "Inspect only safe, accessible information and items; do not handle medicines or practise treatment.",
+            "Identify one readiness gap and make a safe correction within your authority, or revise the fictional organization/reference index.",
+            "Review the result and identify any remaining professional question."
+          ],
+          "aarPrompts": [
+            "What was hard to find?",
+            "What changed after your check?",
+            "Which uncertainty should go to a qualified professional?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review R08, R10, R13 and R14: medical durations, clinical thresholds, escalation, positioning and trained-only scope.",
+            "Supply a neutral fictional kit inventory, four sufficiently specified case cards, accessible references and approved criteria/rationales.",
+            "There is no complete source quiz/key for these cases. Do not generate a diagnosis or treatment answer as a key.",
+            "Poisoning material P46/W42 is an optional reviewed information-preparation reference only; no treatment procedure or required medical record is included.",
+            "Blueprint source: CAPAi_Module02_KSDA_Blueprint_v1.0.md, Mission 5. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "m02-m06",
+          "title": "Rehearse the whole scene",
+          "purpose": "Integrate attention, communication, reviewed priorities and reassessment in one bounded tabletop rehearsal.",
+          "knowledge": "Retrieve reviewed roles, boundaries and previously approved decision criteria without rereading whole chapters",
+          "skill": "Work through a multi-person fictional scene, assign roles, respond to new information and explain a handover",
+          "desire": "Value corrective feedback and achievable improvement rather than confident performance or dramatic rescue identity",
+          "action": "Finish one integrated tabletop run, inspect evidence against approved criteria, then repeat the weakest handoff or decision",
+          "minutes": 40,
+          "estimatedScreenMinutes": 30,
+          "estimatedPracticeMinutes": 10,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "m02-m06-brief",
+              "type": "mission_brief",
+              "heading": "Find a gap while the scene is fictional",
+              "body": [
+                "A good rehearsal finds a gap while the consequences are fictional. This mission combines the earlier awareness activities into one tabletop and one targeted repeat."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 49–58",
+                "M02-W: pages 45–52"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m06-boundary",
+              "type": "safety_boundary",
+              "heading": "Keep the whole scene on paper or in words",
+              "body": [
+                "Do not stage a collapse, make a live call, use a person as a manikin substitute or create a crowd confrontation.",
+                "There is no competitive time limit. You can read each role yourself and keep all writing private."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 49–58",
+                "M02-W: pages 45–52"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m06-retrieve",
+              "type": "retrieval_check",
+              "heading": "Recall the useful roles and limits",
+              "body": [
+                "Recall the roles, boundaries and reviewed decision criteria from earlier missions before returning to the reference.",
+                "Vocabulary recall can support the rehearsal; it does not replace performing the tabletop."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 49–50",
+                "M02-W: pages 45–48"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m06-scene",
+              "type": "scenario",
+              "heading": "A fictional wedding scene",
+              "body": [
+                "Use the fictional wedding scene map or text description. Work only with the supplied facts and approved role cards.",
+                "A new-information card changes the scene during the exercise. Notice what the update changes and what is still uncertain."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 55",
+                "M02-W: pages 50"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m06-rolecards",
+              "type": "roleplay",
+              "heading": "Make ownership and confirmation audible",
+              "body": [
+                "Who owns each task? Give the request and its confirmation. A solo learner can take the role cards in turn.",
+                "Explain the fictional handover aloud or in private writing; no recording is required."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 55–57",
+                "M02-W: pages 50–51"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m06-evidence-checklist",
+              "type": "checklist",
+              "heading": "Look at what you actually said",
+              "body": [
+                "Point to the requests, confirmations and handover you actually gave. Compare those with the observation checklist.",
+                "Identify where confusion began or a task was left unclear."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 57",
+                "M02-W: pages 51"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m06-repeat",
+              "type": "simulation",
+              "heading": "Repeat the weakest part",
+              "body": [
+                "Finish the tabletop and repeat the weakest handoff or decision with a correction.",
+                "The second attempt is part of the Action. A promise to rehearse later does not replace it."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 55–58",
+                "M02-W: pages 50–52"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m06-aar",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "Where did confusion begin?",
+                "Which role was unclear?",
+                "What changed during your second attempt?",
+                "What cannot this tabletop demonstrate?"
+              ],
+              "sourceRefs": [
+                "M02-P: slides 49–58",
+                "M02-W: pages 45–52"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use the approved fictional wedding scene and role cards, alone or with a willing partner.",
+            "Complete one tabletop run, assigning tasks and confirming the requests.",
+            "Respond to the reviewed new-information card and give the fictional handover.",
+            "Compare what you actually said or assigned with the approved observation criteria.",
+            "Repeat the weakest handoff or decision with a correction, then consider the private AAR."
+          ],
+          "aarPrompts": [
+            "Where did confusion begin?",
+            "Which role was unclear?",
+            "What changed during your second attempt?",
+            "What cannot this tabletop demonstrate?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review R05–R10 and R15 with clinical and instructional reviewers.",
+            "Supply reviewed map/text, update cards, observer criteria and rationales. P57/W51 categories are not a clinically validated scoring instrument.",
+            "Use no invented 8/10 or clinical-qualification threshold. Correct designated safety-critical misunderstandings through approved supported retries.",
+            "W48 mystery case has no uniquely demonstrated solution and must remain unscored. Optional crossword requires clue/grid consistency review.",
+            "Earlier community-hall simulation is an alternate card set; it is not a second mandatory integrated rehearsal.",
+            "Blueprint source: CAPAi_Module02_KSDA_Blueprint_v1.0.md, Mission 6. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        },
+        {
+          "id": "m02-m07",
+          "title": "Make readiness tangible",
+          "purpose": "Complete one concrete low-risk readiness improvement and identify a realistic next practice step.",
+          "knowledge": "Explain the distinction between this online completion and accredited/practical training",
+          "skill": "Use a readiness checklist, identify a constraint and select an achievable alternative",
+          "desire": "Choose a personally relevant action and a manageable way to maintain learning",
+          "action": "Complete one concrete readiness task or equivalent simulation now; review its result and identify a next rehearsal",
+          "minutes": 30,
+          "estimatedScreenMinutes": 15,
+          "estimatedPracticeMinutes": 15,
+          "reviewState": "DRAFT",
+          "blocks": [
+            {
+              "id": "m02-m07-brief",
+              "type": "mission_brief",
+              "heading": "Leave with one change you have made",
+              "body": [
+                "Choose a readiness task you can complete safely today. The result is a usable improvement or a completed fictional equivalent.",
+                "Online awareness completion does not establish physical competence, clinical authorization or accreditation."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 59–62, 42, 47",
+                "M02-W: pages 52–55, 38, 43"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m07-boundary",
+              "type": "safety_boundary",
+              "heading": "Keep personal information private",
+              "body": [
+                "Do not make an emergency call or test an emergency app. There is no casualty practice or required medical disclosure.",
+                "Keep names, addresses, medical alerts and real contact information on your own device or paper; do not submit them."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 47, 59–62",
+                "M02-W: pages 43, 52–55"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m07-options",
+              "type": "field_mission",
+              "heading": "Choose a readiness task",
+              "body": [
+                "Choose a safe existing-kit or reference-access check, a private phone-information review without placing calls, or the fictional readiness-card exercise.",
+                "The fictional option asks you to revise a readiness card with a missing reference/access label. No purchase, partner or training booking is required."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 42, 47, 61",
+                "M02-W: pages 38, 43, 53"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m07-barrier",
+              "type": "barrier_prompt",
+              "heading": "Work with what is available",
+              "body": [
+                "What is available to you today? Choose the safe simulation if you cannot perform a real task within its limits.",
+                "You do not need to explain personal circumstances or make a public commitment."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 59–62, 42, 47",
+                "M02-W: pages 52–55, 38, 43"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m07-apply",
+              "type": "do_practice",
+              "heading": "Make and check the improvement",
+              "body": [
+                "Perform the chosen readiness check, identify a concrete gap and make a safe correction within your authority.",
+                "For the fictional option, produce a usable revised card offline and check its reference/access label."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 59–62, 42, 47",
+                "M02-W: pages 52–55, 38, 43"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m07-next",
+              "type": "commitment",
+              "heading": "Choose a next short rehearsal",
+              "body": [
+                "After the Action, choose what a future refresher or qualified practical training session could help you practise.",
+                "This future plan is optional and does not replace the readiness task you have performed."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 59–62",
+                "M02-W: pages 52–55"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m07-complete",
+              "type": "completion",
+              "heading": "What these activities establish",
+              "body": [
+                "After every required mission and review is complete, the programme records completion of online awareness activities and self-declared safe application.",
+                "Coached practical training remains a separate next learning step. This programme does not issue a clinical competence claim."
+              ],
+              "sourceRefs": [
+                "M02-P: slides 59–62",
+                "M02-W: pages 52–55"
+              ],
+              "reviewState": "DRAFT"
+            },
+            {
+              "id": "m02-m07-aar",
+              "type": "aar",
+              "heading": "Your private review",
+              "body": [
+                "What did you change?",
+                "Was it usable when you checked it?",
+                "What barrier remains?",
+                "What will your next short rehearsal revisit?"
+              ],
+              "sourceRefs": [
+                "M02-P: slides 59–62, 42, 47",
+                "M02-W: pages 52–55, 38, 43"
+              ],
+              "reviewState": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose one reviewed readiness option that is safe and available, or use the fictional card.",
+            "Perform the task now without placing calls, testing emergency features or entering personal information online.",
+            "Identify and correct one gap; for the simulation, revise the missing reference/access label offline.",
+            "Check whether the revised result is usable and consider a further improvement privately.",
+            "Optionally identify a next refresher or qualified training need after completing the Action."
+          ],
+          "aarPrompts": [
+            "What did you change?",
+            "Was it usable when you checked it?",
+            "What barrier remains?",
+            "What will your next short rehearsal revisit?"
+          ],
+          "reviewNotes": [
+            "DRAFT — safety publication approval has not been granted. No completion-awarding checkpoint is supplied by this content asset.",
+            "Review R09 and R12–R14/R16, including qualified local source, rights and completion wording review.",
+            "Supply readiness option cards, an approved fictional card specification and non-clinical checklist. Any training-information link must be dated and verified.",
+            "Replace W53 “certified by courage” with honest online-awareness wording. Personal-readiness worksheets must say keep offline.",
+            "If neither the real task nor the simulation is possible, pause with support; do not award credit for an intention alone.",
+            "Blueprint source: CAPAi_Module02_KSDA_Blueprint_v1.0.md, Mission 7. Engine Master Spec v1.0 §§3, 6–8 and 10 govern typed blocks, privacy, approval and completion."
+          ]
+        }
+      ],
+      "reviewNotes": [
+        "DRAFT — no course Start or completion-awarding assessment may be enabled until required procedures, scenarios, rationales, language and rules receive qualified approval.",
+        "This asset adapts blueprint text. Source slide/page references are provenance pointers; the source originals were not revalidated during this content extraction.",
+        "English is the source language. Safety-critical BM content needs qualified review; do not silently machine-translate procedures.",
+        "Time values are author planning estimates, not measured duration or equivalence to the original eight-hour facilitated course.",
+        "Action and AAR remain private. AAR prose must never be submitted, persisted, analysed or scored; incomplete text exists in memory only.",
+        "Progress requires approved deterministic checks plus performed Action or safe equivalent and private AAR consideration. Reading this draft is not a completion gate.",
+        "Medical and emergency scenario cards, answer keys and rationales are intentionally not invented or embedded in this asset."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1486 @@
+[
+  {
+    "slug": "fire-life-safety",
+    "title": "Fire & Life Safety Awareness",
+    "titleMs": "Kesedaran Keselamatan Kebakaran dan Nyawa",
+    "topics": [
+      {
+        "id": "fire-m01",
+        "title": "Notice what normal hides",
+        "titleMs": "Perhatikan risiko yang sering terlepas pandang",
+        "notes": [
+          "A familiar object and the condition around it are different things to notice. Describe what you can see without claiming to know the cause.",
+          "Use an imagined room for this exercise. No touching, testing or moving equipment is needed."
+        ],
+        "notesMs": [
+          "Objek yang biasa dilihat dan keadaan di sekelilingnya ialah dua perkara berbeza untuk diperhatikan. Huraikan perkara yang dapat anda lihat tanpa mendakwa anda mengetahui puncanya.",
+          "Gunakan ruang rekaan untuk latihan ini. Anda tidak perlu menyentuh, menguji atau memindahkan peralatan."
+        ],
+        "questions": [
+          {
+            "id": "fire-m01-q1",
+            "prompt": "Which part of an imagined room would you describe first?",
+            "promptMs": "Bahagian manakah dalam ruang rekaan yang ingin anda gambarkan dahulu?",
+            "options": [
+              "An everyday object",
+              "The space around it",
+              "An ordinary routine"
+            ],
+            "optionsMs": [
+              "Objek harian",
+              "Ruang di sekelilingnya",
+              "Rutin harian"
+            ],
+            "feedback": "Describe an observable condition, then separate that observation from what you still do not know.",
+            "feedbackMs": "Huraikan keadaan yang boleh diperhatikan, kemudian bezakannya daripada perkara yang masih belum diketahui."
+          },
+          {
+            "id": "fire-m01-q2",
+            "prompt": "What would help you look beyond a familiar routine?",
+            "promptMs": "Apakah yang membantu anda menilai semula rutin yang sudah biasa?",
+            "options": [
+              "A second perspective",
+              "A written reminder",
+              "Time to look carefully"
+            ],
+            "optionsMs": [
+              "Pandangan orang lain",
+              "Peringatan bertulis",
+              "Masa untuk meneliti"
+            ],
+            "feedback": "Choose a reminder that helps you notice without investigating a potentially dangerous object.",
+            "feedbackMs": "Pilih peringatan yang membantu anda peka tanpa menyiasat objek yang mungkin berbahaya."
+          }
+        ],
+        "notesPrompt": "Using an imagined room, note one observation and one question you would ask.",
+        "notesPromptMs": "Berdasarkan ruang rekaan, catat satu pemerhatian dan satu soalan yang ingin anda tanyakan.",
+        "videoUrl": null
+      },
+      {
+        "id": "fire-m02",
+        "title": "Turn a risk into a safer routine",
+        "titleMs": "Tangani risiko melalui rutin yang lebih selamat",
+        "notes": [
+          "A useful improvement is small enough to repeat and clear enough to explain.",
+          "This topic practises describing a concern and asking for suitable help. It does not ask you to repair equipment."
+        ],
+        "notesMs": [
+          "Penambahbaikan yang berguna cukup mudah untuk diulangi dan cukup jelas untuk diterangkan.",
+          "Topik ini melatih anda menerangkan kebimbangan dan meminta bantuan yang sesuai. Anda tidak diminta membaiki peralatan."
+        ],
+        "questions": [
+          {
+            "id": "fire-m02-q1",
+            "prompt": "Which habit-building difficulty feels most familiar?",
+            "promptMs": "Cabaran membina tabiat manakah yang paling biasa anda hadapi?",
+            "options": [
+              "Forgetting the plan",
+              "Not knowing whom to ask",
+              "Trying too much at once"
+            ],
+            "optionsMs": [
+              "Terlupa rancangan",
+              "Tidak tahu siapa hendak ditanya",
+              "Mencuba terlalu banyak perkara serentak"
+            ],
+            "feedback": "Name the barrier first; a smaller task or clearer request can make your next step more realistic.",
+            "feedbackMs": "Kenal pasti halangan dahulu; tugas yang lebih kecil atau permintaan yang lebih jelas menjadikan langkah seterusnya lebih realistik."
+          },
+          {
+            "id": "fire-m02-q2",
+            "prompt": "What would you clarify in a fictional help request?",
+            "promptMs": "Apakah yang ingin anda jelaskan dalam permintaan bantuan rekaan?",
+            "options": [
+              "What I noticed",
+              "What I do not know",
+              "What help I need"
+            ],
+            "optionsMs": [
+              "Apa yang saya perhatikan",
+              "Apa yang belum saya ketahui",
+              "Bantuan yang saya perlukan"
+            ],
+            "feedback": "A clear request distinguishes your observation, uncertainty and need for help.",
+            "feedbackMs": "Permintaan yang jelas membezakan pemerhatian, ketidakpastian dan bantuan yang diperlukan."
+          }
+        ],
+        "notesPrompt": "Draft one fictional request for help and one reminder that would make follow-up easier.",
+        "notesPromptMs": "Draf satu permintaan bantuan rekaan dan satu peringatan untuk memudahkan tindakan susulan.",
+        "videoUrl": null
+      },
+      {
+        "id": "fire-m03",
+        "title": "Make the plan fit the people",
+        "titleMs": "Pastikan pelan sesuai dengan orang yang menggunakannya",
+        "notes": [
+          "A written plan may still contain assumptions about what others understand or have agreed to.",
+          "Use a fictional household to think about communication and inclusion. Keep real addresses, layouts and support needs offline."
+        ],
+        "notesMs": [
+          "Pelan bertulis mungkin masih mengandungi andaian tentang kefahaman atau persetujuan orang lain.",
+          "Gunakan isi rumah rekaan untuk memikirkan komunikasi dan keterangkuman. Simpan alamat, pelan rumah dan keperluan bantuan sebenar di luar talian."
+        ],
+        "questions": [
+          {
+            "id": "fire-m03-q1",
+            "prompt": "Whose perspective would you add to a fictional plan?",
+            "promptMs": "Perspektif siapakah yang ingin anda tambah pada pelan rekaan?",
+            "options": [
+              "A visitor",
+              "Someone needing clearer information",
+              "A person absent from planning"
+            ],
+            "optionsMs": [
+              "Pelawat",
+              "Orang yang memerlukan maklumat lebih jelas",
+              "Orang yang tidak menyertai perancangan"
+            ],
+            "feedback": "Considering another perspective can reveal an assumption that the writer did not notice.",
+            "feedbackMs": "Perspektif lain boleh menunjukkan andaian yang tidak disedari oleh penulis pelan."
+          },
+          {
+            "id": "fire-m03-q2",
+            "prompt": "Which planning conversation would you practise first?",
+            "promptMs": "Perbualan tentang pelan manakah yang ingin anda latih dahulu?",
+            "options": [
+              "Checking understanding",
+              "Asking about communication needs",
+              "Confirming an agreed role"
+            ],
+            "optionsMs": [
+              "Menyemak kefahaman",
+              "Bertanya tentang keperluan komunikasi",
+              "Mengesahkan peranan yang dipersetujui"
+            ],
+            "feedback": "A name written in a plan is a starting point for discussion, not evidence of agreement.",
+            "feedbackMs": "Nama yang ditulis dalam pelan ialah titik mula perbincangan, bukan bukti persetujuan."
+          }
+        ],
+        "notesPrompt": "For a fictional household, write one assumption and the question that would clarify it.",
+        "notesPromptMs": "Bagi isi rumah rekaan, tulis satu andaian dan soalan untuk menjelaskannya.",
+        "videoUrl": null
+      },
+      {
+        "id": "fire-m04",
+        "title": "Rehearse, notice, improve",
+        "titleMs": "Latih, perhatikan dan tambah baik",
+        "notes": [
+          "A tabletop rehearsal is a conversation about an imagined situation. It does not require smoke, surprise incidents or physical danger.",
+          "Review can focus on an unclear sentence, an unassigned role or an assumption that needs discussion."
+        ],
+        "notesMs": [
+          "Latihan meja ialah perbincangan tentang situasi rekaan. Ia tidak memerlukan asap, kejadian mengejut atau bahaya fizikal.",
+          "Semakan boleh menumpukan ayat yang kurang jelas, peranan yang belum ditetapkan atau andaian yang perlu dibincangkan."
+        ],
+        "questions": [
+          {
+            "id": "fire-m04-q1",
+            "prompt": "Which part of a spoken rehearsal would you observe?",
+            "promptMs": "Bahagian manakah dalam latihan lisan yang ingin anda perhatikan?",
+            "options": [
+              "Clarity of the message",
+              "Whether roles are understood",
+              "Questions left unanswered"
+            ],
+            "optionsMs": [
+              "Kejelasan mesej",
+              "Kefahaman tentang peranan",
+              "Soalan yang belum terjawab"
+            ],
+            "feedback": "Choose one observation to discuss rather than judging the entire rehearsal as a success or failure.",
+            "feedbackMs": "Pilih satu pemerhatian untuk dibincangkan tanpa menilai seluruh latihan sebagai berjaya atau gagal."
+          },
+          {
+            "id": "fire-m04-q2",
+            "prompt": "What would make a second attempt more useful?",
+            "promptMs": "Apakah yang menjadikan percubaan kedua lebih berguna?",
+            "options": [
+              "Shorter wording",
+              "A clearer role description",
+              "Time for questions"
+            ],
+            "optionsMs": [
+              "Ayat yang lebih ringkas",
+              "Penerangan peranan yang lebih jelas",
+              "Masa untuk bertanya"
+            ],
+            "feedback": "Repeat the part you changed so you can notice whether the explanation became clearer.",
+            "feedbackMs": "Ulang bahagian yang diubah supaya anda boleh menilai sama ada penerangannya lebih jelas."
+          }
+        ],
+        "notesPrompt": "Reflect on a fictional planning conversation: what was unclear and how would you rephrase it?",
+        "notesPromptMs": "Renungkan perbualan perancangan rekaan: apakah yang kurang jelas dan bagaimana anda akan mengungkapkannya semula?",
+        "videoUrl": null
+      },
+      {
+        "id": "fire-m05",
+        "title": "Put judgement before equipment",
+        "titleMs": "Utamakan pertimbangan sebelum menggunakan peralatan",
+        "notes": [
+          "Seeing equipment is different from being trained to use it. This topic does not teach extinguisher operation.",
+          "A useful learning question can identify information you lack and the qualified person you would ask."
+        ],
+        "notesMs": [
+          "Melihat peralatan tidak bermakna anda telah dilatih untuk menggunakannya. Topik ini tidak mengajar cara mengendalikan alat pemadam api.",
+          "Soalan pembelajaran yang berguna boleh mengenal pasti maklumat yang belum diketahui dan individu berkelayakan yang boleh dirujuk."
+        ],
+        "questions": [
+          {
+            "id": "fire-m05-q1",
+            "prompt": "Which equipment-related question would you take to a trainer?",
+            "promptMs": "Soalan tentang peralatan manakah yang ingin anda ajukan kepada jurulatih?",
+            "options": [
+              "What training is needed?",
+              "How are instructions explained?",
+              "Who manages this equipment?"
+            ],
+            "optionsMs": [
+              "Apakah latihan yang diperlukan?",
+              "Bagaimanakah arahan diterangkan?",
+              "Siapakah yang menguruskan peralatan ini?"
+            ],
+            "feedback": "These are learning questions; choosing one does not establish that you can operate the equipment.",
+            "feedbackMs": "Ini ialah soalan pembelajaran; memilih satu tidak membuktikan bahawa anda boleh mengendalikan peralatan tersebut."
+          },
+          {
+            "id": "fire-m05-q2",
+            "prompt": "What makes it difficult to admit a knowledge gap?",
+            "promptMs": "Apakah yang menyukarkan anda mengakui kekurangan pengetahuan?",
+            "options": [
+              "Pressure to appear confident",
+              "Not knowing whom to ask",
+              "Assuming familiarity is enough"
+            ],
+            "optionsMs": [
+              "Tekanan untuk kelihatan yakin",
+              "Tidak tahu siapa hendak ditanya",
+              "Menganggap kebiasaan sudah memadai"
+            ],
+            "feedback": "Recognising a limit is useful information when deciding what further learning you need.",
+            "feedbackMs": "Mengenali batas diri membantu anda menentukan pembelajaran lanjut yang diperlukan."
+          }
+        ],
+        "notesPrompt": "Write one question about equipment training. Do not test or operate equipment for this activity.",
+        "notesPromptMs": "Tulis satu soalan tentang latihan peralatan. Jangan menguji atau mengendalikan peralatan untuk aktiviti ini.",
+        "videoUrl": null
+      },
+      {
+        "id": "fire-m06",
+        "title": "Correct a myth. Carry it forward.",
+        "titleMs": "Betulkan salah tanggapan. Bawa pembelajaran itu ke langkah seterusnya.",
+        "notes": [
+          "A repeated claim can feel familiar without having been checked. Keep the claim separate from the source used to check it.",
+          "This closing topic is about explaining what you learned and identifying what still needs qualified guidance."
+        ],
+        "notesMs": [
+          "Dakwaan yang sering diulang boleh terasa biasa walaupun belum disemak. Bezakan dakwaan itu daripada sumber yang digunakan untuk menyemaknya.",
+          "Topik penutup ini membantu anda menerangkan perkara yang telah dipelajari dan mengenal pasti perkara yang masih memerlukan bimbingan daripada pihak berkelayakan."
+        ],
+        "questions": [
+          {
+            "id": "fire-m06-q1",
+            "prompt": "Which part of a familiar claim would you examine?",
+            "promptMs": "Bahagian manakah dalam dakwaan yang biasa didengar ingin anda teliti?",
+            "options": [
+              "Where it came from",
+              "What situation it refers to",
+              "What remains uncertain"
+            ],
+            "optionsMs": [
+              "Asal dakwaan",
+              "Situasi yang dimaksudkan",
+              "Perkara yang masih belum pasti"
+            ],
+            "feedback": "Write down a question to verify rather than turning an unreviewed claim into advice.",
+            "feedbackMs": "Catat soalan untuk disahkan dan elakkan menjadikan dakwaan yang belum disemak sebagai nasihat."
+          },
+          {
+            "id": "fire-m06-q2",
+            "prompt": "How would you carry this learning forward?",
+            "promptMs": "Bagaimanakah anda ingin meneruskan pembelajaran ini?",
+            "options": [
+              "Discuss one question",
+              "Review a reliable reference",
+              "Explore qualified training"
+            ],
+            "optionsMs": [
+              "Bincangkan satu soalan",
+              "Semak rujukan yang boleh dipercayai",
+              "Teroka latihan oleh pihak berkelayakan"
+            ],
+            "feedback": "Choose a manageable next step; this self-study record does not establish emergency-response competence.",
+            "feedbackMs": "Pilih langkah seterusnya yang mampu dilaksanakan; rekod pembelajaran kendiri ini tidak membuktikan kecekapan tindak balas kecemasan."
+          }
+        ],
+        "notesPrompt": "Note one idea you can explain clearly and one question you still want to verify.",
+        "notesPromptMs": "Catat satu idea yang boleh anda terangkan dengan jelas dan satu soalan yang masih ingin anda sahkan.",
+        "videoUrl": null
+      }
+    ]
+  },
+  {
+    "slug": "first-aid-cpr-aed",
+    "title": "First Aid / CPR / AED Awareness",
+    "titleMs": "Kesedaran Pertolongan Cemas, CPR dan AED",
+    "topics": [
+      {
+        "id": "m02-m01",
+        "title": "Begin safely. Make the call.",
+        "titleMs": "Mulakan dengan selamat. Buat panggilan.",
+        "notes": [
+          "This is awareness learning. It does not assess physical first-aid skills or replace qualified practical training.",
+          "Use an imagined setting to practise introducing a concern clearly. Do not make a real emergency call for practice."
+        ],
+        "notesMs": [
+          "Ini ialah pembelajaran kesedaran. Ia tidak menilai kemahiran fizikal pertolongan cemas atau menggantikan latihan amali di bawah bimbingan pengajar berkelayakan.",
+          "Gunakan latar rekaan untuk melatih cara menyampaikan kebimbangan dengan jelas. Jangan membuat panggilan kecemasan sebenar untuk latihan."
+        ],
+        "questions": [
+          {
+            "id": "m02-m01-q1",
+            "prompt": "What makes speaking in an unfamiliar situation difficult?",
+            "promptMs": "Apakah yang menyukarkan anda bercakap dalam situasi yang tidak biasa?",
+            "options": [
+              "Finding the words",
+              "Speaking under pressure",
+              "Asking someone for help"
+            ],
+            "optionsMs": [
+              "Mencari perkataan yang sesuai",
+              "Bercakap dalam keadaan tertekan",
+              "Meminta bantuan orang lain"
+            ],
+            "feedback": "Select the communication skill you would like to practise using fictional details.",
+            "feedbackMs": "Pilih kemahiran komunikasi yang ingin anda latih menggunakan butiran rekaan."
+          },
+          {
+            "id": "m02-m01-q2",
+            "prompt": "Which part of a fictional conversation would you rehearse?",
+            "promptMs": "Bahagian manakah dalam perbualan rekaan yang ingin anda latih?",
+            "options": [
+              "Describing the setting",
+              "Explaining what I observed",
+              "Asking a clear question"
+            ],
+            "optionsMs": [
+              "Menggambarkan latar",
+              "Menerangkan pemerhatian",
+              "Mengemukakan soalan yang jelas"
+            ],
+            "feedback": "Keep observation and assumption separate. This exercise has no clinical decision or live call.",
+            "feedbackMs": "Bezakan pemerhatian daripada andaian. Latihan ini tidak melibatkan keputusan klinikal atau panggilan sebenar."
+          }
+        ],
+        "notesPrompt": "Draft a short conversation in an invented setting, then identify one sentence to make clearer.",
+        "notesPromptMs": "Draf perbualan ringkas dalam latar rekaan, kemudian kenal pasti satu ayat yang boleh diperjelas.",
+        "videoUrl": null
+      },
+      {
+        "id": "m02-m02",
+        "title": "Recognise the response pathway",
+        "titleMs": "Kenali langkah tindak balas",
+        "notes": [
+          "Recognising the name of a first-aid framework is different from applying it with a qualified instructor.",
+          "This topic helps you identify learning gaps. It does not present or test a clinical response sequence."
+        ],
+        "notesMs": [
+          "Mengenali nama rangka kerja pertolongan cemas berbeza daripada menggunakannya bersama pengajar berkelayakan.",
+          "Topik ini membantu anda mengenal pasti jurang pembelajaran. Ia tidak membentangkan atau menguji urutan tindak balas klinikal."
+        ],
+        "questions": [
+          {
+            "id": "m02-m02-q1",
+            "prompt": "What would you want an instructor to clarify?",
+            "promptMs": "Apakah yang ingin anda minta pengajar jelaskan?",
+            "options": [
+              "Unfamiliar terminology",
+              "The limits of awareness learning",
+              "How practical learning is assessed"
+            ],
+            "optionsMs": [
+              "Istilah yang belum biasa",
+              "Batas pembelajaran kesedaran",
+              "Cara pembelajaran amali dinilai"
+            ],
+            "feedback": "Turn your uncertainty into a specific training question without guessing a procedure.",
+            "feedbackMs": "Jadikan ketidakpastian sebagai soalan latihan yang khusus tanpa meneka prosedur."
+          },
+          {
+            "id": "m02-m02-q2",
+            "prompt": "How do you prefer to revisit an unfamiliar idea?",
+            "promptMs": "Bagaimanakah anda lebih suka mengulang kaji idea yang belum biasa?",
+            "options": [
+              "Ask for an explanation",
+              "Read a reviewed reference",
+              "Discuss it during training"
+            ],
+            "optionsMs": [
+              "Minta penerangan",
+              "Baca rujukan yang telah disemak",
+              "Bincangkan semasa latihan"
+            ],
+            "feedback": "Choose a method that helps you recognise what you understand and what still needs guidance.",
+            "feedbackMs": "Pilih kaedah yang membantu anda mengenal pasti kefahaman dan perkara yang masih memerlukan panduan."
+          }
+        ],
+        "notesPrompt": "List one term you want explained and one practical skill you would only learn with qualified instruction.",
+        "notesPromptMs": "Senaraikan satu istilah yang mahu anda minta penjelasannya dan satu kemahiran amali yang hanya akan anda pelajari di bawah bimbingan pengajar berkelayakan.",
+        "videoUrl": null
+      },
+      {
+        "id": "m02-m03",
+        "title": "Understand the CPR–AED team",
+        "titleMs": "Fahami kerjasama pasukan CPR–AED",
+        "notes": [
+          "An online topic cannot observe or certify your CPR or AED technique. Physical skills require suitable practical instruction.",
+          "Here, practise only how a fictional team communicates and asks about training needs. No physical demonstration is required."
+        ],
+        "notesMs": [
+          "Topik dalam talian tidak dapat memerhatikan atau mengesahkan teknik CPR atau AED anda. Kemahiran fizikal memerlukan pengajaran amali yang sesuai.",
+          "Di sini, latih hanya cara pasukan rekaan berkomunikasi dan bertanya tentang keperluan latihan. Tiada demonstrasi fizikal diperlukan."
+        ],
+        "questions": [
+          {
+            "id": "m02-m03-q1",
+            "prompt": "Which team communication habit would you practise?",
+            "promptMs": "Tabiat komunikasi berpasukan manakah yang ingin anda latih?",
+            "options": [
+              "Naming the intended listener",
+              "Checking that a message was heard",
+              "Clarifying an unclear task"
+            ],
+            "optionsMs": [
+              "Menyebut nama penerima mesej",
+              "Memastikan mesej telah didengar",
+              "Menjelaskan tugas yang kurang jelas"
+            ],
+            "feedback": "Use a fictional task to practise clarity; this does not test a CPR or AED response.",
+            "feedbackMs": "Gunakan tugas rekaan untuk melatih kejelasan; ini bukan ujian tindak balas CPR atau AED."
+          },
+          {
+            "id": "m02-m03-q2",
+            "prompt": "What would help you plan qualified practical training?",
+            "promptMs": "Apakah yang dapat membantu anda merancang latihan amali di bawah bimbingan pengajar berkelayakan?",
+            "options": [
+              "Knowing the training format",
+              "Finding a suitable session",
+              "Asking about accessibility"
+            ],
+            "optionsMs": [
+              "Mengetahui bentuk latihan",
+              "Mencari sesi yang sesuai",
+              "Bertanya tentang kebolehcapaian"
+            ],
+            "feedback": "Identify a practical question for a training provider instead of treating confidence as a skill assessment.",
+            "feedbackMs": "Kenal pasti soalan praktikal untuk penyedia latihan dan jangan anggap keyakinan sebagai penilaian kemahiran."
+          }
+        ],
+        "notesPrompt": "Write a fictional task handover and one question for a CPR/AED training provider.",
+        "notesPromptMs": "Tulis penyerahan tugas rekaan dan satu soalan untuk penyedia latihan CPR/AED.",
+        "videoUrl": null
+      },
+      {
+        "id": "m02-m04",
+        "title": "Notice when choking changes",
+        "titleMs": "Perhatikan perubahan keadaan tercekik",
+        "notes": [
+          "Descriptions of a scene can change. Practise separating what an observer reports from what has been assumed.",
+          "Choking-response techniques are outside this reflection activity. Discuss age and individual circumstances during qualified practical training."
+        ],
+        "notesMs": [
+          "Gambaran sesuatu situasi boleh berubah. Latih cara membezakan laporan pemerhati daripada perkara yang diandaikan.",
+          "Teknik bantuan bagi keadaan tercekik tidak termasuk dalam aktiviti refleksi ini. Bincangkan umur dan keadaan individu semasa latihan amali di bawah bimbingan pengajar berkelayakan."
+        ],
+        "questions": [
+          {
+            "id": "m02-m04-q1",
+            "prompt": "What would you compare between two fictional updates?",
+            "promptMs": "Apakah yang ingin anda bandingkan antara dua laporan perkembangan dalam senario rekaan?",
+            "options": [
+              "What new information appeared",
+              "What remains unknown",
+              "What the speaker actually observed"
+            ],
+            "optionsMs": [
+              "Maklumat baharu yang muncul",
+              "Perkara yang masih belum diketahui",
+              "Perkara yang benar-benar diperhatikan oleh penutur"
+            ],
+            "feedback": "Describe the difference in the reports without selecting or practising a physical intervention.",
+            "feedbackMs": "Huraikan perbezaan laporan tanpa memilih atau mempraktikkan tindakan fizikal."
+          },
+          {
+            "id": "m02-m04-q2",
+            "prompt": "Which question would you bring to a choking-awareness session?",
+            "promptMs": "Soalan manakah yang ingin anda bawa ke sesi kesedaran tentang tercekik?",
+            "options": [
+              "What practical training covers",
+              "How training addresses different ages",
+              "Where to find reviewed learning material"
+            ],
+            "optionsMs": [
+              "Perkara yang diliputi dalam latihan amali",
+              "Cara latihan menangani keperluan kumpulan umur yang berbeza",
+              "Tempat mendapatkan bahan pembelajaran yang telah disemak"
+            ],
+            "feedback": "Keep technique questions for a qualified instructor; this page records awareness study only.",
+            "feedbackMs": "Rujuk soalan teknik kepada pengajar berkelayakan; halaman ini hanya merekodkan pembelajaran kesedaran."
+          }
+        ],
+        "notesPrompt": "Using fictional nonclinical details, describe something that changed and a question you would ask to clarify it.",
+        "notesPromptMs": "Gunakan butiran rekaan bukan klinikal untuk menerangkan satu perubahan dan soalan bagi menjelaskannya.",
+        "videoUrl": null
+      },
+      {
+        "id": "m02-m05",
+        "title": "Prioritise an injury response",
+        "titleMs": "Tetapkan keutamaan tindak balas terhadap kecederaan",
+        "notes": [
+          "Knowing where an existing kit or learning reference is kept is a readiness question, not proof of treatment ability.",
+          "Use a fictional kit list for this activity. Do not handle medicines, test equipment or practise treatment on another person."
+        ],
+        "notesMs": [
+          "Mengetahui tempat kit yang sedia ada atau rujukan pembelajaran disimpan berkaitan dengan kesediaan, bukan bukti kebolehan merawat.",
+          "Gunakan senarai kit rekaan untuk aktiviti ini. Jangan mengendalikan ubat, menguji peralatan atau mempraktikkan rawatan pada orang lain."
+        ],
+        "questions": [
+          {
+            "id": "m02-m05-q1",
+            "prompt": "Which readiness detail would you clarify first?",
+            "promptMs": "Butiran kesediaan manakah yang ingin anda jelaskan dahulu?",
+            "options": [
+              "Who manages the kit",
+              "Where the reference is kept",
+              "Whom to ask about training"
+            ],
+            "optionsMs": [
+              "Siapa yang menguruskan kit",
+              "Tempat rujukan disimpan",
+              "Siapa hendak ditanya tentang latihan"
+            ],
+            "feedback": "Choose an information gap that can be discussed without giving treatment advice.",
+            "feedbackMs": "Pilih jurang maklumat yang boleh dibincangkan tanpa memberikan nasihat rawatan."
+          },
+          {
+            "id": "m02-m05-q2",
+            "prompt": "What would make learning resources easier to use?",
+            "promptMs": "Apakah yang memudahkan penggunaan sumber pembelajaran?",
+            "options": [
+              "Clear labels",
+              "Readable instructions",
+              "A known point of contact"
+            ],
+            "optionsMs": [
+              "Label yang jelas",
+              "Arahan yang mudah dibaca",
+              "Orang rujukan yang dikenal pasti"
+            ],
+            "feedback": "Consider access and understanding; selecting a resource does not validate its clinical content.",
+            "feedbackMs": "Pertimbangkan akses dan kefahaman; memilih sumber tidak mengesahkan kandungan klinikalnya."
+          }
+        ],
+        "notesPrompt": "Describe one fictional kit-management or reference-access question and whom you would ask.",
+        "notesPromptMs": "Huraikan satu soalan rekaan tentang pengurusan kit atau akses kepada rujukan, serta kepada siapa anda akan bertanya.",
+        "videoUrl": null
+      },
+      {
+        "id": "m02-m06",
+        "title": "Rehearse the whole scene",
+        "titleMs": "Latih keseluruhan situasi",
+        "notes": [
+          "A tabletop conversation can reveal unclear wording and overlapping roles without staging an injury or collapse.",
+          "Focus on listening, explaining and handing over information. No clinical decisions are assessed here."
+        ],
+        "notesMs": [
+          "Perbincangan senario boleh mendedahkan ungkapan yang kurang jelas dan peranan yang bertindih tanpa melakonkan kecederaan atau kejadian seseorang rebah.",
+          "Tumpukan perhatian pada mendengar, menerangkan dan menyerahkan maklumat. Tiada keputusan klinikal dinilai di sini."
+        ],
+        "questions": [
+          {
+            "id": "m02-m06-q1",
+            "prompt": "Which communication role would you try in a fictional exercise?",
+            "promptMs": "Peranan komunikasi manakah yang ingin anda cuba dalam latihan rekaan?",
+            "options": [
+              "Explaining the known facts",
+              "Listening and asking questions",
+              "Observing clarity"
+            ],
+            "optionsMs": [
+              "Menerangkan fakta yang diketahui",
+              "Mendengar dan bertanya",
+              "Memerhatikan sama ada komunikasi jelas"
+            ],
+            "feedback": "Each role offers a different way to notice where a message becomes unclear.",
+            "feedbackMs": "Setiap peranan membantu anda melihat dari sudut berbeza apabila mesej menjadi kurang jelas."
+          },
+          {
+            "id": "m02-m06-q2",
+            "prompt": "What would you repeat after a practice conversation?",
+            "promptMs": "Apakah yang ingin anda ulang selepas perbualan latihan?",
+            "options": [
+              "A confusing sentence",
+              "An incomplete handover",
+              "A question that was missed"
+            ],
+            "optionsMs": [
+              "Ayat yang mengelirukan",
+              "Penyerahan maklumat yang tidak lengkap",
+              "Soalan yang terlepas pandang"
+            ],
+            "feedback": "Choose one communication improvement and try it again using invented details.",
+            "feedbackMs": "Pilih satu penambahbaikan komunikasi dan cuba semula menggunakan butiran rekaan."
+          }
+        ],
+        "notesPrompt": "Reflect on an imagined team conversation: what worked, what was unclear, and what would you change?",
+        "notesPromptMs": "Renungkan perbualan pasukan rekaan: apakah yang berkesan, kurang jelas dan ingin anda ubah?",
+        "videoUrl": null
+      },
+      {
+        "id": "m02-m07",
+        "title": "Make readiness tangible",
+        "titleMs": "Jadikan kesediaan lebih nyata",
+        "notes": [
+          "Completing these topics records self-study. It is not a first-aid qualification or a practical competency assessment.",
+          "A realistic next learning step can be a question for a trainer, a reference review or a plan for suitable practical instruction."
+        ],
+        "notesMs": [
+          "Menyelesaikan topik-topik ini merekodkan pembelajaran kendiri. Ia bukan kelayakan pertolongan cemas atau penilaian kecekapan amali.",
+          "Langkah pembelajaran seterusnya yang realistik boleh berupa soalan untuk jurulatih, semakan rujukan atau rancangan mengikuti latihan amali yang sesuai."
+        ],
+        "questions": [
+          {
+            "id": "m02-m07-q1",
+            "prompt": "Which next learning step feels achievable?",
+            "promptMs": "Langkah pembelajaran seterusnya manakah yang mampu anda laksanakan?",
+            "options": [
+              "Ask a training provider",
+              "Review my learning questions",
+              "Find an accessible training option"
+            ],
+            "optionsMs": [
+              "Bertanya kepada penyedia latihan",
+              "Menyemak soalan pembelajaran saya",
+              "Mencari pilihan latihan yang boleh diakses"
+            ],
+            "feedback": "Choose a step you can describe clearly rather than promising complete readiness.",
+            "feedbackMs": "Pilih langkah yang dapat diterangkan dengan jelas tanpa menjanjikan kesediaan menyeluruh."
+          },
+          {
+            "id": "m02-m07-q2",
+            "prompt": "What would help you follow through?",
+            "promptMs": "Apakah yang dapat membantu anda melaksanakan langkah itu hingga selesai?",
+            "options": [
+              "A reminder",
+              "A learning companion",
+              "A smaller first step"
+            ],
+            "optionsMs": [
+              "Peringatan",
+              "Rakan belajar",
+              "Langkah pertama yang lebih kecil"
+            ],
+            "feedback": "A realistic support or reminder can help turn a learning intention into a planned next action.",
+            "feedbackMs": "Sokongan atau peringatan yang realistik membantu menukar niat belajar kepada tindakan seterusnya yang dirancang."
+          }
+        ],
+        "notesPrompt": "Write one training question, your next learning step and a private reminder to revisit it.",
+        "notesPromptMs": "Tulis satu soalan latihan, langkah pembelajaran seterusnya dan peringatan peribadi untuk menyemaknya semula.",
+        "videoUrl": null
+      }
+    ]
+  },
+  {
+    "slug": "online-security-fraud-prevention",
+    "title": "Online Security & Fraud Prevention",
+    "titleMs": "Keselamatan Dalam Talian dan Pencegahan Penipuan",
+    "topics": [
+      {
+        "id": "m03.m01",
+        "title": "Find the accounts that matter",
+        "titleMs": "Kenal pasti akaun yang paling penting",
+        "notes": [
+          "Some accounts connect to other services through recovery or sign-in arrangements. Think about those relationships using account categories only.",
+          "Never enter passwords, OTPs, recovery codes, account numbers or real financial details into this lesson."
+        ],
+        "notesMs": [
+          "Sesetengah akaun berhubung dengan perkhidmatan lain melalui tetapan pemulihan atau log masuk. Fikirkan hubungan itu menggunakan kategori akaun sahaja.",
+          "Jangan masukkan kata laluan, OTP, kod pemulihan, nombor akaun atau butiran kewangan sebenar dalam pelajaran ini."
+        ],
+        "questions": [
+          {
+            "id": "m03.m01-q1",
+            "prompt": "Which account category would you map first?",
+            "promptMs": "Kategori akaun manakah yang ingin anda petakan dahulu?",
+            "options": [
+              "Email and recovery",
+              "Work and cloud services",
+              "Everyday personal services"
+            ],
+            "optionsMs": [
+              "E-mel dan pemulihan",
+              "Perkhidmatan kerja dan awan",
+              "Perkhidmatan peribadi harian"
+            ],
+            "feedback": "Use categories rather than identifiers, and notice which services depend on others.",
+            "feedbackMs": "Gunakan kategori dan bukannya maklumat pengenalan, serta perhatikan perkhidmatan yang bergantung pada perkhidmatan lain."
+          },
+          {
+            "id": "m03.m01-q2",
+            "prompt": "What makes an account review difficult to begin?",
+            "promptMs": "Apakah yang menyukarkan anda memulakan semakan akaun?",
+            "options": [
+              "Too many accounts",
+              "Unclear recovery settings",
+              "Limited time"
+            ],
+            "optionsMs": [
+              "Terlalu banyak akaun",
+              "Tetapan pemulihan yang kurang jelas",
+              "Masa yang terhad"
+            ],
+            "feedback": "Choose one manageable review question; you do not need to reveal any account details here.",
+            "feedbackMs": "Pilih satu soalan semakan yang mudah diurus; anda tidak perlu mendedahkan butiran akaun di sini."
+          }
+        ],
+        "notesPrompt": "Using fictional account categories, note one dependency and one question for a private review.",
+        "notesPromptMs": "Gunakan kategori akaun rekaan. Catat satu hubungan kebergantungan dan satu soalan untuk disemak secara peribadi.",
+        "videoUrl": null
+      },
+      {
+        "id": "m03.m02",
+        "title": "Interrupt the pressure",
+        "titleMs": "Hentikan tekanan sebelum membuat keputusan",
+        "notes": [
+          "Urgency, authority and familiarity can influence a request. Notice both the pressure and what the sender wants you to do.",
+          "Practise with invented messages only. Do not open suspicious links or contact a suspected scammer for this activity."
+        ],
+        "notesMs": [
+          "Desakan untuk bertindak segera, pihak yang dianggap berkuasa dan rasa bahawa pengirim itu dikenali boleh mempengaruhi cara anda menerima sesuatu permintaan. Perhatikan tekanan yang digunakan serta tindakan yang diminta oleh pengirim.",
+          "Berlatih menggunakan mesej rekaan sahaja. Jangan buka pautan mencurigakan atau hubungi orang yang disyaki penipu untuk aktiviti ini."
+        ],
+        "questions": [
+          {
+            "id": "m03.m02-q1",
+            "prompt": "Which kind of pressure would you like to recognise earlier?",
+            "promptMs": "Jenis tekanan manakah yang ingin anda kenali lebih awal?",
+            "options": [
+              "Urgency",
+              "An authority claim",
+              "A familiar identity"
+            ],
+            "optionsMs": [
+              "Desakan untuk bertindak segera",
+              "Dakwaan mempunyai kuasa",
+              "Identiti yang dikenali"
+            ],
+            "feedback": "Naming the pressure can help you separate the request from your immediate reaction.",
+            "feedbackMs": "Mengenal pasti tekanan membantu anda membezakan permintaan daripada reaksi spontan."
+          },
+          {
+            "id": "m03.m02-q2",
+            "prompt": "Which pause sentence would you practise?",
+            "promptMs": "Ayat manakah yang ingin anda latih untuk meminta masa menyemak?",
+            "options": [
+              "I need time to check.",
+              "I will verify separately.",
+              "Let me confirm the details."
+            ],
+            "optionsMs": [
+              "Saya perlukan masa untuk menyemak.",
+              "Saya akan sahkan melalui saluran lain.",
+              "Biar saya sahkan butirannya."
+            ],
+            "feedback": "Try saying your chosen sentence aloud in a fictional conversation. No payment or live message is involved.",
+            "feedbackMs": "Cuba sebut ayat pilihan anda dengan kuat dalam perbualan rekaan. Tiada bayaran atau mesej sebenar terlibat."
+          }
+        ],
+        "notesPrompt": "Invent a brief request, identify its pressure, and write the pause sentence you would use.",
+        "notesPromptMs": "Reka satu permintaan ringkas, kenal pasti tekanannya dan tulis ayat untuk berhenti seketika yang ingin anda gunakan.",
+        "videoUrl": null
+      },
+      {
+        "id": "m03.m03",
+        "title": "Protect access and recovery",
+        "titleMs": "Lindungi akses dan pemulihan akaun",
+        "notes": [
+          "Sign-in and account recovery are related but distinct topics to review in a provider’s own guidance.",
+          "This exercise asks about learning needs. It never asks for credentials or requires a change to an account you do not manage."
+        ],
+        "notesMs": [
+          "Log masuk dan pemulihan akaun saling berkaitan, tetapi kedua-duanya ialah topik berbeza untuk disemak dalam panduan penyedia perkhidmatan itu sendiri.",
+          "Latihan ini bertanya tentang keperluan pembelajaran. Latihan ini tidak pernah meminta maklumat log masuk atau mewajibkan perubahan pada akaun yang tidak anda urus."
+        ],
+        "questions": [
+          {
+            "id": "m03.m03-q1",
+            "prompt": "Which protection topic would you like to understand better?",
+            "promptMs": "Topik perlindungan manakah yang ingin anda fahami dengan lebih baik?",
+            "options": [
+              "Unique sign-in credentials",
+              "MFA or passkeys",
+              "Recovery arrangements"
+            ],
+            "optionsMs": [
+              "Maklumat log masuk yang unik",
+              "MFA atau kunci laluan (passkey)",
+              "Aturan pemulihan"
+            ],
+            "feedback": "Choose a topic to review privately using the service provider’s official instructions.",
+            "feedbackMs": "Pilih topik untuk disemak secara peribadi menggunakan arahan rasmi penyedia perkhidmatan."
+          },
+          {
+            "id": "m03.m03-q2",
+            "prompt": "Which concern would you clarify before changing settings?",
+            "promptMs": "Kebimbangan manakah yang ingin anda perjelas sebelum mengubah tetapan?",
+            "options": [
+              "Losing access",
+              "Not understanding an option",
+              "Needing account-owner approval"
+            ],
+            "optionsMs": [
+              "Kehilangan akses",
+              "Tidak memahami sesuatu pilihan",
+              "Memerlukan kebenaran pemilik akaun"
+            ],
+            "feedback": "Clarify the concern first. No account change is needed to complete this self-study topic.",
+            "feedbackMs": "Jelaskan kebimbangan dahulu. Tiada perubahan akaun diperlukan untuk menamatkan topik belajar kendiri ini."
+          }
+        ],
+        "notesPrompt": "Note one protection topic and one question for the provider’s guidance. Do not include any credential.",
+        "notesPromptMs": "Catat satu topik perlindungan dan satu soalan untuk disemak dalam panduan penyedia. Jangan masukkan sebarang maklumat log masuk.",
+        "videoUrl": null
+      },
+      {
+        "id": "m03.m04",
+        "title": "Verify the connection and destination",
+        "titleMs": "Sahkan sambungan dan destinasi",
+        "notes": [
+          "A connection indicator, a website’s appearance and the identity behind a request are different things to consider.",
+          "Use an invented online task to discuss uncertainty. This lesson does not ask you to test networks or visit unfamiliar websites."
+        ],
+        "notesMs": [
+          "Petunjuk sambungan, rupa laman web dan identiti di sebalik permintaan ialah perkara berbeza yang perlu dipertimbangkan.",
+          "Gunakan tugas dalam talian rekaan untuk membincangkan ketidakpastian. Pelajaran ini tidak meminta anda menguji rangkaian atau melawat laman web yang tidak dikenali."
+        ],
+        "questions": [
+          {
+            "id": "m03.m04-q1",
+            "prompt": "Which assumption would you examine in an invented online task?",
+            "promptMs": "Andaian manakah yang ingin anda teliti dalam tugas dalam talian rekaan?",
+            "options": [
+              "The page looks familiar",
+              "The connection has a security icon",
+              "The request arrived through a known person"
+            ],
+            "optionsMs": [
+              "Halaman itu kelihatan seperti yang saya kenali",
+              "Sambungan mempunyai ikon keselamatan",
+              "Permintaan datang melalui orang yang dikenali"
+            ],
+            "feedback": "Describe what that signal shows and what it still leaves unconfirmed.",
+            "feedbackMs": "Huraikan maklumat yang ditunjukkan oleh petunjuk itu dan perkara yang masih belum disahkan."
+          },
+          {
+            "id": "m03.m04-q2",
+            "prompt": "What helps you pause when an online task feels uncertain?",
+            "promptMs": "Apakah yang membantu anda berhenti seketika apabila tugas dalam talian terasa meragukan?",
+            "options": [
+              "Time to verify",
+              "A known reference",
+              "Someone appropriate to ask"
+            ],
+            "optionsMs": [
+              "Masa untuk membuat pengesahan",
+              "Rujukan yang dikenali",
+              "Orang yang sesuai untuk ditanya"
+            ],
+            "feedback": "Choose a way to clarify uncertainty without treating appearance alone as proof.",
+            "feedbackMs": "Pilih cara untuk menjelaskan ketidakpastian tanpa menganggap rupa semata-mata sebagai bukti."
+          }
+        ],
+        "notesPrompt": "Describe a fictional online task and one assumption you would want to verify before proceeding.",
+        "notesPromptMs": "Huraikan satu tugas dalam talian rekaan dan satu andaian yang ingin disahkan sebelum meneruskannya.",
+        "videoUrl": null
+      },
+      {
+        "id": "m03.m05",
+        "title": "Reduce the impersonation script",
+        "titleMs": "Kurangkan maklumat yang boleh digunakan untuk penyamaran",
+        "notes": [
+          "Separate details in a fictional profile can combine into a convincing story about someone.",
+          "Discuss a fictional profile here. Keep real identities, family details and account information out of your notes."
+        ],
+        "notesMs": [
+          "Butiran berasingan dalam profil rekaan boleh digabungkan menjadi cerita yang meyakinkan tentang seseorang.",
+          "Bincangkan profil rekaan di sini. Jangan masukkan identiti sebenar, butiran keluarga atau maklumat akaun dalam nota anda."
+        ],
+        "questions": [
+          {
+            "id": "m03.m05-q1",
+            "prompt": "Which detail would you examine in a fictional profile?",
+            "promptMs": "Butiran manakah yang ingin anda teliti dalam profil rekaan?",
+            "options": [
+              "A routine or location clue",
+              "Work or family connections",
+              "An old public post"
+            ],
+            "optionsMs": [
+              "Petunjuk rutin atau lokasi",
+              "Hubungan kerja atau keluarga",
+              "Hantaran awam lama"
+            ],
+            "feedback": "Consider how details combine, without assuming that any single detail proves an attack will occur.",
+            "feedbackMs": "Pertimbangkan cara butiran digabungkan tanpa menganggap satu butiran sahaja membuktikan serangan akan berlaku."
+          },
+          {
+            "id": "m03.m05-q2",
+            "prompt": "Which sharing question would you find useful?",
+            "promptMs": "Soalan tentang perkongsian manakah yang berguna bagi anda?",
+            "options": [
+              "Who needs to see this?",
+              "How long should it stay visible?",
+              "What context does it reveal?"
+            ],
+            "optionsMs": [
+              "Siapa perlu melihatnya?",
+              "Berapa lama ia patut dapat dilihat?",
+              "Apakah konteks yang didedahkannya?"
+            ],
+            "feedback": "A clear sharing boundary can balance connection with privacy without blaming earlier choices.",
+            "feedbackMs": "Batas perkongsian yang jelas dapat mengimbangi hubungan sosial dengan privasi tanpa menyalahkan pilihan terdahulu."
+          }
+        ],
+        "notesPrompt": "Use a fictional profile to note one detail, what it could reveal and a possible sharing boundary.",
+        "notesPromptMs": "Gunakan profil rekaan untuk mencatat satu butiran, maklumat yang mungkin didedahkannya dan batas perkongsian yang sesuai.",
+        "videoUrl": null
+      },
+      {
+        "id": "m03.m06",
+        "title": "Rehearse a calm response",
+        "titleMs": "Latih tindak balas yang tenang",
+        "notes": [
+          "A useful practice conversation separates observed facts, uncertainties and the help being requested.",
+          "Use a fictional incident only. Do not investigate a suspected scammer, move money or share real account evidence for this lesson."
+        ],
+        "notesMs": [
+          "Perbualan latihan yang berguna membezakan fakta yang diperhatikan, ketidakpastian dan bantuan yang diminta.",
+          "Gunakan kejadian rekaan sahaja. Jangan menyiasat orang yang disyaki penipu, memindahkan wang atau berkongsi bukti akaun sebenar untuk pelajaran ini."
+        ],
+        "questions": [
+          {
+            "id": "m03.m06-q1",
+            "prompt": "What might make someone hesitate to raise a concern?",
+            "promptMs": "Apakah yang mungkin menyebabkan seseorang teragak-agak menyuarakan kebimbangan?",
+            "options": [
+              "Embarrassment",
+              "Uncertainty about what happened",
+              "Not knowing whom to ask"
+            ],
+            "optionsMs": [
+              "Rasa malu",
+              "Tidak pasti tentang kejadian",
+              "Tidak tahu siapa hendak ditanya"
+            ],
+            "feedback": "Recognising the barrier helps you design a supportive conversation without blaming the person.",
+            "feedbackMs": "Mengenali halangan membantu anda merancang perbualan yang menyokong tanpa menyalahkan orang tersebut."
+          },
+          {
+            "id": "m03.m06-q2",
+            "prompt": "Which part of an invented incident summary would you practise?",
+            "promptMs": "Bahagian manakah dalam ringkasan kejadian rekaan yang ingin anda latih?",
+            "options": [
+              "A clear timeline",
+              "Known facts and unknowns",
+              "A specific request for help"
+            ],
+            "optionsMs": [
+              "Garis masa yang jelas",
+              "Fakta yang diketahui dan belum diketahui",
+              "Permintaan bantuan yang khusus"
+            ],
+            "feedback": "Keep the account factual and fictional. Real incidents require current guidance from the relevant official service.",
+            "feedbackMs": "Pastikan huraian anda tepat berdasarkan kejadian rekaan tersebut. Kejadian sebenar memerlukan panduan semasa daripada perkhidmatan rasmi yang berkaitan."
+          }
+        ],
+        "notesPrompt": "Draft a fictional concern using three parts: what is known, what is uncertain and what help is needed.",
+        "notesPromptMs": "Draf kebimbangan rekaan dalam tiga bahagian: perkara yang diketahui, perkara yang belum pasti dan bantuan yang diperlukan.",
+        "videoUrl": null
+      },
+      {
+        "id": "m03.m07",
+        "title": "Make verification a shared habit",
+        "titleMs": "Jadikan pengesahan sebagai amalan bersama",
+        "notes": [
+          "A group habit works better when people know how to raise a concern and who can help check it.",
+          "Use a fictional family or team to rehearse supportive wording. Do not share real suspicious messages or personal incidents."
+        ],
+        "notesMs": [
+          "Amalan kumpulan lebih berkesan apabila orang tahu cara menyuarakan kebimbangan dan siapa yang boleh membantu menyemaknya.",
+          "Gunakan keluarga atau pasukan rekaan untuk berlatih menggunakan kata-kata yang memberi sokongan. Jangan kongsi mesej mencurigakan atau kejadian peribadi yang sebenar."
+        ],
+        "questions": [
+          {
+            "id": "m03.m07-q1",
+            "prompt": "Which supportive response would you practise first?",
+            "promptMs": "Jawapan yang memberi sokongan manakah yang ingin anda latih dahulu?",
+            "options": [
+              "Thank you for raising it.",
+              "Let us check the details.",
+              "What do we know so far?"
+            ],
+            "optionsMs": [
+              "Terima kasih kerana menyuarakannya.",
+              "Mari kita semak butirannya.",
+              "Apakah yang kita tahu setakat ini?"
+            ],
+            "feedback": "A calm response can make it easier to discuss uncertainty and agree a next check.",
+            "feedbackMs": "Respons yang tenang memudahkan perbincangan tentang ketidakpastian dan persetujuan tentang semakan seterusnya."
+          },
+          {
+            "id": "m03.m07-q2",
+            "prompt": "What would make a fictional group process more dependable?",
+            "promptMs": "Apakah yang boleh menjadikan proses dalam kumpulan rekaan itu lebih boleh diharapkan?",
+            "options": [
+              "A clear point of contact",
+              "An agreed backup person",
+              "A simple explanation of the process"
+            ],
+            "optionsMs": [
+              "Orang rujukan yang jelas",
+              "Orang pengganti yang dipersetujui",
+              "Penerangan proses yang ringkas"
+            ],
+            "feedback": "Choose one arrangement to clarify, remembering that a named person still needs to agree.",
+            "feedbackMs": "Pilih satu aturan untuk dijelaskan dan ingat bahawa orang yang dinamakan masih perlu bersetuju."
+          }
+        ],
+        "notesPrompt": "Write a short fictional report-and-check conversation and one improvement for next time.",
+        "notesPromptMs": "Tulis perbualan rekaan yang ringkas untuk melaporkan dan menyemak kebimbangan serta satu penambahbaikan untuk percubaan seterusnya.",
+        "videoUrl": null
+      }
+    ]
+  },
+  {
+    "slug": "community-emergency-preparedness",
+    "title": "Community Emergency Preparedness",
+    "titleMs": "Kesiapsiagaan Kecemasan Komuniti",
+    "topics": [
+      {
+        "id": "M04-M01",
+        "title": "Replace One Assumption",
+        "titleMs": "Gantikan satu andaian",
+        "notes": [
+          "An arrangement discussed and agreed with another person is different from an assumption written in a plan.",
+          "Use a fictional household to identify an unanswered question. Do not record real names, addresses or emergency contacts here."
+        ],
+        "notesMs": [
+          "Aturan yang dibincangkan dan dipersetujui bersama berbeza daripada andaian yang ditulis dalam pelan.",
+          "Gunakan isi rumah rekaan untuk mengenal pasti soalan yang belum terjawab. Jangan catat nama, alamat atau nombor hubungan kecemasan sebenar di sini."
+        ],
+        "questions": [
+          {
+            "id": "M04-M01-q1",
+            "prompt": "Which assumption would you examine in a fictional plan?",
+            "promptMs": "Andaian manakah ingin anda teliti dalam pelan rekaan?",
+            "options": [
+              "Someone has agreed to help",
+              "Everyone understands the plan",
+              "A backup has been discussed"
+            ],
+            "optionsMs": [
+              "Seseorang telah bersetuju membantu",
+              "Semua orang memahami pelan",
+              "Pilihan gantian telah dibincangkan"
+            ],
+            "feedback": "Turn the assumption into a specific question and leave it unconfirmed until it has been discussed.",
+            "feedbackMs": "Jadikan andaian itu soalan yang khusus dan tandakannya sebagai belum disahkan sehingga dibincangkan."
+          },
+          {
+            "id": "M04-M01-q2",
+            "prompt": "What would help a planning conversation begin?",
+            "promptMs": "Apakah yang membantu memulakan perbualan perancangan?",
+            "options": [
+              "One clear question",
+              "A convenient time",
+              "A simple fictional example"
+            ],
+            "optionsMs": [
+              "Satu soalan yang jelas",
+              "Masa yang sesuai",
+              "Contoh rekaan yang ringkas"
+            ],
+            "feedback": "Choose an approach that makes discussion manageable rather than demanding a complete plan at once.",
+            "feedbackMs": "Pilih pendekatan yang memudahkan perbincangan tanpa menuntut pelan lengkap sekali gus."
+          }
+        ],
+        "notesPrompt": "For a fictional household, write one assumption, one clarifying question and what remains unknown.",
+        "notesPromptMs": "Bagi isi rumah rekaan, tulis satu andaian, satu soalan penjelasan dan perkara yang masih belum diketahui.",
+        "videoUrl": null
+      },
+      {
+        "id": "M04-M02",
+        "title": "Read the Risk, Not the Rumour",
+        "titleMs": "Fahami risiko, bukan khabar angin",
+        "notes": [
+          "An update has a source, a time and a place it refers to. Those details help explain its context and limits.",
+          "Practise using an invented message. This exercise does not assess whether a real route or location is safe."
+        ],
+        "notesMs": [
+          "Maklumat terkini mempunyai sumber, masa dan tempat yang dirujuk. Butiran itu membantu menjelaskan konteks dan batas maklumat.",
+          "Berlatih menggunakan mesej rekaan. Latihan ini tidak menilai sama ada laluan atau lokasi sebenar selamat."
+        ],
+        "questions": [
+          {
+            "id": "M04-M02-q1",
+            "prompt": "Which message detail would you examine first?",
+            "promptMs": "Butiran mesej manakah ingin anda teliti dahulu?",
+            "options": [
+              "Who issued it",
+              "When it was issued",
+              "Which place it refers to"
+            ],
+            "optionsMs": [
+              "Pihak yang mengeluarkannya",
+              "Masa ia dikeluarkan",
+              "Tempat yang dirujuk"
+            ],
+            "feedback": "One detail may lead to another question; keep missing information visible rather than filling it with assumptions.",
+            "feedbackMs": "Satu butiran mungkin membawa kepada soalan lain; nyatakan maklumat yang tiada tanpa mengisinya dengan andaian."
+          },
+          {
+            "id": "M04-M02-q2",
+            "prompt": "What information gap would you note in a fictional update?",
+            "promptMs": "Jurang maklumat manakah ingin anda catat dalam maklumat terkini rekaan?",
+            "options": [
+              "An unclear source",
+              "A missing time",
+              "An uncertain area or scope"
+            ],
+            "optionsMs": [
+              "Sumber yang kurang jelas",
+              "Masa yang tidak dinyatakan",
+              "Kawasan atau skop yang tidak pasti"
+            ],
+            "feedback": "Describe the gap precisely without turning an incomplete update into a statement of certainty.",
+            "feedbackMs": "Huraikan jurang itu dengan tepat tanpa menjadikan maklumat tidak lengkap sebagai kepastian."
+          }
+        ],
+        "notesPrompt": "Create a fictional update and note its source, time, place and one unanswered question.",
+        "notesPromptMs": "Reka satu maklumat terkini dan catat sumber, masa, tempat serta satu soalan yang belum terjawab.",
+        "videoUrl": null
+      },
+      {
+        "id": "M04-M03",
+        "title": "Make Preparation Usable",
+        "titleMs": "Jadikan persediaan mudah digunakan",
+        "notes": [
+          "Preparation includes organising what is already available and clarifying arrangements, not only buying supplies.",
+          "Use an ordinary fictional item or checklist to think about finding, understanding and maintaining information."
+        ],
+        "notesMs": [
+          "Persediaan merangkumi penyusunan barang sedia ada dan penjelasan aturan, bukan sekadar membeli bekalan.",
+          "Gunakan barang biasa atau senarai semak rekaan untuk memikirkan cara mencari, memahami dan mengemas kini maklumat."
+        ],
+        "questions": [
+          {
+            "id": "M04-M03-q1",
+            "prompt": "Which no-cost improvement would you explore?",
+            "promptMs": "Penambahbaikan tanpa kos manakah yang ingin anda teliti?",
+            "options": [
+              "A clearer label",
+              "An easier-to-find reference",
+              "A clarified responsibility"
+            ],
+            "optionsMs": [
+              "Label yang lebih jelas",
+              "Rujukan yang lebih mudah dicari",
+              "Tanggungjawab yang diperjelas"
+            ],
+            "feedback": "Consider whether the intended person could find and understand the item or information.",
+            "feedbackMs": "Pertimbangkan sama ada orang yang dimaksudkan boleh mencari dan memahami barang atau maklumat itu."
+          },
+          {
+            "id": "M04-M03-q2",
+            "prompt": "What might make a preparation task difficult?",
+            "promptMs": "Apakah yang mungkin menyukarkan tugas persediaan?",
+            "options": [
+              "Limited space",
+              "Unclear priorities",
+              "Different household needs"
+            ],
+            "optionsMs": [
+              "Ruang yang terhad",
+              "Keutamaan yang kurang jelas",
+              "Keperluan isi rumah yang berbeza"
+            ],
+            "feedback": "Choose a small, realistic planning question rather than assuming every household needs the same arrangement.",
+            "feedbackMs": "Pilih soalan perancangan yang kecil dan realistik tanpa menganggap semua isi rumah memerlukan aturan yang sama."
+          }
+        ],
+        "notesPrompt": "Describe one fictional no-cost improvement and how you would check whether it is understandable.",
+        "notesPromptMs": "Huraikan satu penambahbaikan rekaan tanpa kos dan cara menyemak sama ada ia mudah difahami.",
+        "videoUrl": null
+      },
+      {
+        "id": "M04-M04",
+        "title": "Make the Plan Understandable",
+        "titleMs": "Pastikan pelan mudah difahami",
+        "notes": [
+          "A plan can be tested through explanation: can another person describe what a sentence means?",
+          "Use a fictional or redacted plan. Keep real contact lists, support needs and household arrangements offline."
+        ],
+        "notesMs": [
+          "Pelan boleh disemak melalui penerangan: bolehkah orang lain menjelaskan maksud sesuatu ayat?",
+          "Gunakan pelan rekaan atau pelan yang butiran peribadinya telah dipadamkan. Simpan senarai hubungan, keperluan sokongan dan aturan isi rumah sebenar di luar talian."
+        ],
+        "questions": [
+          {
+            "id": "M04-M04-q1",
+            "prompt": "Which part of a fictional plan would you ask someone to explain back?",
+            "promptMs": "Bahagian manakah dalam pelan rekaan yang ingin anda minta seseorang terangkan semula?",
+            "options": [
+              "A person’s agreed role",
+              "How an update is shared",
+              "When the plan is reviewed"
+            ],
+            "optionsMs": [
+              "Peranan seseorang yang dipersetujui",
+              "Cara maklumat terkini dikongsi",
+              "Masa pelan disemak"
+            ],
+            "feedback": "Ask for the meaning in their own words; repeating the text alone may not reveal ambiguity.",
+            "feedbackMs": "Minta penerangan dengan kata-kata sendiri; mengulang teks sahaja mungkin tidak menunjukkan kekaburan."
+          },
+          {
+            "id": "M04-M04-q2",
+            "prompt": "What would you clarify after listening to the explanation?",
+            "promptMs": "Apakah yang ingin anda jelaskan selepas mendengar penerangan itu?",
+            "options": [
+              "An ambiguous word",
+              "An unconfirmed arrangement",
+              "A missing backup discussion"
+            ],
+            "optionsMs": [
+              "Perkataan yang mempunyai maksud kabur",
+              "Aturan yang belum disahkan",
+              "Perbincangan pilihan gantian yang belum dibuat"
+            ],
+            "feedback": "Choose one change that makes the shared understanding clearer without inventing agreement.",
+            "feedbackMs": "Pilih satu perubahan yang memperjelas kefahaman bersama tanpa mengada-adakan persetujuan."
+          }
+        ],
+        "notesPrompt": "Write a fictional planning sentence, explain it in another way, and note one possible ambiguity.",
+        "notesPromptMs": "Tulis satu ayat perancangan rekaan, terangkan dengan cara lain dan catat satu kekaburan yang mungkin timbul.",
+        "videoUrl": null
+      },
+      {
+        "id": "M04-M05",
+        "title": "Say What the Listener Needs",
+        "titleMs": "Sampaikan maklumat yang diperlukan pendengar",
+        "notes": [
+          "Clear communication distinguishes observed facts, unknowns and the question being asked.",
+          "Use a fictional check-in or conversation only. Do not make real emergency calls or disclose household details for practice."
+        ],
+        "notesMs": [
+          "Komunikasi yang jelas membezakan fakta yang diperhatikan, perkara yang belum diketahui dan soalan yang ditanya.",
+          "Gunakan mesej semakan keadaan rekaan atau perbualan rekaan sahaja. Jangan membuat panggilan kecemasan sebenar atau mendedahkan butiran isi rumah untuk latihan."
+        ],
+        "questions": [
+          {
+            "id": "M04-M05-q1",
+            "prompt": "Which part of a fictional check-in would you make clearer?",
+            "promptMs": "Bahagian manakah dalam mesej semakan keadaan rekaan yang ingin anda perjelas?",
+            "options": [
+              "When the information was checked",
+              "Who or what the update covers",
+              "What is still unknown"
+            ],
+            "optionsMs": [
+              "Masa maklumat disemak",
+              "Orang atau perkara yang dirangkumi",
+              "Perkara yang masih belum diketahui"
+            ],
+            "feedback": "A more precise message helps the listener understand the limits of the update.",
+            "feedbackMs": "Mesej yang lebih tepat membantu pendengar memahami batas maklumat terkini itu."
+          },
+          {
+            "id": "M04-M05-q2",
+            "prompt": "What would help you communicate uncertainty?",
+            "promptMs": "Apakah yang membantu anda menyampaikan ketidakpastian?",
+            "options": [
+              "Saying I do not know yet",
+              "Asking for clarification",
+              "Separating facts from guesses"
+            ],
+            "optionsMs": [
+              "Menyatakan saya belum tahu",
+              "Meminta penjelasan",
+              "Membezakan fakta daripada tekaan"
+            ],
+            "feedback": "Practise wording that is honest about uncertainty instead of trying to sound completely certain.",
+            "feedbackMs": "Latih ayat yang jujur tentang ketidakpastian dan bukannya cuba kedengaran serba pasti."
+          }
+        ],
+        "notesPrompt": "Draft a fictional check-in with a time, a clear scope and one detail that remains unknown.",
+        "notesPromptMs": "Draf mesej semakan keadaan rekaan yang mengandungi masa, skop yang jelas dan satu butiran yang masih belum diketahui.",
+        "videoUrl": null
+      },
+      {
+        "id": "M04-M06",
+        "title": "Change the Decision When Facts Change",
+        "titleMs": "Ubah keputusan apabila fakta berubah",
+        "notes": [
+          "A changed fact can expose an assumption in an earlier plan. The learning task is to notice and explain that change.",
+          "Use an invented scheduling or communication change. This page does not prescribe evacuation, shelter or movement decisions."
+        ],
+        "notesMs": [
+          "Fakta yang berubah boleh menunjukkan andaian dalam pelan terdahulu. Tugas pembelajaran ialah mengenal pasti dan menerangkan perubahan itu.",
+          "Gunakan perubahan jadual atau komunikasi rekaan. Halaman ini tidak menetapkan keputusan pemindahan, perlindungan atau pergerakan."
+        ],
+        "questions": [
+          {
+            "id": "M04-M06-q1",
+            "prompt": "Which fictional change would prompt you to revisit a plan?",
+            "promptMs": "Perubahan rekaan manakah yang mendorong anda menyemak semula pelan?",
+            "options": [
+              "A helper is unavailable",
+              "A message is older than expected",
+              "A communication method has changed"
+            ],
+            "optionsMs": [
+              "Pembantu tidak dapat hadir",
+              "Mesej lebih lama daripada yang disangka",
+              "Kaedah komunikasi telah berubah"
+            ],
+            "feedback": "Name what changed and which assumption it affects before discussing a revised arrangement.",
+            "feedbackMs": "Nyatakan perubahan dan andaian yang terjejas sebelum membincangkan aturan yang disemak semula."
+          },
+          {
+            "id": "M04-M06-q2",
+            "prompt": "What makes changing an earlier decision difficult?",
+            "promptMs": "Apakah yang menyukarkan perubahan keputusan terdahulu?",
+            "options": [
+              "Wanting to stay consistent",
+              "Noticing the change late",
+              "Not knowing who should be consulted"
+            ],
+            "optionsMs": [
+              "Mahu kekal dengan keputusan asal",
+              "Lewat menyedari perubahan",
+              "Tidak tahu siapa patut dirujuk"
+            ],
+            "feedback": "Identifying the difficulty can help you ask a clearer question about the new situation.",
+            "feedbackMs": "Mengenal pasti kesukaran membantu anda mengemukakan soalan yang lebih jelas tentang situasi baharu."
+          }
+        ],
+        "notesPrompt": "Describe a fictional arrangement, change one nonhazardous fact, and note which assumption needs another discussion.",
+        "notesPromptMs": "Huraikan satu aturan rekaan, ubah satu fakta yang tidak melibatkan bahaya dan catat andaian yang perlu dibincangkan semula.",
+        "videoUrl": null
+      },
+      {
+        "id": "M04-M07",
+        "title": "Help Without Adding Harm",
+        "titleMs": "Bantu tanpa menambah mudarat",
+        "notes": [
+          "Attempting to contact someone and receiving a confirmed update are different pieces of information.",
+          "Use fictional coordination notes. Do not enter real resident lists, health information or assistance requests here."
+        ],
+        "notesMs": [
+          "Mencuba menghubungi seseorang dan menerima maklumat terkini yang disahkan ialah dua perkara berbeza.",
+          "Gunakan nota penyelarasan rekaan. Jangan masukkan senarai penduduk, maklumat kesihatan atau permintaan bantuan sebenar di sini."
+        ],
+        "questions": [
+          {
+            "id": "M04-M07-q1",
+            "prompt": "Which distinction would you highlight in a fictional handover?",
+            "promptMs": "Perbezaan manakah ingin anda jelaskan dalam penyerahan maklumat rekaan?",
+            "options": [
+              "Attempted contact versus a reply",
+              "A known fact versus an assumption",
+              "An assigned task versus an agreed task"
+            ],
+            "optionsMs": [
+              "Cubaan menghubungi berbanding balasan",
+              "Fakta yang diketahui berbanding andaian",
+              "Tugas yang diberikan berbanding tugas yang dipersetujui"
+            ],
+            "feedback": "Clear distinctions help the next reader understand what has and has not been established.",
+            "feedbackMs": "Perbezaan yang jelas membantu pembaca seterusnya memahami perkara yang sudah dan belum dipastikan."
+          },
+          {
+            "id": "M04-M07-q2",
+            "prompt": "What would make a fictional handover easier to follow?",
+            "promptMs": "Apakah yang memudahkan penyerahan maklumat rekaan difahami?",
+            "options": [
+              "A clear time and source",
+              "An identified question for follow-up",
+              "A simple explanation of responsibilities"
+            ],
+            "optionsMs": [
+              "Masa dan sumber yang jelas",
+              "Soalan tindakan susulan yang dikenal pasti",
+              "Penerangan tanggungjawab yang ringkas"
+            ],
+            "feedback": "Choose one improvement without collecting more personal information than the fictional exercise needs.",
+            "feedbackMs": "Pilih satu penambahbaikan tanpa mengumpulkan maklumat peribadi yang melebihi keperluan latihan rekaan."
+          }
+        ],
+        "notesPrompt": "Write a fictional handover showing one known fact, one unknown and one follow-up question.",
+        "notesPromptMs": "Tulis penyerahan maklumat rekaan yang menunjukkan satu fakta diketahui, satu perkara belum diketahui dan satu soalan susulan.",
+        "videoUrl": null
+      },
+      {
+        "id": "M04-M08",
+        "title": "Prove the Pack Can Be Used",
+        "titleMs": "Buktikan pek kesiapsiagaan boleh digunakan",
+        "notes": [
+          "A final review can connect earlier questions about information, agreements, communication and practical organisation.",
+          "Course completion records your self-study, not emergency-response authority or a guarantee that a real plan will work."
+        ],
+        "notesMs": [
+          "Semakan akhir boleh menghubungkan soalan terdahulu tentang maklumat, persetujuan, komunikasi dan penyusunan praktikal.",
+          "Penyempurnaan kursus merekodkan pembelajaran kendiri anda, bukan kuasa untuk tindak balas kecemasan atau jaminan bahawa pelan sebenar akan berkesan."
+        ],
+        "questions": [
+          {
+            "id": "M04-M08-q1",
+            "prompt": "Which part of your fictional readiness plan would you revisit?",
+            "promptMs": "Bahagian manakah dalam pelan kesediaan rekaan yang ingin anda semak semula?",
+            "options": [
+              "Unconfirmed assumptions",
+              "Unclear communication",
+              "A practical organisation gap"
+            ],
+            "optionsMs": [
+              "Andaian yang belum disahkan",
+              "Komunikasi yang kurang jelas",
+              "Jurang penyusunan praktikal"
+            ],
+            "feedback": "Choose one specific improvement you can explain rather than declaring the entire plan complete.",
+            "feedbackMs": "Pilih satu penambahbaikan khusus yang boleh diterangkan tanpa menganggap keseluruhan pelan telah lengkap."
+          },
+          {
+            "id": "M04-M08-q2",
+            "prompt": "Which next learning step would you plan?",
+            "promptMs": "Langkah pembelajaran seterusnya manakah yang ingin anda rancang?",
+            "options": [
+              "A planning conversation",
+              "A review of reliable guidance",
+              "Another fictional rehearsal"
+            ],
+            "optionsMs": [
+              "Perbualan perancangan",
+              "Semakan panduan yang boleh dipercayai",
+              "Satu lagi latihan rekaan"
+            ],
+            "feedback": "Keep the step achievable and note what you want to learn from the next attempt.",
+            "feedbackMs": "Pastikan langkah itu mampu dilaksanakan dan catat perkara yang ingin dipelajari daripada percubaan seterusnya."
+          }
+        ],
+        "notesPrompt": "Reflect privately: what became clearer, what remains uncertain, and what small learning step comes next?",
+        "notesPromptMs": "Renungkan secara peribadi: apakah yang semakin jelas, masih belum pasti dan langkah pembelajaran kecil yang seterusnya?",
+        "videoUrl": null
+      }
+    ]
+  }
+]

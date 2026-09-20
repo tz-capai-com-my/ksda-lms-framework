@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin
+Disallow: /learn/courses/
+Disallow: /learn/dashboard
+Disallow: /learn/profile

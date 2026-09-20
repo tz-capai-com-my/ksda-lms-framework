@@ -1,0 +1,8 @@
+"use client";
+import Link from "@/app/SiteLink";
+import { brand } from "@/config/brand";
+import { useLocale } from "@/app/learn/LearnExperience";
+export default function PrivacyPage() {
+  const t = useLocale();
+  return <main className="framework-info" data-no-translate><Link href="/learn/free">← {t("Programmes", "Program")}</Link><h1>{t("Learning privacy", "Privasi pembelajaran")}</h1><p>{brand.legalName} {t("operates this learning hub.", "mengendalikan hab pembelajaran ini.")}</p><ul><li>{t("The hub stores your email identity, display name, language preference, enrolments and overall topic progress.", "Hab ini menyimpan identiti e-mel, nama paparan, pilihan bahasa, pendaftaran dan kemajuan topik keseluruhan anda.")}</li><li>{t("Reflection answers and private notes stay on the current page. They are not sent to the learning database and disappear when you leave or reload.", "Jawapan refleksi dan nota peribadi kekal pada halaman semasa. Maklumat ini tidak dihantar ke pangkalan data pembelajaran dan hilang apabila anda keluar atau memuat semula.")}</li><li>{t("Authorised administrators can view account, enrolment and progress records to support learners.", "Pentadbir yang dibenarkan boleh melihat rekod akaun, pendaftaran dan kemajuan untuk membantu pelajar.")}</li></ul>{brand.supportEmail ? <p><a href={`mailto:${brand.supportEmail}`}>{t("Contact the operator about access, corrections or deletion.", "Hubungi pengendali tentang akses, pembetulan atau pemadaman.")}</a></p> : <p>{t("Contact the organisation that provided this hub about access, corrections or deletion.", "Hubungi organisasi yang menyediakan hab ini tentang akses, pembetulan atau pemadaman.")}</p>}</main>;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a3837bdc-74ee-4fd9-9a24-0a8773f06a85",
+    "slug": "fire-life-safety-awareness",
+    "title": "Fire & Life Safety Awareness",
+    "short_description": "Practical awareness for recognising hazards, responding appropriately and improving everyday fire and life safety.",
+    "experience_style": "mission-workshop",
+    "access_type": "free",
+    "status": "published",
+    "sort_order": 1
+  },
+  {
+    "id": "2fc65e6d-3865-4e46-8b16-cdde3131a8fe",
+    "slug": "first-aid-cpr-aed-awareness",
+    "title": "First Aid / CPR / AED Awareness",
+    "short_description": "Practical awareness focused on recognising emergencies, making safer decisions and understanding appropriate first-aid response.",
+    "experience_style": "mission-scenario",
+    "access_type": "free",
+    "status": "published",
+    "sort_order": 2
+  },
+  {
+    "id": "71e71fee-e8a3-4836-b70b-fb0557eea499",
+    "slug": "online-security-fraud-prevention",
+    "title": "Online Security & Fraud Prevention",
+    "short_description": "Practical digital-safety learning focused on recognising threats, making safer decisions and strengthening everyday online behaviour.",
+    "experience_style": "mission-narrative",
+    "access_type": "free",
+    "status": "published",
+    "sort_order": 3
+  },
+  {
+    "id": "ae26ae02-b5ed-400f-9862-3ac4f2159b41",
+    "slug": "community-emergency-preparedness",
+    "title": "Community Emergency Preparedness",
+    "short_description": "Mission-based learning that helps individuals, households and communities turn emergency awareness into practical preparedness.",
+    "experience_style": "mission-workshop",
+    "access_type": "free",
+    "status": "published",
+    "sort_order": 4
+  }
+]

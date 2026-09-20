@@ -1,0 +1,2741 @@
+{
+  "schemaVersion": "1.0.0",
+  "assetPurpose": "Source-grounded draft native course content; not an approved operational or assessment manifest.",
+  "reviewState": "DRAFT",
+  "safetyReviewStatus": "DRAFT",
+  "sourceMap": {
+    "M03-P": "CAPAi_Scam_Awareness_Cyber_Hygiene_8_Hour_TZ_Canva_Editable(1).pptx — 71 slides and speaker notes, cited through Module 03 blueprint.",
+    "M03-W": "CAPAi_The_Final_Firewall_Visual_E_Handbook_Canva_Editable(1).pdf — 64 pages, cited through Module 03 blueprint.",
+    "M04-P": "CAPAi_Module04_Presentation(1).pptx — 87 slides and speaker notes, cited through Module 04 blueprint.",
+    "M04-W": "CAPAi_Module04_Visual_Handbook_Canva_Editable.pdf — 39 physical pages, cited through Module 04 blueprint."
+  },
+  "authoringNotes": [
+    "All content was adapted from the two provided blueprints and Engine Master specification; original decks and workbooks were not newly inspected for this asset.",
+    "Body arrays contain native draft learner copy and safety boundaries. reviewNotes are editorial metadata and must not become learner instructions.",
+    "This asset deliberately contains no answer keys, current hotline claims or invented operational procedures. Missing exact scenario details, review-gated question banks and diagrams must be supplied from source and approved.",
+    "reviewState and safetyReviewStatus are explicitly DRAFT at asset, course, mission and block levels. A rendering preview must not imply publication approval or working learner completion."
+  ],
+  "courses": [
+    {
+      "slug": "online-security-fraud-prevention",
+      "title": "Online Security & Fraud Prevention",
+      "missionCount": 7,
+      "campaignTitle": "The Final Firewall: Pause, Verify, Protect, Report",
+      "contentVersion": "1.0.0",
+      "reviewState": "DRAFT",
+      "safetyReviewStatus": "DRAFT",
+      "awarenessBoundary": "Public awareness learning; no professional cybersecurity, financial, legal, forensic or incident-response competency is conferred.",
+      "minutes": 250,
+      "reviewNotes": [
+        "All seven mandatory missions remain draft. No Start or completion gate should be enabled before release approval.",
+        "Incomplete learning work and all private reflections are temporary. Store only aggregate completed-mission boundaries and essential acknowledgements.",
+        "Final bank m03.final.01–10 and approved rationales are held outside this public content asset. Workbook and deck banks must remain distinct.",
+        "Source technical claims, reporting details, fictional practice assets, safety wording, asset rights, BM translation and accessibility need approval."
+      ],
+      "missions": [
+        {
+          "id": "m03.m01",
+          "title": "Find the accounts that matter",
+          "purpose": "Recognise account dependencies before choosing a first protection priority.",
+          "knowledge": "Explain why recovery access can affect several other services.",
+          "skill": "Construct a category-only dependency map and identify a high-consequence node.",
+          "desire": "Identify what is personally worth protecting and one barrier to starting.",
+          "action": "Complete and review a small dependency map, real and private or fictional, and choose one justified priority.",
+          "minutes": 30,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "m03.m01.boundary",
+              "type": "safety_boundary",
+              "heading": "Keep your map private",
+              "body": [
+                "Use service categories only. Do not type account names, addresses, passwords, recovery codes or financial details into this lesson.",
+                "A fictional map is an equally valid way to practise. No account or login is needed."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.raymond",
+              "type": "story",
+              "heading": "Notice the moment pressure takes over",
+              "body": [
+                "The source uses Raymond as a composite case, not a verified personal testimony. Its reflection question is: where did fear start driving the next action?",
+                "Notice the link between emotional pressure and the next account decision. You do not need to describe a personal incident."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.recovery.knowledge_card",
+              "type": "knowledge_card",
+              "heading": "One account can affect another",
+              "body": [
+                "Recovery access can connect several services. A category that can help reset access to another service has consequences beyond its own contents.",
+                "Ask which category could reset another. Choose a priority because of its consequences and dependencies; there is no universal category that must always come first."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.recovery.worked_example",
+              "type": "worked_example",
+              "heading": "Read a recovery relationship",
+              "body": [
+                "A recovery relationship links the category used to regain access with the category whose access can be reset.",
+                "Read the connection in both directions: what could be affected if the recovery route were unavailable, and what protection would address that dependency?"
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.map-practice.checklist",
+              "type": "checklist",
+              "heading": "Build a small category map",
+              "body": [
+                "Use at least three service categories and show at least one dependency. Keep identifiers and secrets out of the map.",
+                "Choose a first protection priority and explain privately which consequence or dependency supports it."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.reason.relevance_prompt",
+              "type": "relevance_prompt",
+              "heading": "Choose what matters to you",
+              "body": [
+                "What would you most want to protect? Use a familiar category or a fictional one; you do not need to reveal what is in an account."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.reason.barrier_prompt",
+              "type": "barrier_prompt",
+              "heading": "Make starting manageable",
+              "body": [
+                "What makes this easy to postpone? Consider a smaller map, a mental map or a fictional version if a real audit feels difficult."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.action.field_mission",
+              "type": "field_mission",
+              "heading": "Make and review the map",
+              "body": [
+                "Draw or mentally arrange the categories, show a dependency and explain the first priority aloud or in private notes.",
+                "Review the map once. A promise to make it later does not replace this activity."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.action.action_confirmation",
+              "type": "action_confirmation",
+              "heading": "Confirm the activity performed",
+              "body": [
+                "After doing the task, identify whether you used a real private map or a fictional map. Confirm that you made the map and justified one priority; do not upload it."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m01.aar",
+              "type": "aar",
+              "heading": "Review your decision",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+                "M03-P slides 5–10 and speaker notes",
+                "M03-W pages 5–11",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Privately draw or mentally arrange at least three service categories, using real categories or a fictional equivalent.",
+            "Show at least one recovery or access dependency without including identifiers or secrets.",
+            "Name a first protection priority and explain how the dependency or consequence supports it.",
+            "Review the map and choose one improvement. Keep the map and explanation outside CAPAi."
+          ],
+          "aarPrompts": [
+            "What connection surprised you?",
+            "Was your first priority still right?",
+            "What will you simplify next time?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M03-R05: approve account-recovery wording; M03-R11: approve responsibility framing; M03-R12: clarify legitimate requested OTP entry.",
+            "Accessible fictional account-map diagram, source Raymond case detail and approved example rationale are not reproduced in the blueprint. Add and approve these assets before enabling their practice.",
+            "Approve the non-keyed map rubric. Do not invent a numeric risk score or a universal email-first answer."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 3",
+            "M03-P slides 5–10 and speaker notes",
+            "M03-W pages 5–11",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "m03.m02",
+          "title": "Interrupt the pressure",
+          "purpose": "Notice pressure, separate cues from proof and move verification away from the requester’s channel.",
+          "knowledge": "Distinguish a familiar logo or display name from independently verifiable context.",
+          "skill": "Identify an observable cue, requested action and independent verification route.",
+          "desire": "Notice the emotional hook likely to rush your own choice and rehearse a respectful pause.",
+          "action": "Perform a fictional verification conversation rather than only labelling a message.",
+          "minutes": 35,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "m03.m02.brief",
+              "type": "mission_brief",
+              "heading": "A familiar-looking message arrives",
+              "body": [
+                "Start with the action being requested. A familiar logo or display name is a cue to inspect, not independent proof of who is asking.",
+                "Practise on fictional messages only. Do not open sample links or contact a suspicious sender."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+                "M03-P slides 11–16",
+                "M03-W pages 12–19",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m02.hooks",
+              "type": "knowledge_card",
+              "heading": "Spot pressure without jumping to certainty",
+              "body": [
+                "Fear, urgency, authority, reward and secrecy can make a request feel difficult to question. These are useful observations, not a complete test of legitimacy.",
+                "When information is incomplete, uncertainty is an acceptable conclusion. State the observable reason for pausing and what you need to verify."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+                "M03-P slides 11–16",
+                "M03-W pages 12–19",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m02.inspect",
+              "type": "worked_example",
+              "heading": "Separate three questions",
+              "body": [
+                "For a parcel, reset, boss or friend request, identify the cue you can observe, the action requested, and a way to check through a contact method you already know.",
+                "A verification route supplied inside the same suspicious request remains controlled by that request. Explain how your next channel is independent."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+                "M03-P slides 11–16",
+                "M03-W pages 12–19",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m02.classify.scenario",
+              "type": "scenario",
+              "heading": "Inspect two fictional requests",
+              "body": [
+                "Use two fictional practice messages. For each, name the pressure or identity cue and say exactly what the message asks you to do.",
+                "Separate what the message demonstrates from what it merely claims. Do not invent missing evidence or accuse a real person."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+                "M03-P slides 11–16",
+                "M03-W pages 12–19",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m02.classify.decision",
+              "type": "decision",
+              "heading": "Choose the next channel",
+              "body": [
+                "Explain whether you have enough evidence to act. If verification is needed, identify a known independent route and why it is independent.",
+                "Review your reasoning and retry any unclear part without a time limit."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+                "M03-P slides 11–16",
+                "M03-W pages 12–19",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m02.pause",
+              "type": "say_practice",
+              "heading": "Practise a respectful pause",
+              "body": [
+                "Say or privately write: “I will check through the contact method I already know.”",
+                "Adapt the sentence to sound natural while keeping the pause and the independent check. No message is sent."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+                "M03-P slides 11–16",
+                "M03-W pages 12–19",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m02.action",
+              "type": "roleplay",
+              "heading": "Rehearse the conversation",
+              "body": [
+                "Read the fictional request, say your pause, and name a different verification channel. You can play both roles or work with a consenting partner.",
+                "Never share a requested sign-in code with a person. A genuine sign-in flow asks you to enter your own requested code into its official sign-in screen."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+                "M03-P slides 11–16",
+                "M03-W pages 12–19",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m02.aar",
+              "type": "aar",
+              "heading": "Review the cue and channel",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+                "M03-P slides 11–16",
+                "M03-W pages 12–19",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Inspect two approved fictional messages and identify each message’s cue, requested action and known independent verification route.",
+            "Rehearse a stop-and-verify interaction aloud, in a private script or with a consenting partner. A solo learner may play both roles.",
+            "Do not send messages, click training links, disclose codes or contact scammers.",
+            "Revisit one missed cue and choose one verification habit to improve."
+          ],
+          "aarPrompts": [
+            "Which cue did you miss?",
+            "Did you try to verify inside the suspicious message?",
+            "What rule will you keep?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M03-R06: approve scenario classification, BNM-related claim and distinct bank rationales; M03-R08: approve verification questions; M03-R12: approve OTP distinction.",
+            "Exact canonical message cards and their reviewed feedback are not provided by this blueprint excerpt. Keep practice completion disabled until the cards and their own rationales are supplied.",
+            "Do not treat P16’s unspecified message mix or W17–18’s A–E pack as a complete approved keyed bank."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 4",
+            "M03-P slides 11–16",
+            "M03-W pages 12–19",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "m03.m03",
+          "title": "Protect access and recovery",
+          "purpose": "Translate protection principles into a realistic private review without revealing credentials.",
+          "knowledge": "Explain uniqueness, managed access, MFA or passkeys, and recovery as distinct protections.",
+          "skill": "Use a checklist to identify an access weakness and an appropriate provider-supported next step.",
+          "desire": "Resolve a practical barrier such as lockout anxiety, unfamiliar settings or lack of authority.",
+          "action": "Perform a safe private protection review and one permitted change, or complete an equivalent fictional settings decision.",
+          "minutes": 40,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "m03.m03.layers",
+              "type": "knowledge_card",
+              "heading": "Consider protection in layers",
+              "body": [
+                "Length and uniqueness, password management, available sign-in protections and recovery address different parts of account access. Consider them together rather than treating a single setting as a guarantee.",
+                "Use the options and guidance offered by the account provider. Recovery needs attention because it can affect the ability to regain access."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+                "M03-P slides 17–26",
+                "M03-W pages 20–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m03.sample",
+              "type": "do_practice",
+              "heading": "Practise without making a real secret",
+              "body": [
+                "If you practise making a passphrase, make a fictional one that will be discarded. Do not submit it or reuse it for an account.",
+                "Actual passwords, recovery codes and credential storage belong outside learning tools and public checking tools."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+                "M03-P slides 17–26",
+                "M03-W pages 20–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m03.settings.checklist",
+              "type": "checklist",
+              "heading": "Review the account or fictional card",
+              "body": [
+                "Consider whether credentials are unique, which sign-in options the provider supports, and whether recovery arrangements need attention.",
+                "Distinguish a weakness you can address safely from a question that requires provider help or permission."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+                "M03-P slides 17–26",
+                "M03-W pages 20–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m03.settings.decision",
+              "type": "decision",
+              "heading": "Choose a supported next step",
+              "body": [
+                "Identify one appropriate improvement and explain why it fits the account’s supported options and your authority to manage it.",
+                "If a change could cause lockout or involves controls you do not manage, use the fictional settings exercise instead."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+                "M03-P slides 17–26",
+                "M03-W pages 20–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m03.barrier.confidence_check",
+              "type": "confidence_check",
+              "heading": "Notice what you understand",
+              "body": [
+                "Which part of a private review can you attempt confidently? Which part needs guidance? Revisit this judgment after the activity."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+                "M03-P slides 17–26",
+                "M03-W pages 20–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m03.barrier.barrier_prompt",
+              "type": "barrier_prompt",
+              "heading": "Use a feasible route",
+              "body": [
+                "What would make a private review difficult: unfamiliar settings, worry about losing access, or lack of permission?",
+                "The fictional settings route offers equivalent practice. No paid manager or security key is required."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+                "M03-P slides 17–26",
+                "M03-W pages 20–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m03.action",
+              "type": "field_mission",
+              "heading": "Perform one safe review",
+              "body": [
+                "On an account you are authorised to manage, review access and recovery privately and make one provider-supported change only if it is safe and understood.",
+                "Otherwise review fictional settings and choose a justified improvement. Do not alter employer-managed controls or report a simulation as a real enabled setting."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+                "M03-P slides 17–26",
+                "M03-W pages 20–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m03.aar",
+              "type": "aar",
+              "heading": "Review the protection decision",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+                "M03-P slides 17–26",
+                "M03-W pages 20–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose an account you are authorised to manage or a supplied fictional settings card.",
+            "Review uniqueness, available sign-in protections and recovery without recording secrets in CAPAi.",
+            "Make one safe, understood, provider-supported change, or complete the fictional review and select a justified improvement.",
+            "Stop if permission or safe access is uncertain. A future plan alone does not complete the activity; use the substantive fictional equivalent.",
+            "Privately identify one lesson and one next improvement."
+          ],
+          "aarPrompts": [
+            "What did you review?",
+            "What changed—or prevented a change?",
+            "What safe support route would help next?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M03-R05: security SME must approve password, MFA, passkey and recovery claims and any method hierarchy; M03-R12: approve legitimate OTP distinction.",
+            "Supply privacy-safe fictional settings cards and a current provider-neutral checklist with approved scenario rationale before enabling the gate.",
+            "The source myth/fact statements are not fully quoted in the blueprint and are not invented here. Self-declaration must not imply verified security effectiveness."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 5",
+            "M03-P slides 17–26",
+            "M03-W pages 20–26",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "m03.m04",
+          "title": "Verify the connection and destination",
+          "purpose": "Separate network identity, encrypted transport, destination trust and the consequence of a task.",
+          "knowledge": "Explain what HTTPS and a VPN do not establish about a seller or request.",
+          "skill": "Compare a task and connection context and choose a proportionate verified route.",
+          "desire": "Give yourself permission to postpone a high-consequence task instead of rushing.",
+          "action": "Complete a controlled network and destination decision rehearsal with a reasoned next step.",
+          "minutes": 30,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "m03.m04.airport.story",
+              "type": "story",
+              "heading": "Consider the airport context",
+              "body": [
+                "The source airport scenario asks you to consider both the connection and the task you want to perform.",
+                "Treat this as a fictional decision exercise. Do not connect to an unknown network to recreate it."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m04.airport.scenario",
+              "type": "scenario",
+              "heading": "Compare the consequence of the task",
+              "body": [
+                "Compare public reading with the source payroll example. What would be the consequence of making the wrong trust decision in each context?",
+                "Identify which facts about the connection or destination remain uncertain before proposing a next step."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m04.https",
+              "type": "knowledge_card",
+              "heading": "Encryption is one question",
+              "body": [
+                "Encrypted transport and destination legitimacy are different questions. HTTPS or a VPN does not by itself establish that a seller or request is legitimate.",
+                "Ask what a trust signal establishes and what it leaves unresolved. Connection, device, account and human decisions each have a role."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m04.context",
+              "type": "decision",
+              "heading": "Choose a proportionate route",
+              "body": [
+                "Explain the task’s consequence and what you would verify independently. Consider a trusted alternative or postponing an uncertain high-consequence task.",
+                "Do not treat a VPN as proof that the destination is legitimate."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m04.layers.workbook_activity",
+              "type": "workbook_activity",
+              "heading": "Separate the layers",
+              "body": [
+                "On private paper or mentally, distinguish person, device, account and connection controls. Use the layered-controls worksheet as a decision aid, not a network-configuration task."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m04.layers.checklist",
+              "type": "checklist",
+              "heading": "Check your reasoning",
+              "body": [
+                "Have you named the task, its consequence, the uncertainty and a trusted next route? Can you explain what your verification does and does not establish?"
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m04.pressure",
+              "type": "consequence_prompt",
+              "heading": "Allow a pause",
+              "body": [
+                "What cost would a short pause have compared with an uncertain approval? Think about a feasible next step without urgency or shame."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m04.action",
+              "type": "simulation",
+              "heading": "Rehearse reader, verifier and reporter",
+              "body": [
+                "Using the fictional scenario, play reader, verifier and reporter alone or with a consenting partner. Explain how you would leave the uncertainty.",
+                "Do not bypass security warnings, scan networks, download suspicious files or change work-device controls."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m04.aar",
+              "type": "aar",
+              "heading": "Review the trust signal",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+                "M03-P slides 27–34 and formative item on slide 60",
+                "M03-W pages 27–33",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use the fictional airport scenario; do not create a hotspot or a login page.",
+            "State the task, its consequence and the uncertainty about connection or destination.",
+            "Rehearse the reader, verifier and reporter roles and explain a safe next route. Solo narration is valid.",
+            "Optionally review your ordinary auto-connect preference privately under device or provider guidance, without experimenting on unknown networks.",
+            "Choose one trust-check habit to repeat."
+          ],
+          "aarPrompts": [
+            "Which trust signal fooled your first impression?",
+            "What did verification establish?",
+            "What would you repeat?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M03-R07: approve network, VPN, domain and certificate scope; M03-R06: approve scenario rationale.",
+            "Full airport-choice cards, destination illustration and approved domain-reading explanation must be assembled from source and reviewed.",
+            "P60 may be formative retrieval under its existing canonical item ID; no duplicate assessment key is included here."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 6",
+            "M03-P slides 27–34 and formative item on slide 60",
+            "M03-W pages 27–33",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "m03.m05",
+          "title": "Reduce the impersonation script",
+          "purpose": "Turn a privacy observation into a concrete safer sharing or verification choice.",
+          "knowledge": "Explain how separate public details can combine into a plausible impersonation.",
+          "skill": "Identify a disclosure pattern and rehearse an independent check for an unusual request.",
+          "desire": "Choose a personal boundary that balances connection with privacy without shaming prior posts.",
+          "action": "Make one appropriate private visibility change or revise an equivalent fictional profile, then rehearse the verification rule.",
+          "minutes": 30,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "m03.m05.mosaic",
+              "type": "visual_observation",
+              "heading": "Look at the combined picture",
+              "body": [
+                "Separate public details may reveal more when combined than a person intended when sharing each one. Ask what could be inferred from a fictional profile as a whole.",
+                "Describe categories of information rather than actual names, routines, locations, recovery answers or private code words."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 7",
+                "M03-P slides 35–42",
+                "M03-W pages 34–40",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m05.voice",
+              "type": "scenario",
+              "heading": "A familiar voice makes an urgent request",
+              "body": [
+                "The source executive voice-message case is a composite. Use it to consider an urgent-money request without treating voice recognition as proof of identity.",
+                "Explain how a callback or second-approver process could provide an independent check. Do not contact a real person or initiate a payment."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 7",
+                "M03-P slides 35–42",
+                "M03-W pages 34–40",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m05.boundary",
+              "type": "relevance_prompt",
+              "heading": "Choose a sustainable sharing boundary",
+              "body": [
+                "What would you share later, with fewer people, or not at all? Choose a boundary that preserves what you value about connection.",
+                "This is a choice for future sharing, not a judgment about past posts."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 7",
+                "M03-P slides 35–42",
+                "M03-W pages 34–40",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m05.audit",
+              "type": "checklist",
+              "heading": "Make one proportionate change",
+              "body": [
+                "Identify an observable disclosure, consider who can see it and choose one proportionate change. Use a fictional profile if a real change is unsuitable.",
+                "Keep independent verification in place; a publicly knowable challenge question is not sufficient protection."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 7",
+                "M03-P slides 35–42",
+                "M03-W pages 34–40",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m05.action.do_practice",
+              "type": "do_practice",
+              "heading": "Rehearse a second-channel check",
+              "body": [
+                "Speak or privately script an independent check for the fictional urgent-money request. Explain how the contact route differs from the request itself."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 7",
+                "M03-P slides 35–42",
+                "M03-W pages 34–40",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m05.action.field_mission",
+              "type": "field_mission",
+              "heading": "Revise visibility or the fictional profile",
+              "body": [
+                "If authorised, privately adjust one suitable visibility setting or remove an unnecessary public detail. Alternatively make the equivalent revision on fictional cards.",
+                "Do not upload posts, screenshots or family data. Keep employer policy and other people’s consent in view."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 7",
+                "M03-P slides 35–42",
+                "M03-W pages 34–40",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m05.aar",
+              "type": "aar",
+              "heading": "Review the inference and boundary",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 7",
+                "M03-P slides 35–42",
+                "M03-W pages 34–40",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Inspect a fictional profile or privately review a profile you are authorised to manage.",
+            "Identify one disclosure pattern and make one suitable visibility change or equivalent fictional revision.",
+            "Rehearse a callback or independent second-channel check for the source urgent-money request.",
+            "Keep all profile data, private challenges and code words outside the lesson. Do not make a payment or send a real message.",
+            "Choose a sharing boundary you can maintain."
+          ],
+          "aarPrompts": [
+            "What did you change?",
+            "Was the inference different from what you intended?",
+            "What boundary is easiest to maintain?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M03-R08: approve identity, callback and private challenge nuance; M03-R11: review non-blaming tone.",
+            "Supply the source-grounded fictional profile/post illustration and full composite scenario with meaningful text alternatives before enabling assessment.",
+            "No real posts, location, family data, recovery answers or code words may be collected."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 7",
+            "M03-P slides 35–42",
+            "M03-W pages 34–40",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "m03.m06",
+          "title": "Rehearse a calm response",
+          "purpose": "Distinguish incident categories and practise using an approved reporting reference without amateur investigation.",
+          "knowledge": "Distinguish financial, crime-report and technical-response routes at awareness level.",
+          "skill": "Use a current reviewed reference to state an appropriate first contact while preserving official instructions.",
+          "desire": "Overcome shame and the urge to investigate before asking for help.",
+          "action": "Perform the fictional bank-alert response rehearsal and identify one improvement.",
+          "minutes": 40,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "m03.m06.signs.knowledge_card",
+              "type": "knowledge_card",
+              "heading": "Recognise the kind of help needed",
+              "body": [
+                "Financial concerns, crime reporting and technical-response questions can involve different roles. The appropriate route depends on the incident and current official or provider guidance.",
+                "This lesson is awareness practice. It does not provide a recovery guarantee or turn a learner into an investigator."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+                "M03-P slides 43–48",
+                "M03-W pages 41–47 and 61",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m06.routes.safety_boundary",
+              "type": "safety_boundary",
+              "heading": "Keep the exercise fictional",
+              "body": [
+                "No live incident handling, calls, malware forwarding, remote-access experiments or real evidence collection belongs in this exercise.",
+                "If you are facing a real incident, leave the exercise and consult current official or provider channels."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+                "M03-P slides 43–48",
+                "M03-W pages 41–47 and 61",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m06.routes.knowledge_card",
+              "type": "knowledge_card",
+              "heading": "Use a current reference",
+              "body": [
+                "A reporting reference needs clear agency or provider roles and current details. Do not infer contact availability or a reporting deadline from an old training page.",
+                "Follow current official instructions. Collecting evidence should not become a reason to delay asking for appropriate help."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+                "M03-P slides 43–48",
+                "M03-W pages 41–47 and 61",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m06.shame.barrier_prompt",
+              "type": "barrier_prompt",
+              "heading": "Make asking for help easier",
+              "body": [
+                "What would make reporting difficult? Consider how a supportive person could make it easier to explain what happened without blame."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+                "M03-P slides 43–48",
+                "M03-W pages 41–47 and 61",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m06.shame.confidence_check",
+              "type": "confidence_check",
+              "heading": "Choose the part you can practise",
+              "body": [
+                "Which part of a fictional handoff can you explain now? Which part depends on the reporting reference or official instructions?"
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+                "M03-P slides 43–48",
+                "M03-W pages 41–47 and 61",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m06.rehearse",
+              "type": "roleplay",
+              "heading": "Practise the bank-alert handoff",
+              "body": [
+                "The source exercise uses a fictional account holder, bank or response contact, account protector and support or evidence roles. A solo learner can narrate each role.",
+                "Use fictional information and the approved reference. Practise a clear handoff without disclosing secrets or improvising incident-response instructions."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+                "M03-P slides 43–48",
+                "M03-W pages 41–47 and 61",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m06.evidence",
+              "type": "checklist",
+              "heading": "Keep evidence categories private",
+              "body": [
+                "Discuss fictional evidence categories only. Do not upload incident evidence, sensitive chronology or credentials.",
+                "Notice whether evidence gathering distracts from appropriate reporting or crosses into self-investigation."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+                "M03-P slides 43–48",
+                "M03-W pages 41–47 and 61",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m06.aar",
+              "type": "aar",
+              "heading": "Review the first contact and handoff",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+                "M03-P slides 43–48",
+                "M03-W pages 41–47 and 61",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "This Action is a fictional rehearsal and becomes available only with the reviewed reporting reference.",
+            "Using the source bank-link scenario, narrate or roleplay the account holder, response contact, account protector and support roles.",
+            "Use the approved sequence and fictional information only. Do not place a call, forward malware, collect real evidence or test remote access.",
+            "Privately identify one improvement to first contact or handoff. Optionally locate an official contact privately afterward without submitting it."
+          ],
+          "aarPrompts": [
+            "What happened first?",
+            "Did evidence collection delay reporting?",
+            "What would you change in the next rehearsal?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "COMPLETION BLOCKED: M03-R01–R03 must resolve current reporting roles, contact details, conflicting hours and timeline or report-deadline claims.",
+            "M03-R04: unify RACE wording; M03-R09: approve evidence and containment scope; M03-R10: approve checking-service limitations.",
+            "No hotline numbers, opening hours, deadlines or procedural response sequence are asserted in this asset. The source conflict remains unresolved.",
+            "Supply a dated approved help map, exact bank-alert scenario and unified approved response rubric before enabling rehearsal or deterministic checks. Withhold unchanged W47/W61."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module03_KSDA_Blueprint_v1.0.md, section 8",
+            "M03-P slides 43–48",
+            "M03-W pages 41–47 and 61",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "m03.m07",
+          "title": "Make verification a shared habit",
+          "purpose": "Integrate earlier decisions into supportive group behaviour and an honest review of performed Actions.",
+          "knowledge": "Explain reporter, verifier and responder roles and why a process cannot depend on silence or one unavailable person.",
+          "skill": "Respond to the supplier-account-change scenario and demonstrate a supportive report-and-check interaction.",
+          "desire": "Choose a realistic habit and barrier response without making a public pledge of perfection.",
+          "action": "Rehearse a small reporting and verification process and review a previously performed protection Action.",
+          "minutes": 45,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "m03.m07.roles",
+              "type": "knowledge_card",
+              "heading": "Make the roles understandable",
+              "body": [
+                "A shared process distinguishes raising a concern, verifying a request and taking the appropriate response. Make the handoff clear enough that it does not depend on one person being available.",
+                "Responsible habits work alongside technical safeguards and organisational responsibilities. People should be able to report without blame."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.supplier.scenario",
+              "type": "scenario",
+              "heading": "An urgent supplier change is requested",
+              "body": [
+                "Use the source fictional supplier-account-change case. Identify who would report the request, who would verify it independently and who would respond within their role.",
+                "Do not change real payment details, send messages or make a payment."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.supplier.decision",
+              "type": "decision",
+              "heading": "Explain the handoff",
+              "body": [
+                "State how the group would acknowledge the concern, use its agreed independent verification route and handle an unavailable verifier.",
+                "Keep uncertainty visible. A process should not pressure someone into silence or treat a familiar request as enough proof."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.support",
+              "type": "say_practice",
+              "heading": "Respond without blame",
+              "body": [
+                "Practise: “Thank you for raising this. Let us use the agreed verification route.”",
+                "Adapt the wording while preserving a supportive acknowledgement and a clear next handoff."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.plan.checklist",
+              "type": "checklist",
+              "heading": "Check the small process",
+              "body": [
+                "Can a reporter raise a concern? Is the independent verification route understood? Are the responder and backup arrangements clear?",
+                "Use a fictional family, volunteer group or work setting if there is no suitable real group."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.plan.workbook_activity",
+              "type": "workbook_activity",
+              "heading": "Keep a private one-page process",
+              "body": [
+                "Use the source process worksheet or private notes to connect the roles and the handoff. Do not enter real contacts, incidents or financial details in CAPAi."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.action.roleplay",
+              "type": "roleplay",
+              "heading": "Rehearse and revisit",
+              "body": [
+                "Perform the process with a fictional group, alone or with a consenting partner. Then revisit one Action already performed in Missions 1–6 and state privately what happened.",
+                "A future event plan alone does not replace the rehearsal and review."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.action.action_confirmation",
+              "type": "action_confirmation",
+              "heading": "Confirm the performed practice",
+              "body": [
+                "After doing the activity, confirm the process rehearsal and the review of one earlier Action. This is an honest self-declaration, not independent proof of security."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.aar",
+              "type": "aar",
+              "heading": "Review the shared habit",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "m03.m07.complete",
+              "type": "completion",
+              "heading": "Keep the awareness boundary clear",
+              "body": [
+                "Completion covers required awareness learning activities and self-declared application. It does not certify practical cybersecurity competence or guarantee prevention.",
+                "Choose a feasible habit to repeat and a safe support route for questions beyond this programme."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+                "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+                "M03-W pages 48–64",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use the fictional supplier-account-change case to define reporter, verifier and responder roles and a backup arrangement.",
+            "Rehearse a calm acknowledgement and an independent-verification handoff with fictional information, alone or with a consenting partner.",
+            "Privately revisit one protection Action you performed earlier and state what actually happened.",
+            "Complete the approved final learning checks with feedback and retry once the bank is released; do not treat a future plan alone as Action.",
+            "Choose one improvement to the process and one earlier habit to repeat."
+          ],
+          "aarPrompts": [
+            "Could someone speak without blame?",
+            "Where was the process unclear?",
+            "Which earlier Action worked, and what will you repeat?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M03-R06: approve canonical bank and separate scenario rationales; M03-R10: approve checking limitations; M03-R11: approve shared responsibility and completion wording; M03-R12: approve OTP wording.",
+            "The canonical deck bank is m03.final.01–10, sourced to P56–65 and P66–67 review. No answer keys or unapproved questions are exported here.",
+            "Proposed completion policy: each mandatory final response reaches its approved safe response after explanatory feedback and retry. This is an editorial learning rule, not a historical exam pass score.",
+            "Supply full source supplier scenario, approved solo role cards and process rubric. Remove source eight-hour certificate from runtime."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module03_KSDA_Blueprint_v1.0.md, sections 9–10",
+            "M03-P slides 49–71; final bank slides 56–65 and review 66–67",
+            "M03-W pages 48–64",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "community-emergency-preparedness",
+      "title": "Community Emergency Preparedness",
+      "missionCount": 8,
+      "campaignTitle": "Preparedness Is Care Made Practical",
+      "contentVersion": "1.0.0",
+      "reviewState": "DRAFT",
+      "safetyReviewStatus": "DRAFT",
+      "minutes": 480,
+      "awarenessBoundary": "Community Emergency Preparedness Awareness learning; no rescue qualification, clinical competence, accreditation or response authority is conferred.",
+      "reviewNotes": [
+        "All eight mandatory missions remain draft. Procedure-bearing blocks and learning gates require the referenced human approvals before use.",
+        "Real addresses, contacts, support agreements, routes, medical information and reflections stay private and offline. Persist aggregate mission progress only.",
+        "Source learning-stage subtitles are not an emergency response procedure. No course prerequisite, purchase, equipment or partner is mandatory.",
+        "Final bank M04-Q01–Q10 and its key are excluded from this public asset. Source proposal is at least 8/10 plus correction of all designated critical items, subject to approval.",
+        "All estimated times are editorial allocations to pilot. English and any BM safety wording require the appropriate review."
+      ],
+      "missions": [
+        {
+          "id": "M04-M01",
+          "title": "Replace One Assumption",
+          "purpose": "Reveal an unconfirmed arrangement and create a dated readiness baseline with one usable correction.",
+          "knowledge": "Distinguish an assumed arrangement from one discussed and agreed.",
+          "skill": "Ask a specific question, name the action owner and report what remains unknown.",
+          "desire": "Recognise one relevant dependency without shame about income or household circumstances.",
+          "action": "Complete a real clarification or an equivalent two-role fictional rehearsal, then update the baseline.",
+          "minutes": 55,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "M04-M01-B01",
+              "type": "mission_brief",
+              "heading": "Find an unconfirmed arrangement",
+              "body": [
+                "Which part of your plan depends on a promise nobody has made? Begin with a private baseline or a fictional household.",
+                "Keep real names, contact details and household arrangements outside the lesson. No real emergency simulation is required."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+                "M04-P slides 1–12 and notes",
+                "M04-W pages 1–6; baseline page 5",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M01-B02",
+              "type": "knowledge_card",
+              "heading": "Distinguish assumed from confirmed",
+              "body": [
+                "An arrangement is confirmed when the relevant person has discussed and agreed to it. Writing a name in a plan does not establish agreement.",
+                "For before, during and after planning, keep the concern, intended action, owner and confirmation method clear. Mark what remains unknown."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+                "M04-P slides 1–12 and notes",
+                "M04-W pages 1–6; baseline page 5",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M01-B03",
+              "type": "scenario",
+              "heading": "Use the source household",
+              "body": [
+                "The source fictional household introduces Amir, Lina, Mak Som and Sara. Use its planning concerns to practise identifying what has and has not been confirmed.",
+                "For the concern you select, state the unknown, the action owner and a specific way to seek confirmation."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+                "M04-P slides 1–12 and notes",
+                "M04-W pages 1–6; baseline page 5",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M01-B04",
+              "type": "workbook_activity",
+              "heading": "Create a dated baseline",
+              "body": [
+                "Use the eight-topic baseline on workbook page 5 privately or with fictional details. Record its date and make unconfirmed arrangements visible.",
+                "Use “arranged” only where the relevant person has agreed. Do not grade your household by money spent or equipment owned."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+                "M04-P slides 1–12 and notes",
+                "M04-W pages 1–6; baseline page 5",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M01-B05",
+              "type": "relevance_prompt",
+              "heading": "Notice the dependency",
+              "body": [
+                "Who would need to understand this if you were unavailable? What makes the conversation difficult? Think privately; no answer is sent."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+                "M04-P slides 1–12 and notes",
+                "M04-W pages 1–6; baseline page 5",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M01-B06",
+              "type": "say_practice",
+              "heading": "Rehearse a clarification",
+              "body": [
+                "Ask one specific non-sensitive planning question and practise a reply. Distinguish agreement, refusal and still unknown.",
+                "Speak or write both roles yourself if you prefer. Update the baseline to reflect what the reply actually establishes."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+                "M04-P slides 1–12 and notes",
+                "M04-W pages 1–6; baseline page 5",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M01-B07",
+              "type": "action_confirmation",
+              "heading": "Confirm the baseline changed",
+              "body": [
+                "Confirm only after a clarification or rehearsal was performed and the baseline revised. Scheduling a future conversation alone does not complete this activity."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+                "M04-P slides 1–12 and notes",
+                "M04-W pages 1–6; baseline page 5",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M01-B08",
+              "type": "aar",
+              "heading": "Review the assumption",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+                "M04-P slides 1–12 and notes",
+                "M04-W pages 1–6; baseline page 5",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Privately date a baseline and select one arrangement that is assumed or unresolved.",
+            "Ask a willing household member one non-sensitive planning question, or speak or write both sides of a fictional clarification.",
+            "Identify the concern, action, owner and confirmation method. Record agreement, refusal or uncertainty honestly.",
+            "Revise the private or fictional baseline based on what was established, then choose one improvement."
+          ],
+          "aarPrompts": [
+            "What did you assume?",
+            "What did you actually establish?",
+            "What will you ask differently?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M04-S09: approve privacy and minimum-information boundaries; M04-S13: approve BM safety copy before translation publication.",
+            "Supply the source eight-topic baseline and complete P6 household details with accessible text or alt text. The blueprint names the household but does not reproduce all scenario facts.",
+            "Instructional editor must approve the concern/action/owner/confirmation self-review criteria and inclusive wording."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 1",
+            "M04-P slides 1–12 and notes",
+            "M04-W pages 1–6; baseline page 5",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "M04-M02",
+          "title": "Read the Risk, Not the Rumour",
+          "purpose": "Build a three-concern information map with a usable offline backup.",
+          "knowledge": "Distinguish issuer, issue time, place, validity and advised action, and explain source limits.",
+          "skill": "Compare the three supplied messages without converting unknowns into facts.",
+          "desire": "Choose a pause before forwarding alarming material without delaying protection from apparent danger.",
+          "action": "Perform an information check or equivalent supplied-message exercise and prepare its offline backup.",
+          "minutes": 55,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "M04-M02-B01",
+              "type": "mission_brief",
+              "heading": "Know what an update establishes",
+              "body": [
+                "An update is useful when you know what it establishes and what it does not. Turn three concerns into questions that a suitable source could answer.",
+                "Verification is not a reason to expose yourself to danger or delay protective action."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+                "M04-P slides 13–21 and reference slide 86",
+                "M04-W pages 7–10 and reference page 38",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M02-B02",
+              "type": "knowledge_card",
+              "heading": "Ask five information questions",
+              "body": [
+                "Who issued the information? When was it issued? Which place does it concern? What is its validity or scope? What action does it advise?",
+                "Keep the time you checked separate from the time the information was issued. A source has limits; information is not a certification that a route is safe."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+                "M04-P slides 13–21 and reference slide 86",
+                "M04-W pages 7–10 and reference page 38",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M02-B03",
+              "type": "scenario",
+              "heading": "Compare three fictional messages",
+              "body": [
+                "The source exercise compares an advisory with limited scope, an old video and an incomplete observation. Treat all source example dates and messages as fictional.",
+                "For each message, ask what is established and what remains unknown. Do not turn an old image into current evidence."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+                "M04-P slides 13–21 and reference slide 86",
+                "M04-W pages 7–10 and reference page 38",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M02-B04",
+              "type": "decision",
+              "heading": "Preserve the source limits",
+              "body": [
+                "An advisory applies within its stated scope. An old video is not proof of current conditions. An incomplete observation needs safe clarification rather than added assumptions.",
+                "Choose the next information question without returning to danger for photos or inspecting a route yourself."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+                "M04-P slides 13–21 and reference slide 86",
+                "M04-W pages 7–10 and reference page 38",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M02-B05",
+              "type": "barrier_prompt",
+              "heading": "Plan for unavailable data",
+              "body": [
+                "When your usual group or mobile data is unavailable, what makes verification difficult? Choose an accessible written or offline backup you can locate."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+                "M04-P slides 13–21 and reference slide 86",
+                "M04-W pages 7–10 and reference page 38",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M02-B06",
+              "type": "field_mission",
+              "heading": "Check a source and find the backup",
+              "body": [
+                "From a safe ordinary setting, check a reviewed official source and privately note the information type and check time. Rehearse locating your written backup without this lesson.",
+                "Alternatively use the three source messages, build a fictional concern/source/question map and retrieve an offline fictional backup instruction."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+                "M04-P slides 13–21 and reference slide 86",
+                "M04-W pages 7–10 and reference page 38",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M02-B07",
+              "type": "action_confirmation",
+              "heading": "Confirm check and retrieval",
+              "body": [
+                "Confirm after performing one information check and one backup retrieval rehearsal. Distinguish the source’s statements from remaining unknowns."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+                "M04-P slides 13–21 and reference slide 86",
+                "M04-W pages 7–10 and reference page 38",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M02-B08",
+              "type": "aar",
+              "heading": "Review the information gap",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+                "M04-P slides 13–21 and reference slide 86",
+                "M04-W pages 7–10 and reference page 38",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Create three concern/source/question pairs privately, using your own ordinary setting or the supplied fictional messages.",
+            "From safety, check one reviewed official source and note what it supplies and when checked; alternatively compare all three fictional messages.",
+            "Keep issuer, issue time, place, validity and advised action distinct. Do not present changing live conditions as a fixed quiz answer.",
+            "Prepare an accessible offline backup and practise finding it without the lesson. Do not inspect hazards or routes.",
+            "Identify the unanswered question that will make the next check clearer."
+          ],
+          "aarPrompts": [
+            "What did the source answer?",
+            "What remained unknown?",
+            "What will make your next check clearer?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M04-S01: verify official endpoints, scopes and check dates; M04-S07: approve no-exposure and current-hazard caveats; M04-S13: approve BM safety wording.",
+            "Exact W8/P17–18 A/B/C message cards and approved feedback must be supplied before deterministic checks are enabled.",
+            "No live source links or current availability claims are invented. Any official reference displayed needs tested descriptive links and actual last-checked metadata."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 2",
+            "M04-P slides 13–21 and reference slide 86",
+            "M04-W pages 7–10 and reference page 38",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "M04-M03",
+          "title": "Make Preparation Usable",
+          "purpose": "Produce a realistic preparation checklist and test one usable improvement.",
+          "knowledge": "Distinguish carry, keep and confirm, and understand the limited three-day planning exercise.",
+          "skill": "Choose and explain suitable items or arrangements for one source household profile.",
+          "desire": "Remove the need-to-buy-everything barrier and value accessible, no-cost preparation.",
+          "action": "Organise an existing safe everyday item or enact the equivalent fictional preparation task.",
+          "minutes": 60,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "M04-M03-B01",
+              "type": "mission_brief",
+              "heading": "Begin with what you already have",
+              "body": [
+                "Can the intended person find and use the item or information? Start with a practical improvement that does not require spending money."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M03-B02",
+              "type": "knowledge_card",
+              "heading": "Separate carry, keep and confirm",
+              "body": [
+                "Distinguish something portable, something kept at home and an arrangement that must be confirmed with another person. Supplies do not replace agreements.",
+                "The source three-day exercise is a planning starting point, not a universal guarantee, maximum or reason to delay movement. Adaptation may need suitable advice."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M03-B03",
+              "type": "safety_boundary",
+              "heading": "Do not improvise technical solutions",
+              "body": [
+                "Medicine, powered equipment and generator questions need appropriate provider or qualified guidance. This activity does not teach storage changes, device modifications or electrical work.",
+                "Do not handle electrical faults, change medicine use or experiment with generators. No purchase is required."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M03-B04",
+              "type": "scenario",
+              "heading": "Choose a source household profile",
+              "body": [
+                "Use a fictional person living alone, family with an infant, older couple or household needing access support.",
+                "Consider whether an item or arrangement is usable for that profile without requesting real diagnoses or equipment details."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M03-B05",
+              "type": "do_practice",
+              "heading": "Sort and explain a choice",
+              "body": [
+                "Sort proposed items and agreements into carry, keep and confirm. Explain how one choice fits the fictional household.",
+                "Several safe, reasoned choices may be suitable. Mark provider-dependent questions as advice needed instead of inventing a solution."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M03-B06",
+              "type": "barrier_prompt",
+              "heading": "Find a no-cost improvement",
+              "body": [
+                "What can be organised without spending? Which gap needs advice rather than improvisation? Choose a smaller feasible task or the fictional route."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M03-B07",
+              "type": "field_mission",
+              "heading": "Test whether preparation is usable",
+              "body": [
+                "Safely locate an existing non-hazardous everyday item or written information copy and agree or label a usable storage location.",
+                "Alternatively build a fictional paper checklist, demonstrate locating an item or arrangement, revise an inaccessible choice and mark advice-needed gaps."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M03-B08",
+              "type": "action_confirmation",
+              "heading": "Confirm a tested improvement",
+              "body": [
+                "Confirm after the organisation task or fictional equivalent is performed. A promise to purchase something later does not complete Action."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M03-B09",
+              "type": "aar",
+              "heading": "Review usability",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+                "M04-P slides 22–30",
+                "M04-W pages 11–14",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Choose one source household profile and sort its proposed supplies or arrangements into carry, keep and confirm.",
+            "Privately locate one safe existing everyday item or written information copy and establish a usable location, or build the fictional paper checklist.",
+            "Demonstrate finding the item or arrangement. Revise one choice that is inaccessible or unclear.",
+            "Leave medication, powered-equipment and generator questions for appropriate guidance. Do not experiment or delay protective action.",
+            "Update one priority and consider what remains unsuitable."
+          ],
+          "aarPrompts": [
+            "What became easier to find or understand?",
+            "What remained unsuitable?",
+            "What will you change?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M04-S02: approve the bounded three-day exercise; M04-S03: clinical/technical review of provider-dependent needs; M04-S04: review generator source guidance; M04-S13: BM review.",
+            "Exact source safety warning cards, profile details and sorting rationale need approval before mission activation. No technical quantities, generator placement rules or equipment standards are supplied here.",
+            "Provide an accessible sorting alternative; do not require drag-and-drop or a purchase."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 3",
+            "M04-P slides 22–30",
+            "M04-W pages 11–14",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "M04-M04",
+          "title": "Make the Plan Understandable",
+          "purpose": "Combine earlier outputs into a shared plan and revise it after testing another person’s understanding.",
+          "knowledge": "Describe contacts, support, conditional destinations, owners and review fields.",
+          "skill": "Explain a plan and identify missing consent, availability or backup.",
+          "desire": "Recognise that writing somebody’s name does not secure their agreement.",
+          "action": "Perform teach-back or solo role reversal and revise a specific ambiguity.",
+          "minutes": 65,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "M04-M04-B01",
+              "type": "mission_brief",
+              "heading": "Test understanding",
+              "body": [
+                "A plan is shared when another person can explain it. Use a fictional or redacted copy to test whether the meaning is clear."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+                "M04-P slides 31–39",
+                "M04-W pages 15–18; contact sheet page 17 offline only",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M04-B02",
+              "type": "knowledge_card",
+              "heading": "Connect the plan fields",
+              "body": [
+                "A usable plan links contacts, support needs, conditional destinations or movement options, action owners and review arrangements.",
+                "Distinguish primary, backup and out-of-area contacts. Availability, consent and current conditions matter; a written route is not a guarantee of safe movement."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+                "M04-P slides 31–39",
+                "M04-W pages 15–18; contact sheet page 17 offline only",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M04-B03",
+              "type": "scenario",
+              "heading": "Identify an open agreement",
+              "body": [
+                "The source Mak Som/helper arrangement and no-reply scenario raise questions about agreed support and what silence establishes.",
+                "Which agreements remain open? No reply should remain an unknown rather than being treated as confirmation of safety."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+                "M04-P slides 31–39",
+                "M04-W pages 15–18; contact sheet page 17 offline only",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M04-B04",
+              "type": "workbook_activity",
+              "heading": "Make the unknowns visible",
+              "body": [
+                "Use workbook page 16 privately or with fictional details. Add an owner and review date for unresolved arrangements.",
+                "The real contact sheet on page 17 stays offline. Share a redacted or fictional copy for this exercise."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+                "M04-P slides 31–39",
+                "M04-W pages 15–18; contact sheet page 17 offline only",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M04-B05",
+              "type": "relevance_prompt",
+              "heading": "Consider consent and backup",
+              "body": [
+                "Whose agreement does the plan require? What happens if you are unavailable? An agreed helper or backup may still need a current-condition check."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+                "M04-P slides 31–39",
+                "M04-W pages 15–18; contact sheet page 17 offline only",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M04-B06",
+              "type": "say_practice",
+              "heading": "Try a teach-back",
+              "body": [
+                "Ask a consenting person to explain the non-sensitive plan in their own words. A solo learner can put it aside and then read it as another person.",
+                "Find a part that takes a long explanation, answer the source review questions and revise one ambiguity."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+                "M04-P slides 31–39",
+                "M04-W pages 15–18; contact sheet page 17 offline only",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M04-B07",
+              "type": "action_confirmation",
+              "heading": "Confirm the test and revision",
+              "body": [
+                "Confirm only after the plan was tested and an unclear part revised. Real unresolved agreements may remain openly marked; they must not be invented."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+                "M04-P slides 31–39",
+                "M04-W pages 15–18; contact sheet page 17 offline only",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M04-B08",
+              "type": "aar",
+              "heading": "Review what the reader understood",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+                "M04-P slides 31–39",
+                "M04-W pages 15–18; contact sheet page 17 offline only",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Prepare a private plan or fictional/redacted equivalent with contacts, support, conditional options, owners and review fields.",
+            "Ask a consenting person to explain the non-sensitive plan, or perform solo planner/reader role reversal.",
+            "Check whether a helper and backup are agreed or explicitly unresolved and whether changing conditions could change the plan.",
+            "Revise one ambiguity. Keep real contacts offline; do not walk a route, trigger alarms, interrupt power, lift or carry someone, or make real calls for the exercise.",
+            "Choose the revision that most improved understanding."
+          ],
+          "aarPrompts": [
+            "What required a long explanation?",
+            "What did the listener misunderstand?",
+            "Which revision helped?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M04-S05: approve conditional routes, destinations and inclusive support; M04-S08: approve status/role wording; M04-S09: privacy review; M04-S13: BM safety review.",
+            "Supply source plan fields, exact Mak Som/no-reply facts, redaction example and W18 teach-back checklist in accessible form.",
+            "Do not invent a correct route or require every real household agreement to be resolved before completion. Institutional/high-rise guidance remains separately review-gated."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 4",
+            "M04-P slides 31–39",
+            "M04-W pages 15–18; contact sheet page 17 offline only",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "M04-M05",
+          "title": "Say What the Listener Needs",
+          "purpose": "Rehearse an accurate simulated call and a useful household check-in, then improve both.",
+          "knowledge": "Identify location, facts, people, needs, hazards and listening, plus check-in time, scope and status.",
+          "skill": "Speak or write a fictional call and revise ambiguity after feedback.",
+          "desire": "Replace pressure to sound certain with permission to say unknown.",
+          "action": "Perform both communication rehearsals and repeat a corrected part.",
+          "minutes": 60,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "M04-M05-B01",
+              "type": "safety_boundary",
+              "heading": "Exercise only",
+              "body": [
+                "Do not dial an emergency number. This activity uses only fictional information and has no live-call mode.",
+                "The operator role asks clarifying questions; it must not improvise real operational advice. No recording or transcript upload is required."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+                "M04-P slides 40–48",
+                "M04-W pages 19–22",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M05-B02",
+              "type": "knowledge_card",
+              "heading": "Separate call information from coordination",
+              "body": [
+                "For the simulated call, make location understandable, distinguish observed facts from assumptions and state affected people, needs, hazards and unknowns. Listen to the questions.",
+                "A household check-in needs a clear time, the people or area it covers, status, needs and next update. These details help prevent a vague message being read too broadly."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+                "M04-P slides 40–48",
+                "M04-W pages 19–22",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M05-B03",
+              "type": "worked_example",
+              "heading": "Retain facts and unknowns",
+              "body": [
+                "The source fictional training-house example includes a blocked road. Keep the supplied observation distinct from what has not been established.",
+                "Explain what you know in plain language and say unknown where the scenario does not provide an answer."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+                "M04-P slides 40–48",
+                "M04-W pages 19–22",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M05-B04",
+              "type": "roleplay",
+              "heading": "Practise caller and listener",
+              "body": [
+                "Use caller, operator and observer roles, or write and read both sides yourself. The listener can ask for clarification of the fictional facts.",
+                "Use the observer fields to find one unclear detail, then revise and repeat that part."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+                "M04-P slides 40–48",
+                "M04-W pages 19–22",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M05-B05",
+              "type": "confidence_check",
+              "heading": "Allow uncertainty and a pause",
+              "body": [
+                "Which detail is difficult to explain? You may pause, write or say you do not know. Accuracy matters more than sounding certain."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+                "M04-P slides 40–48",
+                "M04-W pages 19–22",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M05-B06",
+              "type": "say_practice",
+              "heading": "Make a check-in useful",
+              "body": [
+                "Rewrite the source vague message using the private template. Include time, people or scope, status, need and next update.",
+                "Keep a statement about one person or time from becoming an unsupported claim about everyone or every time."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+                "M04-P slides 40–48",
+                "M04-W pages 19–22",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M05-B07",
+              "type": "action_confirmation",
+              "heading": "Confirm two rehearsals and a retry",
+              "body": [
+                "Confirm after the fictional call, the household check-in and an improved second attempt are performed. Keep the before/after comparison private."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+                "M04-P slides 40–48",
+                "M04-W pages 19–22",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M05-B08",
+              "type": "aar",
+              "heading": "Review clarity",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+                "M04-P slides 40–48",
+                "M04-W pages 19–22",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use the supplied fictional training-house and blocked-road facts; do not insert real personal details.",
+            "Perform a simulated call aloud or in writing, using a partner with consent or playing both roles.",
+            "Check location, observation versus assumption, affected people, needs, unknowns and listening against the source observer fields.",
+            "Rewrite an unclear detail and repeat it. Then perform a household check-in with time, scope, status, need and next update.",
+            "Do not dial or send a real communication. Privately compare the first and revised attempts."
+          ],
+          "aarPrompts": [
+            "Could the listener locate the incident?",
+            "Which assumption slipped in?",
+            "What improved on retry?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M04-S06: verify current emergency-call guidance while preserving no-live-practice boundaries; M04-S08: approve status labels; M04-S09: privacy review; M04-S13: BM scripts.",
+            "Exact P43 training-house facts, P47 vague message and W20 observer rubric need source extraction and approval before objective checks or full role cards are enabled.",
+            "No emergency number, availability claim or dispatcher procedure is supplied in this asset. Communication practice does not certify response competence."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 5",
+            "M04-P slides 40–48",
+            "M04-W pages 19–22",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "M04-M06",
+          "title": "Change the Decision When Facts Change",
+          "purpose": "Complete and revise a two-round tabletop decision worksheet as scenario conditions change.",
+          "knowledge": "Distinguish scenario-specific movement, suitable shelter and assistance options.",
+          "skill": "Explain action, supporting fact, support need and a review trigger.",
+          "desire": "Recognise pressure to keep an earlier answer and choose to revise it.",
+          "action": "Perform two tabletop decision rounds with changed facts and correct an unsafe assumption.",
+          "minutes": 55,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "M04-M06-B01",
+              "type": "mission_brief",
+              "heading": "Name the fact that changed",
+              "body": [
+                "A decision can change when the facts change. Explain which condition supports your choice and what would trigger another review."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+                "M04-P slides 49–57",
+                "M04-W pages 23–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M06-B02",
+              "type": "safety_boundary",
+              "heading": "Keep choices within the scenario",
+              "body": [
+                "Movement, shelter and assistance examples are not a universal decision tree. Current hazards and official directions matter.",
+                "This is a tabletop exercise. Do not explore routes, enter floodwater, travel to danger or improvise carrying someone."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+                "M04-P slides 49–57",
+                "M04-W pages 23–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M06-B03",
+              "type": "scenario",
+              "heading": "Compare the source conditions",
+              "body": [
+                "The source set includes directed evacuation with a safe usable route; a flooded road; and a safe building with hazardous outdoor conditions and no evacuation direction.",
+                "A further source case includes an access-support need. Keep each case’s facts and unknowns distinct."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+                "M04-P slides 49–57",
+                "M04-W pages 23–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M06-B04",
+              "type": "decision",
+              "heading": "Connect choice to evidence",
+              "body": [
+                "For each supplied case, state the action, the supporting fact, any support need and the condition for reviewing the decision.",
+                "Do not treat a flooded route as safe, generalise one shelter answer to all hazards or assume assistance has been agreed."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+                "M04-P slides 49–57",
+                "M04-W pages 23–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M06-B05",
+              "type": "consequence_prompt",
+              "heading": "Question the written route",
+              "body": [
+                "What could happen if a route were treated as safe merely because it is written down? Think about how changing conditions should affect the plan."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+                "M04-P slides 49–57",
+                "M04-W pages 23–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M06-B06",
+              "type": "simulation",
+              "heading": "Work two rounds",
+              "body": [
+                "Complete round one privately, then use the source’s changed condition for round two. Mark the changed evidence and revise an assumption.",
+                "Include support preferences as agreed or unresolved. No movement, lifting or real evacuation drill is required."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+                "M04-P slides 49–57",
+                "M04-W pages 23–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M06-B07",
+              "type": "action_confirmation",
+              "heading": "Confirm the revision happened",
+              "body": [
+                "Confirm after two decisions and a revision are performed. Explain the reasoning privately using the source criteria; it is not AI-scored."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+                "M04-P slides 49–57",
+                "M04-W pages 23–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M06-B08",
+              "type": "aar",
+              "heading": "Review the changed condition",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+                "M04-P slides 49–57",
+                "M04-W pages 23–26",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use two supplied tabletop rounds and the source condition change. Do not invent a new hazard combination.",
+            "For round one, privately state action, supporting fact, support need and review trigger.",
+            "For round two, mark the changed evidence and revise at least one assumption or decision.",
+            "Keep any support agreement explicitly agreed or unresolved. Do not use a written route as proof of current safety.",
+            "Keep all practice on paper or in thought; no route exploration, floodwater crossing, carrying or real movement is needed."
+          ],
+          "aarPrompts": [
+            "What changed?",
+            "Which assumption did you correct?",
+            "What would trigger the next review?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M04-S05: approve conditional movement and support; M04-S07: Malaysian preparedness SME must approve scenario scope, changed conditions and feedback; M04-S13: BM review.",
+            "Exact W24 feedback and W25 round-condition cards are needed before enabling decisions. Any new hazard combination requires separate approval.",
+            "Never supply a safe-depth threshold, universal response tree, invented carrying technique or AI score for free reasoning."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 6",
+            "M04-P slides 49–57",
+            "M04-W pages 23–26",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "M04-M07",
+          "title": "Help Without Adding Harm",
+          "purpose": "Produce a handover-ready fictional coordination record and test a specific correction.",
+          "knowledge": "Distinguish contacted, positively confirmed, assistance needed and unknown, and know role boundaries.",
+          "skill": "Link duplicate requests, preserve time, source and scope, and assign follow-up.",
+          "desire": "Recognise that useful help can mean accurate coordination within your role.",
+          "action": "Complete the source update exercise, perform a handover read-back and repair an ambiguity.",
+          "minutes": 55,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "M04-M07-B01",
+              "type": "mission_brief",
+              "heading": "Make the record usable for the next person",
+              "body": [
+                "Can another coordinator take over without repeating every question? Use a fictional record and preserve what is known and unknown."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M07-B02",
+              "type": "knowledge_card",
+              "heading": "Keep status dimensions distinct",
+              "body": [
+                "Contacted, positively confirmed, assistance needed and unknown describe different aspects of an update. A contact attempt does not prove safety.",
+                "Keep source, time, status, need, owner and next update clear. These are training categories, not official response codes or authority."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M07-B03",
+              "type": "scenario",
+              "heading": "Read the fictional update stream",
+              "body": [
+                "The source timeline includes duplicate transport requests in A, four people reported safe in B, no reply in C and an unknown new destination.",
+                "Link duplicates without losing the need. Preserve the time and scope of B, keep C unknown and mark the destination instruction unverified."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M07-B04",
+              "type": "workbook_activity",
+              "heading": "Build one fictional record",
+              "body": [
+                "Privately record source, time, status, need, owner and next update. Make uncertainty visible and avoid repeating a request as though it were a new need.",
+                "Do not turn the worksheet into a real resident database or include public diagnoses and personal contact lists."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M07-B05",
+              "type": "safety_boundary",
+              "heading": "Recovery questions do not certify safety",
+              "body": [
+                "Receding water is not an all-clear. Official directions and structural, electrical, access or contamination concerns may require competent help.",
+                "Do not enter danger to inspect, dispatch volunteers into danger, inspect electrical systems or undertake hazardous cleanup for this exercise."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M07-B06",
+              "type": "relevance_prompt",
+              "heading": "Choose useful help within your role",
+              "body": [
+                "Which apparently helpful act could hide a need or exceed your role? Accurate information, a clear handoff and an honest unknown can be useful contributions."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M07-B07",
+              "type": "do_practice",
+              "heading": "Read back and repair",
+              "body": [
+                "Read the record as the next coordinator, alone or with a consenting partner. Find a duplicated or unclear field and repair it.",
+                "Apply recovery questions to the fictional setting to identify unknowns, not to certify re-entry."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M07-B08",
+              "type": "action_confirmation",
+              "heading": "Confirm the handover and correction",
+              "body": [
+                "Confirm after performing a handover and making a specific revision. Keep the record private."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M07-B09",
+              "type": "aar",
+              "heading": "Review the improvement",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+                "M04-P slides 58–66",
+                "M04-W pages 27–30",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Complete the supplied fictional update stream in one record with source, time, status, need, owner and next update.",
+            "Link duplicate requests without deleting the underlying need. Retain the safe report’s time and scope, no-reply uncertainty and unverified destination.",
+            "Perform a partner or solo handover read-back and revise one unclear or duplicated field.",
+            "Privately apply the recovery questions to identify unknowns without inspecting a real hazard or certifying safety.",
+            "Choose how you would check whether the correction helps the next coordinator."
+          ],
+          "aarPrompts": [
+            "What worked or was missed?",
+            "What changed?",
+            "How will you check the improvement?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M04-S08: approve coordinator roles/status categories; M04-S09: privacy and minimum-information review; M04-S10: approve recovery and competent-help boundary; M04-S13: BM review.",
+            "Supply the full timestamped P60/W28 update stream, approved handover checklist and recovery questions. The synopsis here does not invent missing times or destinations.",
+            "No real resident database, public diagnosis list, volunteer dispatch, re-entry certification or electrical inspection instructions may be created from this activity."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 7",
+            "M04-P slides 58–66",
+            "M04-W pages 27–30",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        },
+        {
+          "id": "M04-M08",
+          "title": "Prove the Pack Can Be Used",
+          "purpose": "Use the complete readiness pack in a two-stage source scenario, correct gaps and prepare a realistic next cycle.",
+          "knowledge": "Retrieve the ten source-tested principles and the programme’s awareness limits.",
+          "skill": "Connect information, backup communication, inclusive support and changed movement conditions.",
+          "desire": "Choose a feasible next conversation, preparation and practice without pretending consent exists.",
+          "action": "Enact the two-stage tabletop scenario, revise the pack and rehearse one next step before completion.",
+          "minutes": 75,
+          "reviewState": "DRAFT",
+          "safetyReviewStatus": "DRAFT",
+          "blocks": [
+            {
+              "id": "M04-M08-B01",
+              "type": "mission_brief",
+              "heading": "Use the pack to answer a new household’s needs",
+              "body": [
+                "Use the pack rather than memory alone. Follow the source household through two stages and identify what the changed facts require you to reconsider."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M08-B02",
+              "type": "scenario",
+              "heading": "Information, communication and conditions change",
+              "body": [
+                "The source fictional Mei, Raj, Anya and Dev scenario includes failed chat and a preference for written messages.",
+                "The second stage changes an instruction, route and helper arrangement. Keep the new facts separate from assumptions carried over from stage one."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M08-B03",
+              "type": "simulation",
+              "heading": "Apply the pack across both stages",
+              "body": [
+                "Privately explain how the pack supports information, communication, inclusive support and movement decisions in each stage.",
+                "Identify a gap revealed by the changed conditions and revise the relevant part of the pack. Keep all activity tabletop-based."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M08-B06",
+              "type": "checklist",
+              "heading": "Trace the connected pack",
+              "body": [
+                "Review the baseline, information map, preparation priorities, plan, communication practice, decision worksheet, coordination record and integrated scenario.",
+                "Trace an open agreement from the baseline to the plan and follow-up so it remains visible rather than being silently treated as resolved."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M08-B07",
+              "type": "commitment",
+              "heading": "Plan a feasible next cycle",
+              "body": [
+                "Privately choose a conversation, a preparation task and a practice activity, with realistic owners and dates.",
+                "Keep an agreement unresolved until the relevant person agrees. A future commitment supports the next cycle but does not replace the activity performed now."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M08-B08",
+              "type": "do_practice",
+              "heading": "Rehearse one next step now",
+              "body": [
+                "Use the fictional pack to rehearse a chosen conversation or demonstrate a safe preparation step now. A solo rehearsal is valid.",
+                "Revise the pack based on what the attempt shows. Real follow-through can happen privately after the course."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M08-B09",
+              "type": "action_confirmation",
+              "heading": "Confirm integration, revision and rehearsal",
+              "body": [
+                "Confirm only after both scenario stages, a pack revision and a present-tense rehearsal are performed. Keep all pack contents and correction reasoning private."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M08-B10",
+              "type": "aar",
+              "heading": "Review transfer to changed conditions",
+              "body": [
+                "Think privately or use your own offline notes. Do not submit reflection writing or personal information. Choose one improvement for the next attempt."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            },
+            {
+              "id": "M04-M08-B11",
+              "type": "completion",
+              "heading": "Understand the completion scope",
+              "body": [
+                "The programme records awareness learning and self-declared practice after its required learning gates are satisfied.",
+                "It does not confer rescue qualification, accreditation, clinical competence or emergency-response authority. Keep practising within your limits."
+              ],
+              "sourceRefs": [
+                "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+                "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+                "M04-W pages 31–39; pack review 36, private next actions 37",
+                "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+              ],
+              "reviewState": "DRAFT",
+              "safetyReviewStatus": "DRAFT"
+            }
+          ],
+          "actionInstructions": [
+            "Use the complete fictional readiness pack for both stages of the supplied Mei/Raj/Anya/Dev scenario.",
+            "Privately connect information, backup communication, support preferences and current-condition decisions, marking the facts that change.",
+            "Revise one revealed gap and trace an unresolved agreement across the baseline, plan and follow-up.",
+            "Choose three realistic next actions with owners and dates, then rehearse one conversation or safe preparation step now.",
+            "After the approved assessment becomes available, review and retry as required and correct every designated critical error. Keep correction reasoning private.",
+            "Choose the pack revision you will test in the next cycle."
+          ],
+          "aarPrompts": [
+            "Where did the pack help?",
+            "What failed on changed conditions?",
+            "Which revision will you test next?"
+          ],
+          "reviewNotes": [
+            "DRAFT — human safety, instructional and accessibility review required before learner publication.",
+            "M04-S06: emergency-call guidance review; M04-S07: conditional-scenario review; M04-S11: bank/rationales and awareness completion policy; M04-S12: source attribution correction; M04-S13: BM review.",
+            "The canonical source bank M04-Q01–Q10 maps to P71–80/W32–33 with feedback P81–82/W34–35. Questions, answer keys and hidden grading logic are omitted from this public asset.",
+            "Source policy awaiting approval: at least 8/10, every designated safety-critical error corrected through an approved retry, and all eight activity components completed. No scores, attempts or narratives persist.",
+            "Supply the complete two-stage scenario, approved connected-pack checklist and versioned assessment outside the public bundle. Every outstanding campaign review must be resolved before publication."
+          ],
+          "sourceRefs": [
+            "CAPAi_Module04_KSDA_Blueprint_v1.0.md, Mission 8",
+            "M04-P slides 67–87; assessment 71–80, feedback 81–82",
+            "M04-W pages 31–39; pack review 36, private next actions 37",
+            "CAPAi_KSDA_Engine_Master_Spec_v1.0.md, sections 2, 4, 6–8"
+          ]
+        }
+      ]
+    }
+  ]
+}
