@@ -38,3 +38,5 @@ html[data-capai-theme="light"] .ksda-site{--ksda-bg:#fffdf8;--ksda-panel:#f2f0e9
   .ksda-demo-steps button:nth-child(n+3) { border-bottom: 1px solid var(--ksda-border); }
   .ksda-demo-steps button:last-child { border-bottom: 0; }
 }
+
+.ksda-password-settings{max-width:950px;padding-block:32px 80px}.ksda-password-settings h2{font-size:clamp(1.5rem,3vw,2rem)}.ksda-password-settings p{max-width:65ch}

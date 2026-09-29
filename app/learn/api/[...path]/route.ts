@@ -1,4 +1,4 @@
-import { authenticatedLearner, courseBySlug, LearningError } from "../../data";
+import { authenticatedLearner, learnerDestination, courseBySlug, LearningError } from "../../data";
 import { reviewedCourse } from "../../content";
 import { getFreeCourse } from "../../free-content";
 import { profileColumns, progressColumns } from "../../course-model";
@@ -19,7 +19,7 @@ export async function GET(_request: Request, context: Context) {
   try {
     if ((await context.params).path.join("/") !== "session") return json({ error: "NOT_FOUND" }, 404);
     const { user, profile } = await authenticatedLearner(true);
-    return json({ email: user.email, profile, destination: profile?.onboarding_completed ? "/learn/dashboard" : "/learn/onboarding" });
+    return json({ email: user.email, profile, destination: learnerDestination(user, profile) });
   } catch (error) { return fail(error); }
 }
 

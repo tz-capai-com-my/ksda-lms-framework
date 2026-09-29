@@ -3,6 +3,8 @@ import { requireLearner, courseBySlug, LearningError } from "./data";
 import { siteSlug, progressColumns } from "./course-model";
 import { getFreeCourse } from "./free-content";
 import { missionNumber, progressAfter } from "./learning-rules";
+import { readingDeliveryEnabled } from "../reading-review/server";
+import { loadReading } from "./reading-server";
 import { TopicExperience } from "./TopicExperience";
 
 export async function TopicRoute({ slug, missionId }: { slug: string; missionId?: string }) {
@@ -27,5 +29,6 @@ export async function TopicRoute({ slug, missionId }: { slug: string; missionId?
   const index = missionId ? course.topics.findIndex(topic => topic.id === missionId) : Math.min(current - 1, course.topics.length - 1);
   if (index < 0) notFound();
   if (index + 1 > current) redirect(`/learn/courses/${slug}`);
-  return <TopicExperience key={`${slug}:${index}`} course={course} index={index} initialCurrent={current} initialPercentage={progress.data?.progress_percentage || 0} initialReady={enrolment.data?.status === "active" && !!progress.data} />;
+  const reading = readingDeliveryEnabled() ? await loadReading(client, "learner", null, course.topics[index].id, course.slug) : null;
+  return <TopicExperience reading={reading??undefined} key={`${slug}:${index}`} course={course} index={index} initialCurrent={current} initialPercentage={progress.data?.progress_percentage || 0} initialReady={enrolment.data?.status === "active" && !!progress.data} />;
 }

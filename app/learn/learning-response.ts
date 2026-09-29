@@ -1,6 +1,6 @@
 // Validate only the response fields the client consumes before updating its UI.
 export type LearningSessionResponse = {
-  destination: "/learn/dashboard" | "/learn/onboarding";
+  destination: "/learn/dashboard" | "/learn/onboarding" | "/learn/set-password";
   profile: { preferred_language: string; onboarding_completed: boolean } | null;
 };
 export type LearningProgressResponse = {
@@ -16,13 +16,13 @@ export function learningErrorCode(value: unknown): string {
 export function parseLearningSession(value: unknown): LearningSessionResponse {
   if (!record(value)) throw new Error("LEARNING_UNAVAILABLE");
   const destination = value.destination;
-  if (destination !== "/learn/dashboard" && destination !== "/learn/onboarding") throw new Error("LEARNING_UNAVAILABLE");
-  if (value.profile === null && destination === "/learn/onboarding") return { destination, profile: null };
+  if (destination !== "/learn/dashboard" && destination !== "/learn/onboarding" && destination !== "/learn/set-password") throw new Error("LEARNING_UNAVAILABLE");
+  if (value.profile === null && destination !== "/learn/dashboard") return { destination, profile: null };
   const profile = value.profile;
   if (!record(profile) || typeof profile.preferred_language !== "string" || typeof profile.onboarding_completed !== "boolean") {
     throw new Error("LEARNING_UNAVAILABLE");
   }
-  if (destination !== (profile.onboarding_completed ? "/learn/dashboard" : "/learn/onboarding")) {
+  if (profile.onboarding_completed ? destination !== "/learn/dashboard" : destination === "/learn/dashboard") {
     throw new Error("LEARNING_UNAVAILABLE");
   }
   return { destination, profile: { preferred_language: profile.preferred_language, onboarding_completed: profile.onboarding_completed } };

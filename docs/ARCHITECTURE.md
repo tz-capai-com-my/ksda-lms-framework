@@ -1,6 +1,6 @@
 # Deployment and tenancy boundary
 
-The framework runs one brand/catalogue against one Supabase project. That project stores Auth identities and four application tables. Each installation supplies its own public site URL, email settings, database connection, administrator allowlist and report signing secret.
+The framework runs one brand/catalogue against one Supabase project. That project stores Auth identities and the original application tables plus an additive private reading schema. Each installation supplies its own public site URL, email settings, database connection, administrator allowlist and report signing secret.
 
 No requests are routed to CAPAi. No original Sites project ID, admin allowlist or live Supabase credentials are included. The copied learning material is example content, not a shared data connection.
 
@@ -22,3 +22,7 @@ No requests are routed to CAPAi. No original Sites project ID, admin allowlist o
 The current administrator panel supports learner records and CSV export. Modules are edited in source and deployed; there is no visual module builder or learner impersonation tool.
 
 Learner progress is self-reported completion, not a professional qualification or proof that a person performed an activity. Reflection writing remains private to the page and is never sent with progress requests.
+
+## v0.2.0 provenance and delivery
+
+The current derivative uses UPSTREAM.json, with independent code/content hashes and an opt-in reading package. Auth/admin remains this framework's verified Supabase boundary. Reading images are served through authenticated routes; no public content cache replaces authorization. Follow DATABASE.md for separate fresh/upgrade instructions.

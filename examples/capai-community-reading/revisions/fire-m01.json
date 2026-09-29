@@ -1,0 +1,524 @@
+{
+  "bridge": {
+    "en": "Picture an ordinary evening in our fictional household. Dinner is nearly ready. Farid passes the shopping bags beside the doorway as he has all week; across the room, a phone charges beneath a cushion. Aina sets a place at the table. Nothing in the room demands their attention. That is where this story begins: with the quiet details that familiarity can make us stop seeing. As you read, consider which conditions deserve a question before an emergency develops. The whole example is here, whether or not a video is available.",
+    "ms": "Bayangkan petang biasa dalam rumah tangga rekaan kita. Makan malam hampir siap. Farid melintasi beg belanja di tepi pintu, seperti yang dilakukannya sepanjang minggu; di seberang ruang, telefon sedang dicas di bawah kusyen. Aina menyediakan tempat di meja makan. Tiada apa-apa di ruang itu yang menarik perhatian mereka. Di situlah cerita ini bermula: pada butiran kecil yang mungkin tidak lagi kita sedari kerana terlalu biasa melihatnya. Sambil membaca, fikirkan keadaan yang wajar ditanya sebelum kecemasan berlaku. Keseluruhan contoh tersedia di sini, sama ada video disediakan atau tidak."
+  },
+  "course_key": "fire-life-safety",
+  "declaration": {
+    "en": "I have read the notes and considered the questions and one useful next step.",
+    "ms": "Saya telah membaca nota, mempertimbangkan soalan dan satu langkah seterusnya yang berguna."
+  },
+  "knowledge_check": {
+    "id": "fire-m01-kc01",
+    "options": [
+      {
+        "correct": false,
+        "id": "a",
+        "rationale": {
+          "en": "The scene shows an obstruction, not a prediction of a fire. Describe the condition without claiming an outcome.",
+          "ms": "Gambaran itu menunjukkan halangan, bukan ramalan kebakaran. Huraikan keadaan tanpa mendakwa sesuatu hasil akan berlaku."
+        },
+        "text": {
+          "en": "“The bags prove this home will have a fire.”",
+          "ms": "“Beg itu membuktikan rumah ini akan terbakar.”"
+        }
+      },
+      {
+        "correct": true,
+        "id": "b",
+        "rationale": {
+          "en": "This names the visible condition and the information still needed, without inventing a cause or outcome.",
+          "ms": "Ini menyatakan keadaan yang kelihatan dan maklumat yang masih diperlukan, tanpa mereka-reka punca atau hasil."
+        },
+        "text": {
+          "en": "“The bags narrow access; the agreed storage place is not yet known.”",
+          "ms": "“Beg menyempitkan laluan; tempat simpanan yang dipersetujui belum diketahui.”"
+        }
+      },
+      {
+        "correct": false,
+        "id": "c",
+        "rationale": {
+          "en": "Familiarity describes the past. It does not establish that the present arrangement keeps access clear.",
+          "ms": "Kebiasaan menerangkan masa lalu. Ia tidak membuktikan bahawa susunan semasa memastikan laluan lapang."
+        },
+        "text": {
+          "en": "“They have always been there, so access must be safe.”",
+          "ms": "“Beg itu sentiasa di situ, jadi laluan tentu selamat.”"
+        }
+      }
+    ],
+    "prompt": {
+      "en": "In the fictional scene, bags narrow a doorway. Which statement best separates observation from uncertainty?",
+      "ms": "Dalam gambaran rekaan, beg menyempitkan pintu. Pernyataan manakah paling jelas membezakan pemerhatian daripada ketidakpastian?"
+    }
+  },
+  "mission_id": "fire-m01",
+  "notes_prompt": {
+    "en": "One condition I would notice and one question I would ask.",
+    "ms": "Satu keadaan yang akan saya perhatikan dan satu soalan yang akan saya tanya."
+  },
+  "opening_alt": {
+    "en": "A fictional evening moves from dinner preparations and a familiar room to Farid and Aina paying closer attention.",
+    "ms": "Petang rekaan beralih daripada persediaan makan malam dan ruang yang biasa kepada Farid dan Aina yang memberi perhatian lebih teliti."
+  },
+  "opening_asset_id": "fire-m01--opening-visual",
+  "opening_caption": {
+    "en": "Nothing looks dramatic in this fictional room. Familiarity can still hide conditions worth noticing.",
+    "ms": "Tiada apa-apa yang kelihatan dramatik dalam ruang rekaan ini. Kebiasaan masih boleh menutup keadaan yang perlu diperhatikan."
+  },
+  "opening_diagram": {
+    "alt": {
+      "en": "A fictional evening moves from dinner preparations and a familiar room to Farid and Aina paying closer attention.",
+      "ms": "Petang rekaan beralih daripada persediaan makan malam dan ruang yang biasa kepada Farid dan Aina yang memberi perhatian lebih teliti."
+    },
+    "caption": {
+      "en": "Nothing looks dramatic in this fictional room. Familiarity can still hide conditions worth noticing.",
+      "ms": "Tiada apa-apa yang kelihatan dramatik dalam ruang rekaan ini. Kebiasaan masih boleh menutup keadaan yang perlu diperhatikan."
+    },
+    "nodes": [
+      {
+        "en": "Dinner is nearly ready",
+        "ms": "Makan malam hampir siap"
+      },
+      {
+        "en": "The room feels familiar",
+        "ms": "Ruang itu terasa biasa"
+      },
+      {
+        "en": "Farid and Aina pause to notice",
+        "ms": "Farid dan Aina berhenti seketika untuk memerhati"
+      }
+    ],
+    "title": {
+      "en": "An ordinary evening, a new look",
+      "ms": "Petang biasa, pandangan baharu"
+    }
+  },
+  "opening_height": 647,
+  "opening_nodes": [
+    {
+      "en": "Dinner is nearly ready",
+      "ms": "Makan malam hampir siap"
+    },
+    {
+      "en": "The room feels familiar",
+      "ms": "Ruang itu terasa biasa"
+    },
+    {
+      "en": "Farid and Aina pause to notice",
+      "ms": "Farid dan Aina berhenti seketika untuk memerhati"
+    }
+  ],
+  "opening_width": 600,
+  "questions": [
+    {
+      "id": "fire-m01-q1",
+      "options": [
+        "An everyday object",
+        "The space around it",
+        "An ordinary routine"
+      ],
+      "optionsMs": [
+        "Objek harian",
+        "Ruang di sekelilingnya",
+        "Rutin harian"
+      ],
+      "prompt": "Which part of an imagined room would you describe first?",
+      "promptMs": "Bahagian manakah dalam ruang rekaan yang ingin anda gambarkan dahulu?"
+    },
+    {
+      "id": "fire-m01-q2",
+      "options": [
+        "A second perspective",
+        "A written reminder",
+        "Time to look carefully"
+      ],
+      "optionsMs": [
+        "Pandangan orang lain",
+        "Peringatan bertulis",
+        "Masa untuk meneliti"
+      ],
+      "prompt": "What would help you look beyond a familiar routine?",
+      "promptMs": "Apakah yang membantu anda menilai semula rutin yang sudah biasa?"
+    }
+  ],
+  "reflection_feedback": [
+    {
+      "options": [
+        {
+          "en": "An object gives you a concrete starting point. Describe its visible condition, then separate that from any cause you cannot establish.",
+          "ms": "Objek memberi titik permulaan yang nyata. Huraikan keadaan yang kelihatan, kemudian bezakannya daripada punca yang belum dapat dipastikan."
+        },
+        {
+          "en": "The surrounding space can reveal a relationship, such as packaging near heat or a narrowed route. Explain what you see without investigating a hazard.",
+          "ms": "Ruang sekeliling boleh menunjukkan hubungan, seperti pembungkus berhampiran haba atau laluan sempit. Terangkan perkara yang dilihat tanpa menyiasat bahaya."
+        },
+        {
+          "en": "A routine can reveal an unspoken handover. Name the moment when responsibility becomes unclear without blaming the people involved.",
+          "ms": "Rutin boleh menunjukkan penyerahan tugas yang tidak dinyatakan. Kenal pasti saat tanggungjawab menjadi tidak jelas tanpa menyalahkan orang yang terlibat."
+        }
+      ],
+      "question_id": "fire-m01-q1"
+    },
+    {
+      "options": [
+        {
+          "en": "Another person may notice a different detail. Compare observations and keep uncertainties visible instead of treating agreement as a safety inspection.",
+          "ms": "Orang lain mungkin menyedari butiran berbeza. Bandingkan pemerhatian dan nyatakan ketidakpastian, tanpa menganggap persetujuan sebagai pemeriksaan keselamatan."
+        },
+        {
+          "en": "A useful reminder points to a specific question, such as whether access is clear. It should prompt attention, not unsafe testing.",
+          "ms": "Peringatan yang berguna merujuk soalan tertentu, seperti sama ada laluan lapang. Ia patut menggalakkan perhatian, bukan ujian yang tidak selamat."
+        },
+        {
+          "en": "Taking time can help you distinguish observation from assumption. It does not require touching or approaching suspect equipment.",
+          "ms": "Meluangkan masa boleh membantu membezakan pemerhatian daripada andaian. Anda tidak perlu menyentuh atau menghampiri peralatan yang diragui keadaannya."
+        }
+      ],
+      "question_id": "fire-m01-q2"
+    }
+  ],
+  "review_holds": [
+    "Private candidate only; authorised fire-safety/content review and owner approval remain pending.",
+    "Current video availability, duration, captions and agreement with this revision have not been checked."
+  ],
+  "sections": [
+    {
+      "asset_height": 758,
+      "asset_id": "fire-m01-detail-1--visual",
+      "asset_width": 600,
+      "block_ids": [
+        "fire-m01-detail-1-p1",
+        "fire-m01-detail-1-p2"
+      ],
+      "diagram": {
+        "alt": {
+          "en": "Three labelled concepts—heat, fuel and oxygen—without instructions to create or extinguish a fire.",
+          "ms": "Tiga konsep berlabel—haba, bahan api dan oksigen—tanpa arahan mencipta atau memadamkan kebakaran."
+        },
+        "caption": {
+          "en": "These three concepts explain ordinary fire; they do not establish the condition of a particular appliance.",
+          "ms": "Tiga konsep ini menerangkan kebakaran biasa; ia tidak menentukan keadaan sesuatu peralatan."
+        },
+        "nodes": [
+          {
+            "en": "Heat: a possible ignition source",
+            "ms": "Haba: sumber pencucuhan yang mungkin"
+          },
+          {
+            "en": "Fuel: material that can burn",
+            "ms": "Bahan api: bahan yang boleh terbakar"
+          },
+          {
+            "en": "Oxygen: a component of air",
+            "ms": "Oksigen: komponen udara"
+          }
+        ],
+        "title": {
+          "en": "The fire triangle: vocabulary, not an experiment",
+          "ms": "Segi tiga api: istilah, bukan eksperimen"
+        }
+      },
+      "id": "fire-m01-detail-1",
+      "ksda_stage": "K",
+      "paragraphs": [
+        {
+          "en": "Farid could walk past those bags with his thoughts already on dinner. He knows they are there; he has stopped noticing how they narrow the doorway. Seeing something every day does not establish that access is clear. Now hear the difference between two sentences: “The bags narrow the doorway” describes the present condition. “Those bags will cause a fire tonight” predicts something the scene cannot tell us. The first sentence gives another person something clear to understand and discuss.",
+          "ms": "Farid boleh melintasi beg itu sambil fikirannya sudah tertumpu pada makan malam. Dia tahu beg itu ada di situ; dia tidak lagi menyedari bagaimana beg tersebut menyempitkan pintu. Melihat sesuatu setiap hari tidak membuktikan bahawa laluan lapang. Sekarang perhatikan perbezaan antara dua ayat: “Beg itu menyempitkan pintu” menerangkan keadaan semasa. “Beg itu akan menyebabkan kebakaran malam ini” meramalkan sesuatu yang tidak dapat diketahui daripada gambaran ini. Ayat pertama memberi orang lain perkara yang jelas untuk difahami dan dibincangkan."
+        },
+        {
+          "en": "The phone beneath the cushion raises another question. The fire triangle gives Farid three words for thinking about ordinary fire: heat, fuel and oxygen. Heat can be a source of ignition, and oxygen is a component of air. Fuel here means material that can burn, including everyday materials in a home. These words help explain why a source of heat and combustible material deserve attention together. They do not diagnose this phone or charger, and they are no invitation to test an object, light anything or remove a safety control. The useful result is a better question about the condition he sees.",
+          "ms": "Telefon di bawah kusyen menimbulkan satu lagi soalan. Segi tiga api memberi Farid tiga istilah untuk memahami kebakaran biasa: haba, bahan api dan oksigen. Haba boleh menjadi punca pencucuhan, dan oksigen ialah komponen udara. Bahan api di sini bermaksud bahan yang boleh terbakar, termasuk bahan harian di rumah. Istilah ini membantu menjelaskan mengapa sumber haba dan bahan mudah terbakar perlu diperhatikan bersama. Ia tidak menentukan keadaan telefon atau pengecas ini, dan bukan ajakan untuk menguji objek, menyalakan apa-apa atau menanggalkan kawalan keselamatan. Hasil yang berguna ialah soalan yang lebih tepat tentang keadaan yang dilihatnya."
+        }
+      ],
+      "title": {
+        "en": "Familiar is not the same as checked",
+        "ms": "Biasa dilihat tidak bermakna sudah diperiksa"
+      },
+      "type": "knowledge"
+    },
+    {
+      "asset_height": 681,
+      "asset_id": "fire-m01-detail-2--visual",
+      "asset_width": 600,
+      "block_ids": [
+        "fire-m01-detail-2-p1",
+        "fire-m01-detail-2-p2"
+      ],
+      "diagram": {
+        "alt": {
+          "en": "Three examples distinguish cooking conditions, charging conditions and obstructed access.",
+          "ms": "Tiga contoh membezakan keadaan memasak, keadaan pengecasan dan laluan yang terhalang."
+        },
+        "caption": {
+          "en": "These are three fictional observations within the wider five-zone approach.",
+          "ms": "Ini tiga pemerhatian rekaan dalam pendekatan lima zon yang lebih luas."
+        },
+        "nodes": [
+          {
+            "en": "Cooking: packaging near heat",
+            "ms": "Memasak: pembungkus berhampiran haba"
+          },
+          {
+            "en": "Charging: a covered phone",
+            "ms": "Pengecasan: telefon yang tertutup"
+          },
+          {
+            "en": "Access: bags narrowing a doorway",
+            "ms": "Laluan: beg menyempitkan pintu"
+          }
+        ],
+        "title": {
+          "en": "One room, several kinds of concern",
+          "ms": "Satu ruang, beberapa jenis kebimbangan"
+        }
+      },
+      "id": "fire-m01-detail-2",
+      "ksda_stage": "K",
+      "paragraphs": [
+        {
+          "en": "Aina begins with the doorway, then lets her attention move through the familiar room. The course offers five zones to organise what she notices: kitchen and cooking; electrical equipment and charging; heating or hot tools; smoking materials; and candles or open flames. Think of these as categories, not five separate rooms. A phone may charge in a bedroom. A hot iron may sit near stored clothing. The category helps her notice a relationship wherever it appears.",
+          "ms": "Aina bermula dengan pintu, kemudian mengalihkan perhatiannya ke bahagian lain dalam ruang yang sudah biasa dilihatnya. Kursus ini menyediakan lima zon untuk menyusun pemerhatian: dapur dan aktiviti memasak; peralatan elektrik dan pengecasan; pemanasan atau alat panas; bahan merokok; serta lilin atau nyalaan terbuka. Anggap ini sebagai kategori, bukannya lima bilik berasingan. Telefon mungkin dicas di bilik tidur. Seterika panas mungkin berada berhampiran pakaian yang disimpan. Kategori membantu Aina melihat hubungan itu di mana-mana sahaja."
+        },
+        {
+          "en": "Within each zone, the useful questions become concrete: what produces heat, what lies nearby, and is access obstructed? “Packaging lies beside the cooking area,” Aina could say. Farid can picture that more clearly than “The kitchen is dangerous.” If a damaged cable is visible, it can be reported without touching it. When an item’s condition is uncertain, the question goes to the responsible person or a competent adviser. The learner does not need to prove the equipment works to make a useful observation.",
+          "ms": "Dalam setiap zon, soalan yang berguna menjadi lebih khusus: apakah yang menghasilkan haba, apakah yang berada berdekatan, dan adakah laluan terhalang? “Bahan pembungkus berada di tepi kawasan memasak,” mungkin kata Aina. Farid lebih mudah membayangkannya berbanding “Dapur berbahaya.” Jika kabel kelihatan rosak, perkara itu boleh dilaporkan tanpa menyentuhnya. Apabila keadaan sesuatu peralatan tidak pasti, soalan itu dirujuk kepada orang yang bertanggungjawab atau penasihat yang berkelayakan. Pelajar tidak perlu membuktikan peralatan itu berfungsi untuk membuat pemerhatian yang berguna."
+        }
+      ],
+      "title": {
+        "en": "Five zones help organise attention",
+        "ms": "Lima zon membantu menyusun perhatian"
+      },
+      "type": "knowledge"
+    },
+    {
+      "asset_height": 681,
+      "asset_id": "fire-m01-detail-3--visual",
+      "asset_width": 600,
+      "block_ids": [
+        "fire-m01-detail-3-p1",
+        "fire-m01-detail-3-p2"
+      ],
+      "diagram": {
+        "alt": {
+          "en": "A worked example separates the visible bags from the access concern and the unanswered storage question.",
+          "ms": "Contoh lengkap membezakan beg yang dilihat, kebimbangan tentang laluan dan soalan penyimpanan yang belum terjawab."
+        },
+        "caption": {
+          "en": "Observation, concern and uncertainty are separate parts of an accurate explanation.",
+          "ms": "Pemerhatian, kebimbangan dan ketidakpastian ialah bahagian berasingan dalam penjelasan yang tepat."
+        },
+        "nodes": [
+          {
+            "en": "Seen: bags narrow the opening",
+            "ms": "Dilihat: beg menyempitkan bukaan"
+          },
+          {
+            "en": "Concern: access is less clear",
+            "ms": "Kebimbangan: laluan kurang lapang"
+          },
+          {
+            "en": "Unknown: agreed storage place",
+            "ms": "Belum diketahui: tempat simpanan yang dipersetujui"
+          }
+        ],
+        "title": {
+          "en": "What the doorway example establishes",
+          "ms": "Perkara yang diketahui daripada contoh pintu"
+        }
+      },
+      "id": "fire-m01-detail-3",
+      "ksda_stage": "S",
+      "paragraphs": [
+        {
+          "en": "Listen to this completed observation as if Aina were speaking across the table: “I can see shopping bags narrowing the doorway. They may make the exit harder to use. I do not know where the household usually stores them.” There is room for Farid to answer because she has left the unknown part open. Her three sentences describe the condition, explain why it matters and acknowledge the missing information. You can follow that reasoning without a photograph, a measured floor plan or an inspection.",
+          "ms": "Baca pemerhatian lengkap ini seolah-olah Aina sedang bercakap di meja makan: “Saya nampak beg belanja menyempitkan pintu. Beg itu mungkin menyukarkan penggunaan jalan keluar. Saya tidak tahu tempat keluarga ini biasanya menyimpannya.” Farid mempunyai ruang untuk menjawab kerana Aina tidak membuat andaian tentang perkara yang belum diketahui. Tiga ayatnya menerangkan keadaan, menjelaskan mengapa perkara itu penting dan mengakui maklumat yang masih tiada. Anda boleh memahami cara berfikir ini tanpa gambar, pelan lantai berukuran atau pemeriksaan."
+        },
+        {
+          "en": "In ordinary safe conditions, that conversation could lead the family to agree on storage that keeps the route clear. Keep the scene in that setting: everyday storage being discussed calmly. It does not mean approaching something hot, sparking or otherwise suspect to move it, or intervening in an active hazard. This fictional doorway already supplies what the lesson needs. Your actual home layout and personal support details do not need to become course entries.",
+          "ms": "Dalam keadaan biasa yang selamat, perbualan itu boleh membawa keluarga tersebut kepada persetujuan tentang penyimpanan yang memastikan laluan lapang. Kekalkan gambaran ini dalam konteksnya: perbincangan tenang tentang penyimpanan harian. Ia tidak bermaksud menghampiri benda yang panas, mengeluarkan percikan atau diragui keadaannya untuk mengalihkannya, atau bertindak terhadap bahaya yang sedang berlaku. Pintu dalam cerita rekaan ini sudah menyediakan perkara yang diperlukan oleh pelajaran. Pelan rumah sebenar dan butiran bantuan peribadi anda tidak perlu dimasukkan ke dalam kursus."
+        }
+      ],
+      "title": {
+        "en": "Read a worked observation",
+        "ms": "Fahami contoh pemerhatian"
+      },
+      "type": "practice"
+    },
+    {
+      "asset_height": 647,
+      "asset_id": "fire-m01-detail-4--visual",
+      "asset_width": 600,
+      "block_ids": [
+        "fire-m01-detail-4-p1",
+        "fire-m01-detail-4-p2"
+      ],
+      "diagram": {
+        "alt": {
+          "en": "Storage agreement and equipment advice lead to a later confirmation of what changed.",
+          "ms": "Persetujuan penyimpanan dan nasihat peralatan diikuti pengesahan tentang perkara yang berubah."
+        },
+        "caption": {
+          "en": "Responsibility follows the question; it is not assigned merely to whoever noticed it.",
+          "ms": "Tanggungjawab ditentukan mengikut soalan; ia tidak semestinya diberikan kepada orang yang menyedarinya."
+        },
+        "nodes": [
+          {
+            "en": "Storage: agree a place together",
+            "ms": "Penyimpanan: persetujui tempat bersama"
+          },
+          {
+            "en": "Equipment: ask the right adviser",
+            "ms": "Peralatan: rujuk penasihat yang sesuai"
+          },
+          {
+            "en": "Follow-up: confirm what changed",
+            "ms": "Susulan: sahkan perkara yang berubah"
+          }
+        ],
+        "title": {
+          "en": "Two concerns, different follow-ups",
+          "ms": "Dua kebimbangan, susulan berbeza"
+        }
+      },
+      "id": "fire-m01-detail-4",
+      "ksda_stage": "A",
+      "paragraphs": [
+        {
+          "en": "“Somebody should deal with this.” The sentence sounds concerned, yet leaves everyone waiting for somebody else. In our story, Farid makes it easier to follow through: he agrees to discuss the storage place with Aina after dinner. They will check whether the new arrangement keeps the doorway clear during normal use. A named person, an agreed occasion and a result to confirm give the concern a place in their day.",
+          "ms": "“Seseorang patut uruskan perkara ini.” Ayat itu kedengaran prihatin, tetapi semua orang masih boleh menunggu orang lain bertindak. Dalam cerita kita, Farid memudahkan tindakan susulan: dia bersetuju untuk membincangkan tempat simpanan dengan Aina selepas makan malam. Mereka akan menyemak sama ada aturan baharu memastikan pintu lapang semasa penggunaan biasa. Orang yang dinamakan, masa yang dipersetujui dan hasil yang perlu disahkan memberi tempat kepada kebimbangan itu dalam hari mereka."
+        },
+        {
+          "en": "The charging question needs a different kind of help: someone able to interpret the manufacturer’s instructions or arrange appropriate assistance. Farid does not have to become the answer to every problem he notices. Each question can go to the person equipped to address it. A manageable next step still never means postponing an immediate danger to fit a calendar. To understand this example, you need no repair, equipment test, purchase or written submission.",
+          "ms": "Soalan pengecasan memerlukan bantuan yang berbeza: seseorang yang dapat mentafsir arahan pengilang atau mengatur bantuan yang sesuai. Farid tidak perlu menyelesaikan setiap masalah yang disedarinya seorang diri. Setiap soalan boleh dirujuk kepada orang yang mampu menanganinya. Namun, langkah seterusnya yang mudah diurus tidak sekali-kali bermaksud menangguhkan bahaya serta-merta supaya sesuai dengan kalendar. Untuk memahami contoh ini, anda tidak perlu membuat pembaikan, menguji peralatan, membeli apa-apa atau menyerahkan tugasan bertulis."
+        }
+      ],
+      "title": {
+        "en": "Give a concern a useful next step",
+        "ms": "Tentukan langkah seterusnya yang berguna"
+      },
+      "type": "action"
+    },
+    {
+      "asset_height": 681,
+      "asset_id": "fire-m01-detail-5--visual",
+      "asset_width": 600,
+      "block_ids": [
+        "fire-m01-detail-5-p1",
+        "fire-m01-detail-5-p2"
+      ],
+      "diagram": {
+        "alt": {
+          "en": "Two conflicting assumptions point to the missing confirmation of who is watching the cooking.",
+          "ms": "Dua andaian yang bercanggah menunjukkan ketiadaan pengesahan tentang siapa yang mengawasi masakan."
+        },
+        "caption": {
+          "en": "This fictional misunderstanding concerns an unspoken arrangement, not a careless personality.",
+          "ms": "Salah faham rekaan ini berkaitan aturan yang tidak dinyatakan, bukannya sikap cuai seseorang."
+        },
+        "nodes": [
+          {
+            "en": "Aina: “Farid is watching”",
+            "ms": "Aina: “Farid sedang mengawasi”"
+          },
+          {
+            "en": "Farid: “Aina is watching”",
+            "ms": "Farid: “Aina sedang mengawasi”"
+          },
+          {
+            "en": "Missing: a confirmed handover",
+            "ms": "Yang tiada: penyerahan tugas yang disahkan"
+          }
+        ],
+        "title": {
+          "en": "The responsibility hidden between two people",
+          "ms": "Tanggungjawab yang tidak jelas antara dua orang"
+        }
+      },
+      "id": "fire-m01-detail-5",
+      "ksda_stage": "D",
+      "paragraphs": [
+        {
+          "en": "Then the doorbell rings. Aina turns towards the sound; Farid calls from another room. For a moment, each may imagine that the other is watching the cooking. The bags and the phone were easy to point to. An unspoken handover has no shape or colour to catch the eye. A second perspective can bring it into view: another person may ask who is watching, just where familiarity made the question disappear.",
+          "ms": "Kemudian loceng pintu berbunyi. Aina menoleh ke arah bunyi itu; Farid memanggil dari bilik lain. Seketika, masing-masing mungkin menyangka bahawa seorang lagi sedang mengawasi masakan. Beg dan telefon tadi mudah ditunjukkan. Penyerahan tanggungjawab yang tidak disebut pula tiada bentuk atau warna untuk menarik perhatian. Pandangan orang lain boleh memperlihatkannya: orang itu mungkin bertanya siapa yang sedang mengawasi, tepat pada saat kebiasaan membuat soalan itu terlepas pandang."
+        },
+        {
+          "en": "Nobody needs a verdict on their character for this conversation to be useful. A visitor, child or family member may depend on an arrangement without knowing who maintains it. Careful attention gives that person a place in the conversation. If you choose the optional notes, one fictional observation and one unanswered question are enough. You can finish this reading without inspecting your home or disclosing its layout. Begin with the story you have just read, and let one clearer question be your takeaway.",
+          "ms": "Tiada sesiapa perlu dinilai peribadinya untuk menjadikan perbualan ini berguna. Pelawat, kanak-kanak atau ahli keluarga mungkin bergantung pada sesuatu aturan tanpa mengetahui siapa yang menjaganya. Perhatian yang teliti memberi ruang kepada orang itu dalam perbincangan. Jika anda memilih untuk menggunakan nota pilihan, satu pemerhatian rekaan dan satu soalan yang belum terjawab sudah memadai. Anda boleh menamatkan bacaan ini tanpa memeriksa rumah atau mendedahkan susun aturnya. Mulakan dengan cerita yang baru dibaca, dan bawa bersama satu soalan yang lebih jelas."
+        }
+      ],
+      "title": {
+        "en": "Notice the assumption behind the scene",
+        "ms": "Perhatikan andaian di sebalik keadaan"
+      },
+      "type": "review"
+    }
+  ],
+  "source_map": [
+    {
+      "disposition": "Exact section/question identity and option order retained; worksheet tasks adapted to fictional worked examples; feedback authored per original option.",
+      "location": "fire-m01; all displayed sections and both reflection questions",
+      "source": "work/mission-reading-private/module-1-source.json"
+    },
+    {
+      "disposition": "Fictional Farid/Aina narrative and accepted reading approach adapted into complete EN/BM companion reading; original Fire workshop script is not supplied.",
+      "location": "Mission 1; lines 26–62",
+      "source": "sources/module-01-approved-working-draft.md"
+    },
+    {
+      "disposition": "Reference checked by Codex on 2026-09-25; general awareness wording only; not qualified technical approval or Malaysian equipment certification.",
+      "location": "Oxygen, Fuel, and Heat; vocabulary only",
+      "source": "https://www.nps.gov/articles/wildlandfire-facts-fuel-heat-oxygen.htm"
+    },
+    {
+      "disposition": "Reference checked by Codex on 2026-09-25; general awareness wording only; not qualified technical approval or Malaysian equipment certification.",
+      "location": "Messages to share: damaged cords and combustibles near heat",
+      "source": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/appliance-and-electrical/"
+    },
+    {
+      "disposition": "Reference checked by Codex on 2026-09-25; general awareness wording only; not qualified technical approval or Malaysian equipment certification.",
+      "location": "Making and practicing your fire escape plan: unobstructed openings",
+      "source": "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/"
+    }
+  ],
+  "title": {
+    "en": "Notice what normal hides",
+    "ms": "Perhatikan risiko yang sering terlepas pandang"
+  },
+  "video_embed": null,
+  "video_link": null,
+  "pilot_spoken_prompt": {
+    "en": "I can notice carefully and ask clearly.",
+    "ms": "Saya boleh memerhati dengan teliti dan bertanya dengan jelas."
+  },
+  "editorial_photos": {
+    "opening": {
+      "asset_id": "fire-m01--story-opening",
+      "width": 1200,
+      "height": 675,
+      "alt": {
+        "en": "Farid pauses in an apartment living room at dusk, looking toward two grocery bags beside a door while Aina stands at a set dining table behind him.",
+        "ms": "Farid berhenti seketika di ruang tamu apartmen pada waktu senja, memandang dua beg belanja di tepi pintu sementara Aina berada di meja makan yang sudah tersedia di belakangnya."
+      },
+      "caption": {
+        "en": "An ordinary evening in a fictional home: Farid pauses long enough to notice a familiar detail.",
+        "ms": "Petang biasa dalam rumah rekaan: Farid berhenti seketika untuk menyedari butiran yang sudah biasa dilihatnya."
+      }
+    },
+    "closer": {
+      "asset_id": "fire-m01--story-closer",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "en": "Fictional Aina listens to Farid across a dining table, holding a plain cup in both hands.",
+        "ms": "Aina dalam cerita rekaan mendengar Farid di meja makan sambil memegang cawan tanpa corak dengan kedua-dua tangan."
+      },
+      "caption": {
+        "en": "Aina gives an ordinary concern a moment of attention.",
+        "ms": "Aina meluangkan seketika untuk mendengar satu kebimbangan harian."
+      },
+      "after_section": "fire-m01-detail-3"
+    }
+  }
+}

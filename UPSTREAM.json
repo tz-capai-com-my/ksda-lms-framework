@@ -1,0 +1,13 @@
+{
+  "upstream_repository": "tz-capai-com-my/final-working-code-capai-lms",
+  "release": "capai-live-v57-20260929",
+  "release_commit": "28780a22677f740776abd2251ce84015c522ca48",
+  "verified_content_commit": "e19f2e255aad00ddf4045cabe0a0b68b2c156592",
+  "published_application_commit": "2ca24e39eaf36ece10bc0aa48086ce900a797043",
+  "snapshot": "snapshots/capai-live-v57-20260927",
+  "framework_previous_release": "v0.1.0",
+  "framework_previous_commit": "e9e10d359d2e3005ea39730b9dae1cc8c238a65a",
+  "derivative": true,
+  "production_connection": false,
+  "rights": "Private authorized derivative; no unrestricted redistribution licence; protected paid content excluded"
+}

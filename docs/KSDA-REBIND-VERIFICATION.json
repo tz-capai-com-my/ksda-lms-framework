@@ -1,0 +1,103 @@
+{
+  "status": "PASS",
+  "scope": "Local only; no hosted provider or production requests",
+  "review_finding": "Physical photo source validation skipped because presentation marker omitted",
+  "finding_status": "RESOLVED_AND_NEGATIVELY_TESTED",
+  "identity": {
+    "release_id": "ksda-community-example-20260929-r01",
+    "content_release_id": "ksda-community-example-20260929-r01-content",
+    "content_hash": "55431f45d83de386403c28c237d6280d2dbc27929b5cbee8f577a9c58fcef676",
+    "parent_content_hash": "ab1db150c3216f205e6e3cfdbea923bd2d7e852cd758318385cc8b9783d26389",
+    "code_hash": "3c2df639c9dfb85d6cda755ffd86e457f430a0ef7829cdc9ce172ba11aac2f3d",
+    "source_hash": "a826beb23a0ccedfde0fdd09dbcfc13733018a314447ae77b9dd6c36a9c680ea",
+    "asset_hash": "9e1d6d861f192e04d84bd4040af146b9536e6e25eb9eaf04a5d1a69b097c8b69",
+    "missions": 28,
+    "blocks": 321,
+    "photos": 56,
+    "photo_bytes": 6669998,
+    "locale_bindings": 112,
+    "status": "draft",
+    "publication": false,
+    "upstream": {
+      "repository": "tz-capai-com-my/final-working-code-capai-lms",
+      "release_tag": "capai-live-v57-20260929",
+      "release_commit": "28780a22677f740776abd2251ce84015c522ca48",
+      "verified_content_commit": "e19f2e255aad00ddf4045cabe0a0b68b2c156592",
+      "published_application_commit": "2ca24e39eaf36ece10bc0aa48086ce900a797043",
+      "snapshot_path": "snapshots/capai-live-v57-20260927/content/programme-r04",
+      "source_content_hash": "3f4742c740ce895f80718e60772bf312d54ff50d05ee49b43334a2d1ea9df016",
+      "delivery_alias": "capai-reading-20260927-r04-displayfix"
+    }
+  },
+  "runtime_manifest_files_verified": 83,
+  "runtime_manifest_stale_entries": [],
+  "physical_presentation": "editorial-photos-v1",
+  "commands": [
+    {
+      "command": "node scripts/generate-reading-code-identity.mjs",
+      "exit_code": 0
+    },
+    {
+      "command": "node scripts/build-reading-example.mjs",
+      "exit_code": 0
+    },
+    {
+      "command": "node scripts/validate-reading-package.mjs examples/capai-community-reading",
+      "exit_code": 0
+    },
+    {
+      "command": "node --test tests/database-schema.test.mjs tests/reading-database.test.mjs tests/reading-package.test.mjs",
+      "exit_code": 0,
+      "tests": 33,
+      "passed": 33,
+      "failed": 0,
+      "database_tests": 26,
+      "content_package_tests": 7
+    },
+    {
+      "command": "node scripts/generate-reading-install.mjs --package examples/capai-community-reading --out /private/tmp/ksda-reading-import-final.sql",
+      "exit_code": 0,
+      "sql_bytes": 14218713,
+      "activate": false,
+      "database_connection": false
+    }
+  ],
+  "negative_seal_cases": [
+    "missing presentation",
+    "unsupported presentation",
+    "rehashed incorrect photograph digest",
+    "rehashed held active section",
+    "rehashed incorrect database course slug"
+  ],
+  "negative_seal_effect": "Each import transaction rejected, release rows rolled back; base profiles, courses, enrolments and earned progress unchanged.",
+  "file_hashes": [
+    {
+      "path": "scripts/build-reading-example.mjs",
+      "sha256": "ee46f328080189d2e41834e1da2f7d9b3fc64bf3b8774f63ca517c64fdc5da63"
+    },
+    {
+      "path": "scripts/validate-reading-package.mjs",
+      "sha256": "910b017dc9ebc3ab69dfea1dc08151116c28a31ce03f913af544a5373f477f4d"
+    },
+    {
+      "path": "scripts/generate-reading-install.mjs",
+      "sha256": "87740c4e54915e4545da1d17597ee0fc93590d880765392dfeaae483c3c0668c"
+    },
+    {
+      "path": "supabase/migrations/20260929091809_independent_interactive_reading.sql",
+      "sha256": "d95bf0efa6bb2aedc84cddf8a7f3df86376a871c9130dc2a7b841d7dab0d352e"
+    },
+    {
+      "path": "tests/reading-database.test.mjs",
+      "sha256": "6fbb9c9870a1976414ba70a044aa7929ed27b22651bc9b79a12b96a19ed623d8"
+    },
+    {
+      "path": "tests/reading-package.test.mjs",
+      "sha256": "ad2e1f18845fe446da26bf03e40aaebfa91205342ddea5a8f401a206eef40928"
+    },
+    {
+      "path": "examples/capai-community-reading/bundle.json",
+      "sha256": "927992d62abb7877abcb5336a02309c70833c5a5f8758e5f1db5bf7230ec5abf"
+    }
+  ]
+}
