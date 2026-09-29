@@ -1,0 +1,46 @@
+/* Sign-in only: leave onboarding, recovery and all learning pages unchanged. */
+.ksda-signin{--signin-card:#151717;--signin-field:#0e1010;--signin-shadow:0 20px 60px #0003;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:calc(100svh - 94px);padding:40px 20px 32px;background:var(--ksda-bg)}
+html[data-capai-theme="light"] .ksda-signin{--signin-card:#fff;--signin-field:#fff;--signin-shadow:0 16px 50px #1730230c;background:#f5f6f4}
+.ksda-signin-card{width:100%;max-width:560px;padding:32px 36px;border:1px solid var(--ksda-border);border-radius:20px;background:var(--signin-card);box-shadow:var(--signin-shadow)}
+.ksda-signin-heading{text-align:center;margin-bottom:26px}
+.ksda-site .ksda-signin-heading .ksda-kicker{margin:0 0 10px;font-size:.875rem!important}
+.ksda-site .ksda-signin-heading h1{font-size:clamp(1.8rem,4vw,2.15rem);max-width:none;margin:0 0 10px;line-height:1.2;letter-spacing:-.035em;overflow-wrap:normal}
+.ksda-signin-heading p:last-child{color:var(--ksda-muted);font-size:1rem;line-height:1.5}
+.ksda-signin-google{display:flex;align-items:center;justify-content:center;gap:12px;width:100%;min-height:54px;padding:12px;border:1px solid #747775;border-radius:8px;background:#fff;color:#1f1f1f;font:500 1rem/1.4 Arial,sans-serif;cursor:pointer}
+.ksda-signin-google:hover{background:#f2f2f2}
+.ksda-signin-google img{flex:0 0 20px;width:20px;height:20px;object-fit:contain}
+.ksda-signin-divider{display:flex;align-items:center;gap:16px;margin:22px 0;color:var(--ksda-muted);font-size:.875rem;line-height:1.4;text-align:center}
+.ksda-signin-divider::before,.ksda-signin-divider::after{content:"";flex:1;border-top:1px solid var(--ksda-border)}
+.ksda-signin-methods{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.ksda-signin-methods button{min-width:0;min-height:82px;padding:12px 10px;border:1px solid var(--ksda-border);border-radius:10px;background:var(--signin-field);color:var(--ksda-muted);font:inherit;line-height:1.35;cursor:pointer;text-align:center}
+.ksda-signin-methods button[aria-pressed=true]{background:#efd477;border-color:#efd477;color:#181910;box-shadow:inset 0 0 0 1px #76570b33}
+.ksda-signin-methods span{display:block;font-size:.875rem;margin-bottom:6px}
+.ksda-signin-methods strong{display:block;font-size:1rem;color:var(--ksda-ink);font-weight:650}
+.ksda-signin-methods button[aria-pressed=true] strong{color:#181910}
+.ksda-site .ksda-signin-hint{font-size:.875rem;color:var(--ksda-muted);line-height:1.5;margin:14px 0 18px;text-align:center}
+.ksda-signin .ksda-signin-form{max-width:none;gap:18px;margin:0}
+.ksda-signin-field{display:flex;flex-direction:column;gap:8px}
+.ksda-signin-field label{font-size:.9375rem;line-height:1.45}
+.ksda-signin-form input{background:var(--signin-field);border-radius:8px;line-height:1.4;font-size:1rem}
+.ksda-signin-form input::placeholder{color:var(--ksda-muted);opacity:.8}
+.ksda-signin-label{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.ksda-signin-label a{font-size:.875rem;min-height:44px;display:inline-flex;align-items:center;color:var(--ksda-accent);text-underline-offset:3px}
+.ksda-signin-password{position:relative}
+.ksda-signin-password input{padding-right:78px}
+.ksda-signin-password button{position:absolute;right:5px;top:5px;bottom:5px;padding:0 12px;min-width:62px;border:0;border-radius:4px;background:transparent;color:var(--ksda-ink);font:inherit;font-size:.875rem;cursor:pointer}
+.ksda-signin .ksda-signin-submit{width:100%;margin-top:0;border-radius:8px;min-height:54px;justify-content:center}
+.ksda-signin-next{margin-top:20px;color:var(--ksda-muted)}
+.ksda-site .ksda-signin-next p{font-size:.875rem;line-height:1.5;margin:0 0 10px}
+.ksda-signin-next ol{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;list-style:none;padding:0;margin:0}
+.ksda-signin-next li{font-size:.875rem;line-height:1.4}
+.ksda-signin-next li>span{display:inline-grid;place-items:center;width:22px;height:22px;margin-right:6px;border:1px solid var(--ksda-border);border-radius:50%;font-size:.8125rem;color:var(--ksda-ink)}
+.ksda-signin-footer{margin-top:24px;border-top:1px solid var(--ksda-border);padding-top:18px;text-align:center;color:var(--ksda-muted);font-size:.875rem;line-height:1.5}
+.ksda-site .ksda-signin-footer p{margin:0}
+.ksda-signin-footer a{display:inline-flex;align-items:center;min-height:44px;text-decoration:underline;text-underline-offset:3px}
+.ksda-signin-catalogue{display:flex;align-items:center;justify-content:center;min-height:48px;margin-top:16px;max-width:560px;text-align:center;font-size:.9375rem;color:var(--ksda-muted);text-decoration:underline;text-underline-offset:4px}
+.ksda-signin-code p{overflow-wrap:anywhere}
+.ksda-signin-code #learner-code{text-align:center;font-size:1.5rem;letter-spacing:.3em}
+.ksda-signin-code .ksda-actions{justify-content:space-between;margin:0;gap:8px 16px}
+.ksda-signin .ksda-error{margin-bottom:22px;overflow-wrap:anywhere}
+@media(max-width:600px){.ksda-signin{padding:24px 16px;justify-content:flex-start;min-height:0}.ksda-signin-card{padding:26px 20px 18px;border-radius:16px}.ksda-signin-heading{margin-bottom:24px}.ksda-signin-methods{gap:8px}.ksda-signin-next ol{grid-template-columns:1fr;gap:8px}.ksda-signin-footer{margin-top:22px}.ksda-signin-label{gap:0 10px}}
+@media(max-width:360px){.ksda-signin{padding-inline:12px}.ksda-signin-card{padding-inline:16px}.ksda-signin-methods{grid-template-columns:1fr}.ksda-signin-methods button{min-height:70px}.ksda-signin-methods span{margin-bottom:4px}}

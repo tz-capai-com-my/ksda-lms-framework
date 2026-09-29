@@ -1,0 +1,26 @@
+{
+  "release_id": "ksda-community-example-20260929-r01",
+  "content_release_id": "ksda-community-example-20260929-r01-content",
+  "content_hash": "55431f45d83de386403c28c237d6280d2dbc27929b5cbee8f577a9c58fcef676",
+  "parent_content_hash": "ab1db150c3216f205e6e3cfdbea923bd2d7e852cd758318385cc8b9783d26389",
+  "code_hash": "3c2df639c9dfb85d6cda755ffd86e457f430a0ef7829cdc9ce172ba11aac2f3d",
+  "source_hash": "a826beb23a0ccedfde0fdd09dbcfc13733018a314447ae77b9dd6c36a9c680ea",
+  "asset_hash": "9e1d6d861f192e04d84bd4040af146b9536e6e25eb9eaf04a5d1a69b097c8b69",
+  "missions": 28,
+  "blocks": 321,
+  "photos": 56,
+  "photo_bytes": 6669998,
+  "locale_bindings": 112,
+  "status": "draft",
+  "publication": false,
+  "upstream": {
+    "repository": "tz-capai-com-my/final-working-code-capai-lms",
+    "release_tag": "capai-live-v57-20260929",
+    "release_commit": "28780a22677f740776abd2251ce84015c522ca48",
+    "verified_content_commit": "e19f2e255aad00ddf4045cabe0a0b68b2c156592",
+    "published_application_commit": "2ca24e39eaf36ece10bc0aa48086ce900a797043",
+    "snapshot_path": "snapshots/capai-live-v57-20260927/content/programme-r04",
+    "source_content_hash": "3f4742c740ce895f80718e60772bf312d54ff50d05ee49b43334a2d1ea9df016",
+    "delivery_alias": "capai-reading-20260927-r04-displayfix"
+  }
+}

@@ -1,5 +1,7 @@
+import { brand } from "@/config/brand";
 import { safeCourseDestination } from "./course-model";
 import { createClient } from "@supabase/supabase-js";
+import type { User } from "@supabase/supabase-js";
 import { redirect } from "next/navigation";
 import { supabaseConfig } from "./supabase/config";
 import { learnerServerClient } from "./supabase/server";
@@ -18,8 +20,21 @@ export async function publishedCourses(): Promise<{ courses: Course[]; unavailab
 export class LearningError extends Error {
   constructor(public code: string, public status = 503) { super(code); }
 }
+// A journey choice only: this marker is user-editable and grants no access.
+// Google identities come from Supabase-managed app metadata, never form input.
+export function learnerDestination(user: User, profile: Profile | null): "/learn/dashboard" | "/learn/onboarding" | "/learn/set-password" {
+  if (profile?.onboarding_completed) return "/learn/dashboard";
+  const providers = user.app_metadata?.providers;
+  const google = user.app_metadata?.provider === "google" || (Array.isArray(providers) && providers.includes("google"));
+  return brand.features.passwordLogin && brand.features.passwordSetup && !google && user.user_metadata?.ksda_password_set !== true ? "/learn/set-password" : "/learn/onboarding";
+}
 export async function authenticatedLearner(reportAuthFailure = false) {
   const client = await learnerServerClient();
+  return authenticatedLearnerWithClient(client, reportAuthFailure);
+}
+// OAuth routes supply a request-local client whose cookie writes are attached
+// explicitly to the final response. All learner methods share these checks.
+export async function authenticatedLearnerWithClient(client: Awaited<ReturnType<typeof learnerServerClient>>, reportAuthFailure = false) {
   const { data: { user }, error } = await client.auth.getUser();
   if (error) {
     // A provider outage is not a logout. Keep authorization closed, but allow
@@ -52,7 +67,7 @@ export async function requireLearner(onboarded = true, returnTo = "") {
     if (error instanceof LearningError && error.status === 401) redirect(`/learn/sign-in${suffix}`);
     throw error;
   }
-  if (onboarded && !learner.profile?.onboarding_completed) redirect(`/learn/onboarding${suffix}`);
+  if (onboarded && !learner.profile?.onboarding_completed) redirect(`${learnerDestination(learner.user, learner.profile)}${suffix}`);
   return learner;
 }
 export async function courseBySlug(client: Awaited<ReturnType<typeof learnerServerClient>>, slug: string) {

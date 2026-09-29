@@ -1,0 +1,8 @@
+{
+  "status": "LOCAL_VALIDATED_REMOTE_VERIFICATION_PENDING",
+  "repository": "tz-capai-com-my/ksda-lms-framework",
+  "branch": "release/ksda-v0.2.0-20260929",
+  "predecessor_commit": "e9e10d359d2e3005ea39730b9dae1cc8c238a65a",
+  "intended_new_tag": "v0.2.0",
+  "upstream_capai_release_commit": "28780a22677f740776abd2251ce84015c522ca48"
+}

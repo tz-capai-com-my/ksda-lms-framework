@@ -9,5 +9,13 @@
   "accentColor": "#6b5623",
   "locale": "en-MY",
   "timeZone": "Asia/Kuala_Lumpur",
-  "accentColorDark": "#efd477"
+  "accentColorDark": "#efd477",
+  "senderName": "Your learning team",
+  "senderSetup": "Configure a sender you control in your independent Supabase project. No SMTP credential belongs in this file.",
+  "features": {
+    "googleLogin": false,
+    "passwordLogin": true,
+    "passwordSetup": true,
+    "readingCompanions": true
+  }
 }

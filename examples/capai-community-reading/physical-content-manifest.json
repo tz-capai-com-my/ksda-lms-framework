@@ -1,0 +1,1801 @@
+{
+  "asset_manifest_hash": "9e1d6d861f192e04d84bd4040af146b9536e6e25eb9eaf04a5d1a69b097c8b69",
+  "assets": [
+    {
+      "bytes": 105050,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "fire-m01",
+      "sha256": "eb1b08cade05fff765b6aee62334869304478ce065e05910746f82c07c3252be",
+      "visual_id": "fire-m01--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 105050,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "fire-m01",
+      "sha256": "eb1b08cade05fff765b6aee62334869304478ce065e05910746f82c07c3252be",
+      "visual_id": "fire-m01--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 88342,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "fire-m01",
+      "sha256": "30257d410f4b5bfaa7f5c60af764a7a7176c5ed4beca946f67ecda8532b14c97",
+      "visual_id": "fire-m01--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 88342,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "fire-m01",
+      "sha256": "30257d410f4b5bfaa7f5c60af764a7a7176c5ed4beca946f67ecda8532b14c97",
+      "visual_id": "fire-m01--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 105696,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "fire-m02",
+      "sha256": "1f5df4dae4aa13ef86975f2cd877e8d1baccc96b168247259e87638798edd452",
+      "visual_id": "fire-m02--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 105696,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "fire-m02",
+      "sha256": "1f5df4dae4aa13ef86975f2cd877e8d1baccc96b168247259e87638798edd452",
+      "visual_id": "fire-m02--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 165622,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "fire-m02",
+      "sha256": "55d857d4cbc0d2ad4fb121fa551ab31e66c93004dfaf014eef51d2aad42f2c37",
+      "visual_id": "fire-m02--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 165622,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "fire-m02",
+      "sha256": "55d857d4cbc0d2ad4fb121fa551ab31e66c93004dfaf014eef51d2aad42f2c37",
+      "visual_id": "fire-m02--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 122062,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "fire-m03",
+      "sha256": "27d0c1b105e64f45a90543b709071dfa51a4895063c69801066c8d5f96cbf32a",
+      "visual_id": "fire-m03--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 122062,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "fire-m03",
+      "sha256": "27d0c1b105e64f45a90543b709071dfa51a4895063c69801066c8d5f96cbf32a",
+      "visual_id": "fire-m03--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 126260,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "fire-m03",
+      "sha256": "34dc4d684859239127ee771123f4d027531e3b8c2a29e5115cbab9e38faca1b1",
+      "visual_id": "fire-m03--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 126260,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "fire-m03",
+      "sha256": "34dc4d684859239127ee771123f4d027531e3b8c2a29e5115cbab9e38faca1b1",
+      "visual_id": "fire-m03--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 89770,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "fire-m04",
+      "sha256": "b0f9e561cb2dd51a6c0becb46b599fe0a3ec54a2f8f360b735884aeaa88f9642",
+      "visual_id": "fire-m04--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 89770,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "fire-m04",
+      "sha256": "b0f9e561cb2dd51a6c0becb46b599fe0a3ec54a2f8f360b735884aeaa88f9642",
+      "visual_id": "fire-m04--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 102564,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "fire-m04",
+      "sha256": "44184e03c46860298a0846ce6996c8c280f96a7c0f61793612c15d79f71e4689",
+      "visual_id": "fire-m04--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 102564,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "fire-m04",
+      "sha256": "44184e03c46860298a0846ce6996c8c280f96a7c0f61793612c15d79f71e4689",
+      "visual_id": "fire-m04--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 60744,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "fire-m05",
+      "sha256": "869ecbcb2559806d5ba31e11ff6b100c933f6b7cc223ef0171b128c458503f14",
+      "visual_id": "fire-m05--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 60744,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "fire-m05",
+      "sha256": "869ecbcb2559806d5ba31e11ff6b100c933f6b7cc223ef0171b128c458503f14",
+      "visual_id": "fire-m05--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 102574,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "fire-m05",
+      "sha256": "7ecaecdeff3e2512be1edb44fb4f70b52daaed0eb3f8014a67275cfc46f8e53f",
+      "visual_id": "fire-m05--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 102574,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "fire-m05",
+      "sha256": "7ecaecdeff3e2512be1edb44fb4f70b52daaed0eb3f8014a67275cfc46f8e53f",
+      "visual_id": "fire-m05--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 132478,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "fire-m06",
+      "sha256": "90b15c781b9fadcc80c3303ae1b32fd1b17698bb25341ac04a10f022c8185ff5",
+      "visual_id": "fire-m06--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 132478,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "fire-m06",
+      "sha256": "90b15c781b9fadcc80c3303ae1b32fd1b17698bb25341ac04a10f022c8185ff5",
+      "visual_id": "fire-m06--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 118754,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "fire-m06",
+      "sha256": "d8f2ee45a45626757f7b7ab282813bcb7562a1553bb9014985807a1cdec396bf",
+      "visual_id": "fire-m06--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 118754,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "fire-m06",
+      "sha256": "d8f2ee45a45626757f7b7ab282813bcb7562a1553bb9014985807a1cdec396bf",
+      "visual_id": "fire-m06--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 86346,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m02-m01",
+      "sha256": "3d015f3a73fcfde110a4c30ede392ebbeef9c000d81daae467a371d758455eb2",
+      "visual_id": "m02-m01--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 86346,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m02-m01",
+      "sha256": "3d015f3a73fcfde110a4c30ede392ebbeef9c000d81daae467a371d758455eb2",
+      "visual_id": "m02-m01--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 126890,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m02-m01",
+      "sha256": "3b163a147e0fe20ca7c2861ea3633c9799aa0c4969bfdfc036adc18e70d9c858",
+      "visual_id": "m02-m01--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 126890,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m02-m01",
+      "sha256": "3b163a147e0fe20ca7c2861ea3633c9799aa0c4969bfdfc036adc18e70d9c858",
+      "visual_id": "m02-m01--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 108914,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m02-m02",
+      "sha256": "4d8faa7466036092fc45a4829762b1dc6186adca9656e5b5d95a71178565a088",
+      "visual_id": "m02-m02--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 108914,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m02-m02",
+      "sha256": "4d8faa7466036092fc45a4829762b1dc6186adca9656e5b5d95a71178565a088",
+      "visual_id": "m02-m02--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 107488,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m02-m02",
+      "sha256": "0a8d45033206d5eff70d435dfab205373ffee00e7c7a2c255d34363cd6c1fee4",
+      "visual_id": "m02-m02--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 107488,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m02-m02",
+      "sha256": "0a8d45033206d5eff70d435dfab205373ffee00e7c7a2c255d34363cd6c1fee4",
+      "visual_id": "m02-m02--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 105508,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m02-m03",
+      "sha256": "ac6b6db4f0316894805076a5318749c0f708e9d7e32f9bf0a521cf3e40af0c21",
+      "visual_id": "m02-m03--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 105508,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m02-m03",
+      "sha256": "ac6b6db4f0316894805076a5318749c0f708e9d7e32f9bf0a521cf3e40af0c21",
+      "visual_id": "m02-m03--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 98708,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m02-m03",
+      "sha256": "21b3f4cf8635946f05c4e1f2c4a99c1df244aec8e6fa85464380725884c51ecc",
+      "visual_id": "m02-m03--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 98708,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m02-m03",
+      "sha256": "21b3f4cf8635946f05c4e1f2c4a99c1df244aec8e6fa85464380725884c51ecc",
+      "visual_id": "m02-m03--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 111276,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m02-m04",
+      "sha256": "dc7434d2570c8e20df1a5893e0530770c807b96f84ab9a937e150e96efa5fc60",
+      "visual_id": "m02-m04--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 111276,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m02-m04",
+      "sha256": "dc7434d2570c8e20df1a5893e0530770c807b96f84ab9a937e150e96efa5fc60",
+      "visual_id": "m02-m04--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 80088,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m02-m04",
+      "sha256": "7f4bde45a711f33fc4ef53ac85856e18629fcc97c581dbe4ce4b886c63e1307e",
+      "visual_id": "m02-m04--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 80088,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m02-m04",
+      "sha256": "7f4bde45a711f33fc4ef53ac85856e18629fcc97c581dbe4ce4b886c63e1307e",
+      "visual_id": "m02-m04--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 104382,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m02-m05",
+      "sha256": "8a04f8afe6d3e69b69dd20a4c1b79a8ce1ba3e80f7cd12f9f1506e003a92a69e",
+      "visual_id": "m02-m05--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 104382,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m02-m05",
+      "sha256": "8a04f8afe6d3e69b69dd20a4c1b79a8ce1ba3e80f7cd12f9f1506e003a92a69e",
+      "visual_id": "m02-m05--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 92582,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m02-m05",
+      "sha256": "4a44e9f683c6f2381d4ac520f621e2f3d5dd2ba51eae2e7b70603111bfa9629f",
+      "visual_id": "m02-m05--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 92582,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m02-m05",
+      "sha256": "4a44e9f683c6f2381d4ac520f621e2f3d5dd2ba51eae2e7b70603111bfa9629f",
+      "visual_id": "m02-m05--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 110056,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m02-m06",
+      "sha256": "f2545103eeb316aa403fecdb5d39ef8b3a1def325307662f70dda72854c41993",
+      "visual_id": "m02-m06--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 110056,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m02-m06",
+      "sha256": "f2545103eeb316aa403fecdb5d39ef8b3a1def325307662f70dda72854c41993",
+      "visual_id": "m02-m06--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 112628,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m02-m06",
+      "sha256": "74740c2c42c45e9635d4099c82c0ebd5f1c1c1f0be5615ab902d6c340f48668b",
+      "visual_id": "m02-m06--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 112628,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m02-m06",
+      "sha256": "74740c2c42c45e9635d4099c82c0ebd5f1c1c1f0be5615ab902d6c340f48668b",
+      "visual_id": "m02-m06--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 89518,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m02-m07",
+      "sha256": "4805cc405e7a3a6e77605079cae1c433da69a19b1d06b2b224b30d5d4591833b",
+      "visual_id": "m02-m07--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 89518,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m02-m07",
+      "sha256": "4805cc405e7a3a6e77605079cae1c433da69a19b1d06b2b224b30d5d4591833b",
+      "visual_id": "m02-m07--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 124806,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m02-m07",
+      "sha256": "607c494a08f3eac95947bc81e1a75fd7319770f714bea93b8d6a8353e04f7f45",
+      "visual_id": "m02-m07--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 124806,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m02-m07",
+      "sha256": "607c494a08f3eac95947bc81e1a75fd7319770f714bea93b8d6a8353e04f7f45",
+      "visual_id": "m02-m07--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 117592,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m03.m01",
+      "sha256": "e2ef976591d9d37508f3b19651b045d6b664b406bf0531c5eb32cb09e1f7ffd4",
+      "visual_id": "m03.m01--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 117592,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m03.m01",
+      "sha256": "e2ef976591d9d37508f3b19651b045d6b664b406bf0531c5eb32cb09e1f7ffd4",
+      "visual_id": "m03.m01--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 128046,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m03.m01",
+      "sha256": "cfb695f9c148379de6b90f4d25b1e108efecdc19dd79daf7a9545464827cfa4f",
+      "visual_id": "m03.m01--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 128046,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m03.m01",
+      "sha256": "cfb695f9c148379de6b90f4d25b1e108efecdc19dd79daf7a9545464827cfa4f",
+      "visual_id": "m03.m01--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 116058,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m03.m02",
+      "sha256": "f5b92d4dcfc26b0f389f06367aaa0c8e6e884b3de018e88c32a06fd844149019",
+      "visual_id": "m03.m02--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 116058,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m03.m02",
+      "sha256": "f5b92d4dcfc26b0f389f06367aaa0c8e6e884b3de018e88c32a06fd844149019",
+      "visual_id": "m03.m02--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 110454,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m03.m02",
+      "sha256": "d010d22177d3037777302270c6ca09d465b33eef3d1792fc4c602e5a983ce311",
+      "visual_id": "m03.m02--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 110454,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m03.m02",
+      "sha256": "d010d22177d3037777302270c6ca09d465b33eef3d1792fc4c602e5a983ce311",
+      "visual_id": "m03.m02--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 106404,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m03.m03",
+      "sha256": "46fb6d5a840efee97daa82be74f00af0099ccbe93e3a9e9bb7d899289e785b13",
+      "visual_id": "m03.m03--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 106404,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m03.m03",
+      "sha256": "46fb6d5a840efee97daa82be74f00af0099ccbe93e3a9e9bb7d899289e785b13",
+      "visual_id": "m03.m03--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 141490,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m03.m03",
+      "sha256": "f4a2e965c625630af3c74a443f1ca2e54e6cfcc6b0deb9951163eb10d2865482",
+      "visual_id": "m03.m03--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 141490,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m03.m03",
+      "sha256": "f4a2e965c625630af3c74a443f1ca2e54e6cfcc6b0deb9951163eb10d2865482",
+      "visual_id": "m03.m03--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 107946,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m03.m04",
+      "sha256": "ea1533861be5d8f4a191d21be8239199ca749ceede1927a58aafd6a5df1b4b1b",
+      "visual_id": "m03.m04--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 107946,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m03.m04",
+      "sha256": "ea1533861be5d8f4a191d21be8239199ca749ceede1927a58aafd6a5df1b4b1b",
+      "visual_id": "m03.m04--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 106908,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m03.m04",
+      "sha256": "f9c06e961c2d687d7d1415ab5ec3dfdf24e7e148445f0db01baadad16841dc8e",
+      "visual_id": "m03.m04--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 106908,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m03.m04",
+      "sha256": "f9c06e961c2d687d7d1415ab5ec3dfdf24e7e148445f0db01baadad16841dc8e",
+      "visual_id": "m03.m04--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 128594,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m03.m05",
+      "sha256": "d3c9e4cb2562496fa79d5b5c85d2aa1c6443be2c99236a016129d22738c20cf8",
+      "visual_id": "m03.m05--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 128594,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m03.m05",
+      "sha256": "d3c9e4cb2562496fa79d5b5c85d2aa1c6443be2c99236a016129d22738c20cf8",
+      "visual_id": "m03.m05--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 167012,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m03.m05",
+      "sha256": "483efb29f9bade7c0c8c6e9b1d8f4cfa1469f935bd9e9579cfa977fac1e182ce",
+      "visual_id": "m03.m05--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 167012,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m03.m05",
+      "sha256": "483efb29f9bade7c0c8c6e9b1d8f4cfa1469f935bd9e9579cfa977fac1e182ce",
+      "visual_id": "m03.m05--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 132020,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m03.m06",
+      "sha256": "f45fe3d0bab81662a98a4426ca0ec75f6198c88bab61ecc6a45b370ba04d7662",
+      "visual_id": "m03.m06--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 132020,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m03.m06",
+      "sha256": "f45fe3d0bab81662a98a4426ca0ec75f6198c88bab61ecc6a45b370ba04d7662",
+      "visual_id": "m03.m06--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 143008,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m03.m06",
+      "sha256": "d2548452235363605178403f6aca8e0bc1b734a788d3a7f4600f63f50ff91a51",
+      "visual_id": "m03.m06--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 143008,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m03.m06",
+      "sha256": "d2548452235363605178403f6aca8e0bc1b734a788d3a7f4600f63f50ff91a51",
+      "visual_id": "m03.m06--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 151786,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "m03.m07",
+      "sha256": "c018850ae94a6aa9efae22b1691fb2d7a8b11017ca4fc039674d977bf8eda3c6",
+      "visual_id": "m03.m07--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 151786,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "m03.m07",
+      "sha256": "c018850ae94a6aa9efae22b1691fb2d7a8b11017ca4fc039674d977bf8eda3c6",
+      "visual_id": "m03.m07--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 149042,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "m03.m07",
+      "sha256": "9819c25b8199509f0a4f1ca649ca8e52dc2e147d8c3c008722570ec755b7840c",
+      "visual_id": "m03.m07--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 149042,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "m03.m07",
+      "sha256": "9819c25b8199509f0a4f1ca649ca8e52dc2e147d8c3c008722570ec755b7840c",
+      "visual_id": "m03.m07--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 145146,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "M04-M01",
+      "sha256": "95cc8dcaf2651ae6c0553761d0a3e91e49b08ef3dfb59a54af9d4b66786ab8a7",
+      "visual_id": "M04-M01--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 145146,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "M04-M01",
+      "sha256": "95cc8dcaf2651ae6c0553761d0a3e91e49b08ef3dfb59a54af9d4b66786ab8a7",
+      "visual_id": "M04-M01--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 161926,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "M04-M01",
+      "sha256": "c756258095e9e87e1740b0b7939b66e6c14bc7fd220850e99b59a8168e8be34d",
+      "visual_id": "M04-M01--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 161926,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "M04-M01",
+      "sha256": "c756258095e9e87e1740b0b7939b66e6c14bc7fd220850e99b59a8168e8be34d",
+      "visual_id": "M04-M01--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 118142,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "M04-M02",
+      "sha256": "0c6d596e19897369d1e57ae707bac7c4160d813dc767d7a3949f5e631254c2f5",
+      "visual_id": "M04-M02--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 118142,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "M04-M02",
+      "sha256": "0c6d596e19897369d1e57ae707bac7c4160d813dc767d7a3949f5e631254c2f5",
+      "visual_id": "M04-M02--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 145018,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "M04-M02",
+      "sha256": "c3bc08fd5820204d6722f649e29e089d9d333b528046d368e5aa64790d8c77f2",
+      "visual_id": "M04-M02--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 145018,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "M04-M02",
+      "sha256": "c3bc08fd5820204d6722f649e29e089d9d333b528046d368e5aa64790d8c77f2",
+      "visual_id": "M04-M02--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 128652,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "M04-M03",
+      "sha256": "529cf2bc02f8b04010bb86be3d34bb79d87f87a6e508e5ba016630e2ca38ce6f",
+      "visual_id": "M04-M03--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 128652,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "M04-M03",
+      "sha256": "529cf2bc02f8b04010bb86be3d34bb79d87f87a6e508e5ba016630e2ca38ce6f",
+      "visual_id": "M04-M03--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 117128,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "M04-M03",
+      "sha256": "43880f98ce4a7f9b67e250f8253f6e7b6141217fe0f3a80be3d4a5194b16737a",
+      "visual_id": "M04-M03--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 117128,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "M04-M03",
+      "sha256": "43880f98ce4a7f9b67e250f8253f6e7b6141217fe0f3a80be3d4a5194b16737a",
+      "visual_id": "M04-M03--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 113016,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "M04-M04",
+      "sha256": "b3d8cc0bb305499c22216212a2e629099c613cf0db900ea97c6c918a4c06716c",
+      "visual_id": "M04-M04--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 113016,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "M04-M04",
+      "sha256": "b3d8cc0bb305499c22216212a2e629099c613cf0db900ea97c6c918a4c06716c",
+      "visual_id": "M04-M04--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 140814,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "M04-M04",
+      "sha256": "f41fe29ca140a11b4d8170488a4473ef80a0f459bd93dcdba44c2e160ba656cb",
+      "visual_id": "M04-M04--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 140814,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "M04-M04",
+      "sha256": "f41fe29ca140a11b4d8170488a4473ef80a0f459bd93dcdba44c2e160ba656cb",
+      "visual_id": "M04-M04--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 110388,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "M04-M05",
+      "sha256": "04da6329554fa7d9c275c8bfbf467fa3ff00971efa93d9c70f78d876e7556357",
+      "visual_id": "M04-M05--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 110388,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "M04-M05",
+      "sha256": "04da6329554fa7d9c275c8bfbf467fa3ff00971efa93d9c70f78d876e7556357",
+      "visual_id": "M04-M05--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 89162,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "M04-M05",
+      "sha256": "bf253c31a599a4d971682af3ca89dd0b6804ef6a7a9228af6e86e92db88d99e8",
+      "visual_id": "M04-M05--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 89162,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "M04-M05",
+      "sha256": "bf253c31a599a4d971682af3ca89dd0b6804ef6a7a9228af6e86e92db88d99e8",
+      "visual_id": "M04-M05--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 124980,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "M04-M06",
+      "sha256": "ad43df0722e8dca87f459b4a57c104af2cd50d8118d923cec8e881274cbbb0c7",
+      "visual_id": "M04-M06--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 124980,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "M04-M06",
+      "sha256": "ad43df0722e8dca87f459b4a57c104af2cd50d8118d923cec8e881274cbbb0c7",
+      "visual_id": "M04-M06--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 175402,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "M04-M06",
+      "sha256": "14b83b36175d51c1c9a29b3b6ed1542f93393aa1b4046e85beb0e4bd202d886a",
+      "visual_id": "M04-M06--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 175402,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "M04-M06",
+      "sha256": "14b83b36175d51c1c9a29b3b6ed1542f93393aa1b4046e85beb0e4bd202d886a",
+      "visual_id": "M04-M06--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 118286,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "M04-M07",
+      "sha256": "694e95475cc72e67bfa7705ac3e97a315818efdb606e30f48ba8a7db179cfe89",
+      "visual_id": "M04-M07--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 118286,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "M04-M07",
+      "sha256": "694e95475cc72e67bfa7705ac3e97a315818efdb606e30f48ba8a7db179cfe89",
+      "visual_id": "M04-M07--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 127038,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "M04-M07",
+      "sha256": "c476b89d0da6b6f9904192ffc1831577c26bebf35235e9fd14fc6bb5e526b20b",
+      "visual_id": "M04-M07--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 127038,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "M04-M07",
+      "sha256": "c476b89d0da6b6f9904192ffc1831577c26bebf35235e9fd14fc6bb5e526b20b",
+      "visual_id": "M04-M07--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 162214,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "en",
+      "mission_id": "M04-M08",
+      "sha256": "f2e5e96433b587341b09219cf0f1a15f612ab474c02025d3569ec56e13ceb720",
+      "visual_id": "M04-M08--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 162214,
+      "format": "image/webp",
+      "height": 675,
+      "locale": "ms",
+      "mission_id": "M04-M08",
+      "sha256": "f2e5e96433b587341b09219cf0f1a15f612ab474c02025d3569ec56e13ceb720",
+      "visual_id": "M04-M08--story-opening",
+      "width": 1200
+    },
+    {
+      "bytes": 107220,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "en",
+      "mission_id": "M04-M08",
+      "sha256": "a0b0c45df4395d518bfbb27cbd97db6ed1f9c573ff011e406ee3abf53ff29e02",
+      "visual_id": "M04-M08--story-closer",
+      "width": 1200
+    },
+    {
+      "bytes": 107220,
+      "format": "image/webp",
+      "height": 800,
+      "locale": "ms",
+      "mission_id": "M04-M08",
+      "sha256": "a0b0c45df4395d518bfbb27cbd97db6ed1f9c573ff011e406ee3abf53ff29e02",
+      "visual_id": "M04-M08--story-closer",
+      "width": 1200
+    }
+  ],
+  "baseline_commit": "e9e10d359d2e3005ea39730b9dae1cc8c238a65a",
+  "code_manifest_hash": "3c2df639c9dfb85d6cda755ffd86e457f430a0ef7829cdc9ce172ba11aac2f3d",
+  "excluded_section_ids": [
+    "fire-m05-detail-3",
+    "m02-m02-detail-4",
+    "m02-m03-detail-4",
+    "m02-m04-detail-4",
+    "m02-m05-detail-4"
+  ],
+  "format": "ksda-reading-content-manifest-v1",
+  "missions": [
+    {
+      "block_count": 10,
+      "course_key": "fire-life-safety",
+      "database_slug": "fire-life-safety-awareness",
+      "mission_id": "fire-m01",
+      "question_ids": [
+        "fire-m01-q1",
+        "fire-m01-q2"
+      ],
+      "revision_hash": "2b4b998838142f7645d0ec979ed07b58850a8f40d35f5af4c7956112047796c5",
+      "section_ids": [
+        "fire-m01-detail-1",
+        "fire-m01-detail-2",
+        "fire-m01-detail-3",
+        "fire-m01-detail-4",
+        "fire-m01-detail-5"
+      ],
+      "title": {
+        "en": "Notice what normal hides",
+        "ms": "Perhatikan risiko yang sering terlepas pandang"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "fire-life-safety",
+      "database_slug": "fire-life-safety-awareness",
+      "mission_id": "fire-m02",
+      "question_ids": [
+        "fire-m02-q1",
+        "fire-m02-q2"
+      ],
+      "revision_hash": "44119cb8fd6b0c1ef6dfc952f1d50f820a55d7b42519da16bff0b7308976fb0e",
+      "section_ids": [
+        "fire-m02-detail-1",
+        "fire-m02-source-awareness-1",
+        "fire-m02-detail-2",
+        "fire-m02-detail-3",
+        "fire-m02-detail-4",
+        "fire-m02-detail-5"
+      ],
+      "title": {
+        "en": "Turn a risk into a safer routine",
+        "ms": "Tangani risiko melalui rutin yang lebih selamat"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "fire-life-safety",
+      "database_slug": "fire-life-safety-awareness",
+      "mission_id": "fire-m03",
+      "question_ids": [
+        "fire-m03-q1",
+        "fire-m03-q2"
+      ],
+      "revision_hash": "2c83f5c77e379588634d6885da4a245989819a43a6725bd750061379695f4c99",
+      "section_ids": [
+        "fire-m03-detail-1",
+        "fire-m03-source-awareness-1",
+        "fire-m03-detail-2",
+        "fire-m03-detail-3",
+        "fire-m03-detail-4",
+        "fire-m03-detail-5"
+      ],
+      "title": {
+        "en": "Make the plan fit the people",
+        "ms": "Pastikan pelan sesuai dengan orang yang menggunakannya"
+      }
+    },
+    {
+      "block_count": 10,
+      "course_key": "fire-life-safety",
+      "database_slug": "fire-life-safety-awareness",
+      "mission_id": "fire-m04",
+      "question_ids": [
+        "fire-m04-q1",
+        "fire-m04-q2"
+      ],
+      "revision_hash": "23ee542dd99becd777bd449282383a1ea6e399266456d72ee9c1b14e0303fa2d",
+      "section_ids": [
+        "fire-m04-detail-1",
+        "fire-m04-detail-2",
+        "fire-m04-detail-3",
+        "fire-m04-detail-4",
+        "fire-m04-detail-5"
+      ],
+      "title": {
+        "en": "Rehearse, notice, improve",
+        "ms": "Latih, perhatikan dan tambah baik"
+      }
+    },
+    {
+      "block_count": 10,
+      "course_key": "fire-life-safety",
+      "database_slug": "fire-life-safety-awareness",
+      "mission_id": "fire-m05",
+      "question_ids": [
+        "fire-m05-q1",
+        "fire-m05-q2"
+      ],
+      "revision_hash": "a6df69fe276c090a5d422c905786666d166a94ad17188699e29324f18ead3a90",
+      "section_ids": [
+        "fire-m05-detail-1",
+        "fire-m05-source-awareness-1",
+        "fire-m05-detail-2",
+        "fire-m05-detail-4",
+        "fire-m05-detail-5"
+      ],
+      "title": {
+        "en": "Put judgement before equipment",
+        "ms": "Utamakan pertimbangan sebelum menggunakan peralatan"
+      }
+    },
+    {
+      "block_count": 11,
+      "course_key": "fire-life-safety",
+      "database_slug": "fire-life-safety-awareness",
+      "mission_id": "fire-m06",
+      "question_ids": [
+        "fire-m06-q1",
+        "fire-m06-q2"
+      ],
+      "revision_hash": "6ee82131a12187382936bbb8376289dee05d44da781d639f98d2d97d44809155",
+      "section_ids": [
+        "fire-m06-detail-1",
+        "fire-m06-detail-2",
+        "fire-m06-detail-3",
+        "fire-m06-detail-4",
+        "fire-m06-detail-5"
+      ],
+      "title": {
+        "en": "Correct a myth. Carry it forward.",
+        "ms": "Betulkan salah tanggapan. Bawa pembelajaran itu ke langkah seterusnya."
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "first-aid-cpr-aed",
+      "database_slug": "first-aid-cpr-aed-awareness",
+      "mission_id": "m02-m01",
+      "question_ids": [
+        "m02-m01-q1",
+        "m02-m01-q2"
+      ],
+      "revision_hash": "47d85dceafd6495ae7cb9654f11bf0fce82dcc3a38eadac4eb69adca1e56f70e",
+      "section_ids": [
+        "m02-m01-detail-1",
+        "m02-m01-detail-2",
+        "m02-m01-detail-3",
+        "m02-m01-detail-4",
+        "m02-m01-detail-5",
+        "m02-m01-detail-6"
+      ],
+      "title": {
+        "en": "Begin safely. Make the call.",
+        "ms": "Mulakan dengan selamat. Buat panggilan."
+      }
+    },
+    {
+      "block_count": 13,
+      "course_key": "first-aid-cpr-aed",
+      "database_slug": "first-aid-cpr-aed-awareness",
+      "mission_id": "m02-m02",
+      "question_ids": [
+        "m02-m02-q1",
+        "m02-m02-q2"
+      ],
+      "revision_hash": "2f10e5bca2c2002f72910ab7d4f22691682fc279b6a9474efd2e5d8b904112e9",
+      "section_ids": [
+        "m02-m02-detail-1",
+        "m02-m02-verified-adult-awareness",
+        "m02-m02-detail-2",
+        "m02-m02-detail-3",
+        "m02-m02-detail-5",
+        "m02-m02-detail-6"
+      ],
+      "title": {
+        "en": "Recognise the response pathway",
+        "ms": "Kenali langkah tindak balas"
+      }
+    },
+    {
+      "block_count": 13,
+      "course_key": "first-aid-cpr-aed",
+      "database_slug": "first-aid-cpr-aed-awareness",
+      "mission_id": "m02-m03",
+      "question_ids": [
+        "m02-m03-q1",
+        "m02-m03-q2"
+      ],
+      "revision_hash": "23ffb64f84343f8f942e080bb61305ed5d23594c2401da7d6faa1437cf73e592",
+      "section_ids": [
+        "m02-m03-detail-1",
+        "m02-m03-verified-adult-awareness",
+        "m02-m03-detail-2",
+        "m02-m03-detail-3",
+        "m02-m03-detail-5",
+        "m02-m03-detail-6"
+      ],
+      "title": {
+        "en": "Understand the CPR–AED team",
+        "ms": "Fahami kerjasama pasukan CPR–AED"
+      }
+    },
+    {
+      "block_count": 13,
+      "course_key": "first-aid-cpr-aed",
+      "database_slug": "first-aid-cpr-aed-awareness",
+      "mission_id": "m02-m04",
+      "question_ids": [
+        "m02-m04-q1",
+        "m02-m04-q2"
+      ],
+      "revision_hash": "46584bb2d9b67468af9fd03581cab17107ab0d0cebad52d2641a27f730924472",
+      "section_ids": [
+        "m02-m04-detail-1",
+        "m02-m04-verified-adult-awareness",
+        "m02-m04-detail-2",
+        "m02-m04-detail-3",
+        "m02-m04-detail-5",
+        "m02-m04-detail-6"
+      ],
+      "title": {
+        "en": "Notice when choking changes",
+        "ms": "Perhatikan perubahan keadaan tercekik"
+      }
+    },
+    {
+      "block_count": 13,
+      "course_key": "first-aid-cpr-aed",
+      "database_slug": "first-aid-cpr-aed-awareness",
+      "mission_id": "m02-m05",
+      "question_ids": [
+        "m02-m05-q1",
+        "m02-m05-q2"
+      ],
+      "revision_hash": "854a8d7d76a5ccffb55ea142dc3688b1c1e9ee21b319318fc2ce186f300206a3",
+      "section_ids": [
+        "m02-m05-detail-1",
+        "m02-m05-verified-adult-awareness",
+        "m02-m05-detail-2",
+        "m02-m05-detail-3",
+        "m02-m05-detail-5",
+        "m02-m05-detail-6"
+      ],
+      "title": {
+        "en": "Prioritise an injury response",
+        "ms": "Tetapkan keutamaan tindak balas terhadap kecederaan"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "first-aid-cpr-aed",
+      "database_slug": "first-aid-cpr-aed-awareness",
+      "mission_id": "m02-m06",
+      "question_ids": [
+        "m02-m06-q1",
+        "m02-m06-q2"
+      ],
+      "revision_hash": "d434d343ed52e068742d3dde3a9ba7036113f66862b5a8af6a317fd83f58fd26",
+      "section_ids": [
+        "m02-m06-detail-1",
+        "m02-m06-detail-2",
+        "m02-m06-detail-3",
+        "m02-m06-detail-4",
+        "m02-m06-detail-5",
+        "m02-m06-detail-6"
+      ],
+      "title": {
+        "en": "Rehearse the whole scene",
+        "ms": "Latih keseluruhan situasi"
+      }
+    },
+    {
+      "block_count": 10,
+      "course_key": "first-aid-cpr-aed",
+      "database_slug": "first-aid-cpr-aed-awareness",
+      "mission_id": "m02-m07",
+      "question_ids": [
+        "m02-m07-q1",
+        "m02-m07-q2"
+      ],
+      "revision_hash": "23d1474db565f63ec3b762fcb34f91b6690822cc50f14b47c38b0db73d3df8a5",
+      "section_ids": [
+        "m02-m07-detail-1",
+        "m02-m07-detail-2",
+        "m02-m07-detail-3",
+        "m02-m07-detail-4",
+        "m02-m07-detail-5"
+      ],
+      "title": {
+        "en": "Make readiness tangible",
+        "ms": "Jadikan kesediaan lebih nyata"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "online-security-fraud-prevention",
+      "database_slug": "online-security-fraud-prevention",
+      "mission_id": "m03.m01",
+      "question_ids": [
+        "m03.m01-q1",
+        "m03.m01-q2"
+      ],
+      "revision_hash": "f07c45f51db84dfc02784390782de5396b10fef2300467c0d2dab60ba1be906a",
+      "section_ids": [
+        "m03.m01-detail-1",
+        "m03.m01-detail-2",
+        "m03.m01-detail-3",
+        "m03.m01-detail-4",
+        "m03.m01-detail-5",
+        "m03.m01-detail-6"
+      ],
+      "title": {
+        "en": "Find the accounts that matter",
+        "ms": "Kenal pasti akaun yang paling penting"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "online-security-fraud-prevention",
+      "database_slug": "online-security-fraud-prevention",
+      "mission_id": "m03.m02",
+      "question_ids": [
+        "m03.m02-q1",
+        "m03.m02-q2"
+      ],
+      "revision_hash": "c432b1fa553291622135bc6ef967394d67662122acab5e0558a8d863987fee76",
+      "section_ids": [
+        "m03.m02-detail-1",
+        "m03.m02-detail-2",
+        "m03.m02-detail-3",
+        "m03.m02-detail-4",
+        "m03.m02-detail-5",
+        "m03.m02-detail-6"
+      ],
+      "title": {
+        "en": "Interrupt the pressure",
+        "ms": "Hentikan tekanan sebelum membuat keputusan"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "online-security-fraud-prevention",
+      "database_slug": "online-security-fraud-prevention",
+      "mission_id": "m03.m03",
+      "question_ids": [
+        "m03.m03-q1",
+        "m03.m03-q2"
+      ],
+      "revision_hash": "51c777e6794dabd860bcef59ff8418aa5a1c578ce13f9eaec0a6f661df0d064b",
+      "section_ids": [
+        "m03.m03-detail-1",
+        "m03.m03-detail-2",
+        "m03.m03-detail-3",
+        "m03.m03-detail-4",
+        "m03.m03-detail-5",
+        "m03.m03-detail-6"
+      ],
+      "title": {
+        "en": "Protect access and recovery",
+        "ms": "Lindungi akses dan pemulihan akaun"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "online-security-fraud-prevention",
+      "database_slug": "online-security-fraud-prevention",
+      "mission_id": "m03.m04",
+      "question_ids": [
+        "m03.m04-q1",
+        "m03.m04-q2"
+      ],
+      "revision_hash": "fab8aa4711464bca502d7464e6e92559c5111c6cad281b7eb741612b525d747f",
+      "section_ids": [
+        "m03.m04-detail-1",
+        "m03.m04-detail-2",
+        "m03.m04-detail-3",
+        "m03.m04-detail-4",
+        "m03.m04-detail-5",
+        "m03.m04-detail-6"
+      ],
+      "title": {
+        "en": "Verify the connection and destination",
+        "ms": "Sahkan sambungan dan destinasi"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "online-security-fraud-prevention",
+      "database_slug": "online-security-fraud-prevention",
+      "mission_id": "m03.m05",
+      "question_ids": [
+        "m03.m05-q1",
+        "m03.m05-q2"
+      ],
+      "revision_hash": "9fa6f80e9c369e7708c911c11652390449afe2929adee88ddeba7b6ce71215f7",
+      "section_ids": [
+        "m03.m05-detail-1",
+        "m03.m05-detail-2",
+        "m03.m05-detail-3",
+        "m03.m05-detail-4",
+        "m03.m05-detail-5",
+        "m03.m05-detail-6"
+      ],
+      "title": {
+        "en": "Reduce the impersonation script",
+        "ms": "Kurangkan maklumat yang boleh digunakan untuk penyamaran"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "online-security-fraud-prevention",
+      "database_slug": "online-security-fraud-prevention",
+      "mission_id": "m03.m06",
+      "question_ids": [
+        "m03.m06-q1",
+        "m03.m06-q2"
+      ],
+      "revision_hash": "ffde2f38ab6ed6f649999199903a2c80b26a63ec0b35321eef20412a5262a036",
+      "section_ids": [
+        "m03.m06-detail-1",
+        "m03.m06-detail-2",
+        "m03.m06-detail-3",
+        "m03.m06-detail-4",
+        "m03.m06-detail-5",
+        "m03.m06-detail-6"
+      ],
+      "title": {
+        "en": "Rehearse a calm response",
+        "ms": "Latih tindak balas yang tenang"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "online-security-fraud-prevention",
+      "database_slug": "online-security-fraud-prevention",
+      "mission_id": "m03.m07",
+      "question_ids": [
+        "m03.m07-q1",
+        "m03.m07-q2"
+      ],
+      "revision_hash": "2c590a75f7359d5bb0cb74aec31f83355093cc592316448cf13d167e3a8e881b",
+      "section_ids": [
+        "m03.m07-detail-1",
+        "m03.m07-detail-2",
+        "m03.m07-detail-3",
+        "m03.m07-detail-4",
+        "m03.m07-detail-5",
+        "m03.m07-detail-6"
+      ],
+      "title": {
+        "en": "Make verification a shared habit",
+        "ms": "Jadikan pengesahan sebagai amalan bersama"
+      }
+    },
+    {
+      "block_count": 10,
+      "course_key": "community-emergency-preparedness",
+      "database_slug": "community-emergency-preparedness",
+      "mission_id": "M04-M01",
+      "question_ids": [
+        "M04-M01-q1",
+        "M04-M01-q2"
+      ],
+      "revision_hash": "b37554debf08b08b35d1417a1ec1f164af25e55b78ad0c83ba45d5ba3ab6cff8",
+      "section_ids": [
+        "M04-M01-detail-1",
+        "M04-M01-detail-2",
+        "M04-M01-detail-3",
+        "M04-M01-detail-4",
+        "M04-M01-detail-5"
+      ],
+      "title": {
+        "en": "Replace One Assumption",
+        "ms": "Gantikan satu andaian"
+      }
+    },
+    {
+      "block_count": 10,
+      "course_key": "community-emergency-preparedness",
+      "database_slug": "community-emergency-preparedness",
+      "mission_id": "M04-M02",
+      "question_ids": [
+        "M04-M02-q1",
+        "M04-M02-q2"
+      ],
+      "revision_hash": "fafa0f2a263610b68385de7b13b42d6b19c8be7a3f423cfa40269c631430a7ec",
+      "section_ids": [
+        "M04-M02-detail-1",
+        "M04-M02-detail-2",
+        "M04-M02-detail-3",
+        "M04-M02-detail-4",
+        "M04-M02-detail-5"
+      ],
+      "title": {
+        "en": "Read the Risk, Not the Rumour",
+        "ms": "Fahami risiko, bukan khabar angin"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "community-emergency-preparedness",
+      "database_slug": "community-emergency-preparedness",
+      "mission_id": "M04-M03",
+      "question_ids": [
+        "M04-M03-q1",
+        "M04-M03-q2"
+      ],
+      "revision_hash": "c78bebc9a56c3c3b1f596abf5a78aacb7872757746f89433e1aeb073ab1c34d7",
+      "section_ids": [
+        "M04-M03-detail-1",
+        "M04-M03-detail-2",
+        "M04-M03-detail-3",
+        "M04-M03-detail-4",
+        "M04-M03-detail-5",
+        "M04-M03-detail-6"
+      ],
+      "title": {
+        "en": "Make Preparation Usable",
+        "ms": "Jadikan persediaan mudah digunakan"
+      }
+    },
+    {
+      "block_count": 10,
+      "course_key": "community-emergency-preparedness",
+      "database_slug": "community-emergency-preparedness",
+      "mission_id": "M04-M04",
+      "question_ids": [
+        "M04-M04-q1",
+        "M04-M04-q2"
+      ],
+      "revision_hash": "fd736455aa3943be22c4c20a3ad7b17f778ba8466b10a814b0c8592f9f90f72f",
+      "section_ids": [
+        "M04-M04-detail-1",
+        "M04-M04-detail-2",
+        "M04-M04-detail-3",
+        "M04-M04-detail-4",
+        "M04-M04-detail-5"
+      ],
+      "title": {
+        "en": "Make the Plan Understandable",
+        "ms": "Pastikan pelan mudah difahami"
+      }
+    },
+    {
+      "block_count": 10,
+      "course_key": "community-emergency-preparedness",
+      "database_slug": "community-emergency-preparedness",
+      "mission_id": "M04-M05",
+      "question_ids": [
+        "M04-M05-q1",
+        "M04-M05-q2"
+      ],
+      "revision_hash": "75ad54ad30b707753c4fc1204bc03945c6f9d608bdd21370c22065a8fd8825d1",
+      "section_ids": [
+        "M04-M05-detail-1",
+        "M04-M05-detail-2",
+        "M04-M05-detail-3",
+        "M04-M05-detail-4",
+        "M04-M05-detail-5"
+      ],
+      "title": {
+        "en": "Say What the Listener Needs",
+        "ms": "Sampaikan maklumat yang diperlukan pendengar"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "community-emergency-preparedness",
+      "database_slug": "community-emergency-preparedness",
+      "mission_id": "M04-M06",
+      "question_ids": [
+        "M04-M06-q1",
+        "M04-M06-q2"
+      ],
+      "revision_hash": "ce006fd46d929edd66829ab22d29349f700f03c8f755fc97e72f00216e645391",
+      "section_ids": [
+        "M04-M06-detail-1",
+        "M04-M06-source-awareness-1",
+        "M04-M06-detail-2",
+        "M04-M06-detail-3",
+        "M04-M06-detail-4",
+        "M04-M06-detail-5"
+      ],
+      "title": {
+        "en": "Change the Decision When Facts Change",
+        "ms": "Ubah keputusan apabila fakta berubah"
+      }
+    },
+    {
+      "block_count": 10,
+      "course_key": "community-emergency-preparedness",
+      "database_slug": "community-emergency-preparedness",
+      "mission_id": "M04-M07",
+      "question_ids": [
+        "M04-M07-q1",
+        "M04-M07-q2"
+      ],
+      "revision_hash": "414435ae35288d64c9bf310bfe4927de0737cba0e01f4acbdd08bf2f111c2883",
+      "section_ids": [
+        "M04-M07-detail-1",
+        "M04-M07-detail-2",
+        "M04-M07-detail-3",
+        "M04-M07-detail-4",
+        "M04-M07-detail-5"
+      ],
+      "title": {
+        "en": "Help Without Adding Harm",
+        "ms": "Bantu tanpa menambah mudarat"
+      }
+    },
+    {
+      "block_count": 12,
+      "course_key": "community-emergency-preparedness",
+      "database_slug": "community-emergency-preparedness",
+      "mission_id": "M04-M08",
+      "question_ids": [
+        "M04-M08-q1",
+        "M04-M08-q2"
+      ],
+      "revision_hash": "11461e1fa21b946b33af887e657a44bcbf30d52ec0aae9630be4cc57d424023d",
+      "section_ids": [
+        "M04-M08-detail-1",
+        "M04-M08-detail-2",
+        "M04-M08-detail-3",
+        "M04-M08-detail-4",
+        "M04-M08-detail-5",
+        "M04-M08-detail-6"
+      ],
+      "title": {
+        "en": "Prove the Pack Can Be Used",
+        "ms": "Buktikan pek kesiapsiagaan boleh digunakan"
+      }
+    }
+  ],
+  "presentation": "editorial-photos-v1",
+  "progress_scope": "independent-installation",
+  "publication_approved": false,
+  "release_id": "ksda-community-example-20260929-r01-content",
+  "review": {
+    "all_mission_review_rows_pending": 28,
+    "clinical_safety_bm_approval_inferred": false,
+    "focused_decisions_pending": 13,
+    "professional_status": "PENDING",
+    "software_acceptance_is_professional_competence": false
+  },
+  "rights": {
+    "additional_use_requires_rights_review": true,
+    "attribution": "CAPAi authored awareness readings and owner-approved illustrative photographs; provenance retained.",
+    "manisme_paid_content_included": false,
+    "protected_ebooks_included": false,
+    "scope": "Owner-authorized private example derivative for tz-capai-com-my/ksda-lms-framework only. Not an unrestricted licence to publish or redistribute content, images, branding, protected ebooks or paid curriculum."
+  },
+  "source_manifest_hash": "a826beb23a0ccedfde0fdd09dbcfc13733018a314447ae77b9dd6c36a9c680ea",
+  "status": "draft",
+  "upstream": {
+    "delivery_alias": "capai-reading-20260927-r04-displayfix",
+    "published_application_commit": "2ca24e39eaf36ece10bc0aa48086ce900a797043",
+    "release_commit": "28780a22677f740776abd2251ce84015c522ca48",
+    "release_tag": "capai-live-v57-20260929",
+    "repository": "tz-capai-com-my/final-working-code-capai-lms",
+    "snapshot_path": "snapshots/capai-live-v57-20260927/content/programme-r04",
+    "source_content_hash": "3f4742c740ce895f80718e60772bf312d54ff50d05ee49b43334a2d1ea9df016",
+    "verified_content_commit": "e19f2e255aad00ddf4045cabe0a0b68b2c156592"
+  }
+}
