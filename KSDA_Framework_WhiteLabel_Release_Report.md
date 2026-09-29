@@ -2,7 +2,7 @@
 
 29 September 2026, Asia/Kuala_Lumpur.
 
-**WHITE-LABEL SOURCE READY — local checks passed; remote reference verification is recorded in the final release evidence. No deployment was performed.**
+**WHITE-LABEL SOURCE READY — source, tests and uploaded content remotely verified. Final merge/tag references are recorded in the private GitHub release and final handover report. No deployment was performed.**
 
 ## Exact upstream and derivative
 
@@ -35,3 +35,9 @@ Local browser checks passed for fire-m01, m02-m03, m03.m03 and M04-M08, includin
 ## Operational boundary
 
 LIVE application changed/published: NO. Production database/data/security/pointers changed: NO. SMTP/Auth/DNS changed: NO. CAPAi video source altered: NO. Original history/tags rewritten: NO. No third repository or AI-engine preparation was started; pre-existing unrelated work was left unchanged.
+
+## Remote retrieval evidence
+
+Uploaded branch `release/ksda-v0.2.0-20260929`, verified content commit `02e12d81bb9cb6170f83cfb984509ea9f34fe4d1`, tree `1be1ed8ed7343d0fe8dc53babcfc82a3286f2328`. All 251 remote file hashes/modes match the staged package; all 108 historical paths remain. All 95 example files (7,806,539 bytes) were independently retrieved and byte-verified, including every mission revision and photograph. Eleven further critical source/configuration/document files were retrieved and hash-verified. See [readback evidence](REMOTE-CONTENT-VERIFICATION.md) and [release references](REMOTE-RELEASE.json).
+
+[PR #1](https://github.com/tz-capai-com-my/ksda-lms-framework/pull/1) uses the normal merge route. No mandatory review requirement was observed or bypassed, and no Actions run was triggered. This report deliberately identifies the content commit separately from the subsequent metadata/merge commits. The v0.2.0 release records the final merged default-branch commit; prior v0.1.0 remains at `e9e10d359d2e3005ea39730b9dae1cc8c238a65a`.

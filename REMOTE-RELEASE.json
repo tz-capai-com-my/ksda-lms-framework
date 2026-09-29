@@ -1,8 +1,19 @@
 {
-  "status": "LOCAL_VALIDATED_REMOTE_VERIFICATION_PENDING",
+  "status": "REMOTE_CONTENT_VERIFIED",
   "repository": "tz-capai-com-my/ksda-lms-framework",
   "branch": "release/ksda-v0.2.0-20260929",
-  "predecessor_commit": "e9e10d359d2e3005ea39730b9dae1cc8c238a65a",
-  "intended_new_tag": "v0.2.0",
-  "upstream_capai_release_commit": "28780a22677f740776abd2251ce84015c522ca48"
+  "verified_content_commit": "02e12d81bb9cb6170f83cfb984509ea9f34fe4d1",
+  "verified_content_tree": "1be1ed8ed7343d0fe8dc53babcfc82a3286f2328",
+  "verified_files": 251,
+  "preserved_historical_paths": 108,
+  "remote_example_files_read_back": 95,
+  "remote_example_bytes_read_back": 7806539,
+  "critical_files_additionally_read_back": 11,
+  "prior_tag": "v0.1.0",
+  "prior_tag_commit": "e9e10d359d2e3005ea39730b9dae1cc8c238a65a",
+  "release_reference": "v0.2.0",
+  "release_url": "https://github.com/tz-capai-com-my/ksda-lms-framework/releases/tag/v0.2.0",
+  "pull_request": "https://github.com/tz-capai-com-my/ksda-lms-framework/pull/1",
+  "upstream_capai_release_commit": "28780a22677f740776abd2251ce84015c522ca48",
+  "note": "This evidence pins the verified content commit. Resolve the new release tag for its final merge commit; the release body and final handover report record that subsequent verification without a self-referential commit hash."
 }
